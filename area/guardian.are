@@ -1,0 +1,517 @@
+#AREADATA
+Name        Guardian Fortress~
+Builders    None~
+Music       default.mid~
+VNUMs       5101 5199
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#5101
+guardian defender~
+#0A Guardian Protector#n~
+#0A Guardian Protector is here.#n
+~
+~
+17 0 1000
+2006 100 10 3
+1 0
+S
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#5101
+#0Center of Guardian Fortress#n~
+~
+32 0
+D0
+~
+~
+0 0 5103
+D1
+~
+~
+0 0 5104
+D2
+~
+~
+0 0 5105
+D3
+~
+~
+0 0 5102
+S
+#5102
+#0West path through fortress#n~
+~
+0 0
+D1
+~
+~
+0 0 5101
+D3
+~
+~
+0 0 5107
+S
+#5103
+#0North path through forest#n~
+~
+0 0
+D0
+~
+~
+0 0 5108
+D2
+~
+~
+0 0 5101
+S
+#5104
+#0East path through forest#n~
+~
+0 0
+D1
+~
+~
+0 0 5109
+D3
+~
+~
+0 0 5101
+S
+#5105
+#0South path through forest#n~
+~
+0 0
+D0
+~
+~
+0 0 5101
+D2
+~
+~
+0 0 5106
+S
+#5106
+#0South path through forest#n~
+~
+0 0
+D0
+~
+~
+0 0 5105
+D2
+~
+~
+0 0 5113
+S
+#5107
+#0West path through forest#n~
+~
+0 0
+D1
+~
+~
+0 0 5102
+D3
+~
+~
+0 0 5111
+S
+#5108
+#0North path through forest#n~
+~
+0 0
+D0
+~
+~
+0 0 5112
+D2
+~
+~
+0 0 5103
+S
+#5109
+#0East path through forest#n~
+~
+0 0
+D1
+~
+~
+0 0 5110
+D3
+~
+~
+0 0 5104
+S
+#5110
+#0East Gate#n~
+~
+0 0
+D0
+~
+~
+0 0 5123
+D2
+~
+~
+0 0 5124
+D3
+~
+~
+0 0 5109
+S
+#5111
+#0West Gate#n~
+~
+0 0
+D0
+~
+~
+0 0 5118
+D1
+~
+~
+0 0 5107
+D2
+~
+~
+0 0 5133
+S
+#5112
+#0North Gate#n~
+~
+0 0
+D1
+~
+~
+0 0 5119
+D2
+~
+~
+0 0 5108
+D3
+~
+~
+0 0 5114
+S
+#5113
+#0South Gate#n~
+~
+0 0
+D0
+~
+~
+0 0 5106
+D1
+~
+~
+0 0 5128
+D3
+~
+~
+0 0 5129
+S
+#5114
+#0North Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5112
+D3
+~
+~
+0 0 5115
+S
+#5115
+#0North Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5114
+D3
+~
+~
+0 0 5116
+S
+#5116
+#0North-West Corner#n~
+~
+0 0
+D1
+~
+~
+0 0 5115
+D2
+~
+~
+0 0 5117
+S
+#5117
+#0West Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5116
+D2
+~
+~
+0 0 5118
+S
+#5118
+#0West Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5117
+D2
+~
+~
+0 0 5111
+S
+#5119
+#0North Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5120
+D3
+~
+~
+0 0 5112
+S
+#5120
+#0North Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5121
+D3
+~
+~
+0 0 5119
+S
+#5121
+#0North-East Corner#n~
+~
+0 0
+D2
+~
+~
+0 0 5122
+D3
+~
+~
+0 0 5120
+S
+#5122
+#0East Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5121
+D2
+~
+~
+0 0 5123
+S
+#5123
+#0East Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5122
+D2
+~
+~
+0 0 5110
+S
+#5124
+#0East Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5110
+D2
+~
+~
+0 0 5125
+S
+#5125
+#0East Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5124
+D2
+~
+~
+0 0 5126
+S
+#5126
+#0South-East Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5125
+D3
+~
+~
+0 0 5127
+S
+#5127
+#0South Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5126
+D3
+~
+~
+0 0 5128
+S
+#5128
+#0South Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5127
+D3
+~
+~
+0 0 5113
+S
+#5129
+#0South Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5113
+D3
+~
+~
+0 0 5130
+S
+#5130
+#0South Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5129
+D3
+~
+~
+0 0 5131
+S
+#5131
+#0South-West Corner#n~
+~
+0 0
+D0
+~
+~
+0 0 5132
+D1
+~
+~
+0 0 5130
+S
+#5132
+#0West Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5133
+D2
+~
+~
+0 0 5131
+S
+#5133
+#0West Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5111
+D2
+~
+~
+0 0 5132
+S
+#0
+
+
+
+#SPECIALS
+M 5101 spec_guard_guardian
+S
+
+
+
+#RESETS
+M 0 5101 50 5101
+M 0 5101 50 5101
+M 0 5101 50 5101
+M 0 5101 50 5110
+M 0 5101 50 5110
+M 0 5101 50 5110
+M 0 5101 50 5111
+M 0 5101 50 5111
+M 0 5101 50 5111
+M 0 5101 50 5112
+M 0 5101 50 5112
+M 0 5101 50 5112
+M 0 5101 50 5113
+M 0 5101 50 5113
+M 0 5101 50 5113
+S
+
+
+
+#$

@@ -1,0 +1,518 @@
+#AREADATA
+Name        Dark Hand Fortress~
+Builders    None~
+Music       default.mid~
+VNUMs       5200 5299
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#5200
+dark hand guard protector~
+#0Dark Hand Protector#n~
+#0A Dark Hand Protector is here.#n
+~
+~
+17 128 -250
+1998 100 10 3
+1 0
+S
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#5200
+#0Center of Dark Hand Fortress#n~
+~
+0 0
+D0
+~
+~
+0 0 5204
+D1
+~
+~
+0 0 5207
+D2
+~
+~
+0 0 5210
+D3
+~
+~
+0 0 5201
+S
+#5201
+#0West Path through Fortress#n~
+~
+0 0
+D1
+~
+~
+0 0 5200
+D3
+~
+~
+0 0 5202
+S
+#5202
+#0West Path through Fortress#n~
+~
+0 0
+D1
+~
+~
+0 0 5201
+D3
+~
+~
+0 0 5203
+S
+#5203
+#0West Gate#n~
+~
+0 0
+D0
+~
+~
+0 0 5217
+D1
+~
+~
+0 0 5202
+D2
+~
+~
+0 0 5232
+S
+#5204
+#0North Path through Fortress#n~
+~
+0 0
+D0
+~
+~
+0 0 5205
+D2
+~
+~
+0 0 5200
+S
+#5205
+#0North Path through Fortress#n~
+~
+0 0
+D0
+~
+~
+0 0 5206
+D2
+~
+~
+0 0 5204
+S
+#5206
+#0North Gate#n~
+~
+0 0
+D1
+~
+~
+0 0 5218
+D2
+~
+~
+0 0 5205
+D3
+~
+~
+0 0 5213
+S
+#5207
+#0East Path through Fortress#n~
+~
+0 0
+D1
+~
+~
+0 0 5208
+D3
+~
+~
+0 0 5200
+S
+#5208
+#0East Path through Fortress#n~
+~
+0 0
+D1
+~
+~
+0 0 5209
+D3
+~
+~
+0 0 5207
+S
+#5209
+#0East Gate#n~
+~
+0 0
+D0
+~
+~
+0 0 5222
+D2
+~
+~
+0 0 5223
+D3
+~
+~
+0 0 5208
+S
+#5210
+#0South Path through Fortress#n~
+~
+0 0
+D0
+~
+~
+0 0 5200
+D2
+~
+~
+0 0 5211
+S
+#5211
+#0South Path through Fortress#n~
+~
+0 0
+D0
+~
+~
+0 0 5210
+D2
+~
+~
+0 0 5212
+S
+#5212
+#0South Gate#n~
+~
+0 0
+D0
+~
+~
+0 0 5211
+D1
+~
+~
+0 0 5227
+D3
+~
+~
+0 0 5228
+S
+#5213
+#0North Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5206
+D3
+~
+~
+0 0 5214
+S
+#5214
+#0North Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5213
+D3
+~
+~
+0 0 5215
+S
+#5215
+#0North-West Corner#n~
+~
+0 0
+D1
+~
+~
+0 0 5214
+D2
+~
+~
+0 0 5216
+S
+#5216
+#0West Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5215
+D2
+~
+~
+0 0 5217
+S
+#5217
+#0West Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5216
+D2
+~
+~
+0 0 5203
+S
+#5218
+#0North Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5219
+D3
+~
+~
+0 0 5206
+S
+#5219
+#0North Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5220
+D3
+~
+~
+0 0 5218
+S
+#5220
+#0North-Eastern Corner#n~
+~
+0 0
+D2
+~
+~
+0 0 5221
+D3
+~
+~
+0 0 5219
+S
+#5221
+#0East Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5220
+D2
+~
+~
+0 0 5222
+S
+#5222
+#0East Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5221
+D2
+~
+~
+0 0 5209
+S
+#5223
+#0East Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5209
+D2
+~
+~
+0 0 5224
+S
+#5224
+#0East Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5223
+D2
+~
+~
+0 0 5225
+S
+#5225
+#0South-Eastern Corner#n~
+~
+0 0
+D0
+~
+~
+0 0 5224
+D3
+~
+~
+0 0 5226
+S
+#5226
+#0South Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5225
+D3
+~
+~
+0 0 5227
+S
+#5227
+#0South Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5226
+D3
+~
+~
+0 0 5212
+S
+#5228
+#0South Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5212
+D3
+~
+~
+0 0 5229
+S
+#5229
+#0South Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 5228
+D3
+~
+~
+0 0 5230
+S
+#5230
+#0South-West Corner#n~
+~
+0 0
+D0
+~
+~
+0 0 5231
+D1
+~
+~
+0 0 5229
+S
+#5231
+#0West Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5232
+D2
+~
+~
+0 0 5230
+S
+#5232
+#0West Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 5203
+D2
+~
+~
+0 0 5231
+S
+#0
+
+
+
+#SPECIALS
+M 5200 spec_guard_dark_hand
+S
+
+
+
+#RESETS
+M 0 5200 50 5200
+M 0 5200 50 5200
+M 0 5200 50 5200
+M 0 5200 50 5203
+M 0 5200 50 5203
+M 0 5200 50 5203
+M 0 5200 50 5206
+M 0 5200 50 5206
+M 0 5200 50 5206
+M 0 5200 50 5209
+M 0 5200 50 5209
+M 0 5200 50 5209
+M 0 5200 50 5209
+M 0 5200 50 5212
+M 0 5200 50 5212
+M 0 5200 50 5212
+S
+
+
+
+#$

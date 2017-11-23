@@ -1,0 +1,2316 @@
+#AREADATA
+Name        Lacynos~
+Builders    Hayame Xrakisis Palin~
+Music       default.mid~
+VNUMs       2001 3000
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#2001
+female minotaur fighter~
+#0A #cFemale #RM#ri#Rn#ro#Rt#ra#Ru#rr #0Fighter#n~
+#0A #cFemale #RM#ri#Rn#ro#Rt#ra#Ru#rr #0Fighter stands here. #n
+~
+~
+1 0 0
+21 0 0 0
+2 0
+S
+#2002
+minotaur patrolman~
+#0A #RM#ri#Rn#ro#Rt#ra#Ru#rr #PP#pa#Pt#pr#Po#pl#Pm#pa#Pn#n~
+#0A #RM#ri#Rn#ro#Rt#ra#Ru#rr #PP#pa#Pt#pr#Po#pl#Pm#pa#Pn#n #0 stands here.#n
+~
+~
+1 0 0
+41 0 0 0
+1 0
+S
+#2003
+iron golem~
+#0An Iron #GGolem#n~
+#0An Iron #GGolem#n #0stands here, still as a statue.#n
+~
+~
+3 0 0
+905 100 0 0
+1 0
+S
+#2008
+Xristhes~
+#RX#rristhes#n~
+#RX#rristhes#n the merchant stands here.
+~
+~
+3 0 0
+495 0 0 0
+0 0
+S
+#2009
+illara~
+#0Illara The #GH#gi#Gg#gh #GE#gl#Gf#0, #yFighter#R-#yMage #yBlacksmith#n~
+#0Illara The #GH#gi#Gg#gh #GE#gl#Gf#0, #yFighter#R-#yMage #yBlacksmith#0 is here.#n
+~
+~
+3 0 0
+285 0 0 0
+2 0
+S
+#2010
+forge the blacksmith dwarven~
+#yForge#0 The Dwarven #0Black#ySmith#n~
+#yForge#0 The Dwarven #0Black#ySmith stands here.#n
+~
+~
+3 1 0
+498 0 0 0
+1 0
+S
+#2011
+minotaur captain guard~
+#0The #GC#ga#Gp#gt#Ga#gi#Gn #oof the #RM#ri#Rn#ro#Rt#ra#Ru#rr#0 Guard.#n~
+#0The #GC#ga#Gp#gt#Ga#gi#Gn #oof the #RM#ri#Rn#ro#Rt#ra#Ru#rr#0 Guard is here.#n
+~
+~
+1 0 -1000
+32 0 0 0
+1 0
+S
+#2012
+Thordin the jeweler~
+#YT#yh#Yo#yr#Yd#yi#Yn #0the #CJ#ce#Cw#ce#Cl#ce#Cr#n~
+#YT#yh#Yo#yr#Yd#yi#Yn #0the #CJ#ce#Cw#ce#Cl#ce#Cr#0 is here.#n
+~
+~
+3 0 -250
+492 0 0 0
+1 0
+S
+#2013
+Konur miner~
+#yKonur#n~
+#yKonur #0stands here selling stone.#n
+~
+~
+3 0 0
+498 0 0 0
+1 0
+S
+#2016
+no name~
+(no short description)~
+(no long description)
+~
+~
+1 8388608 0
+13 0 0 0
+0 0
+S
+#2017
+Draxthees~
+#RD#rraxthee#Rs #Gt#gh#Ge #RM#Yi#Rn#Yo#Rt#Ya#Ru#Yr#n~
+#RD#rraxthee#Rs #Gt#gh#Ge #RM#Yi#Rn#Yo#Rt#Ya#Ru#Yr#n is here.
+~
+~
+3 0 -250
+3000 100 5 3
+1 0
+S
+#2018
+igor~
+#7Igor#n~
+#7Igore, #Lthe #7Rare#L item merchant is here#n.
+~
+~
+3 0 -200
+496 0 0 0
+1 0
+S
+#2030
+bruce~
+#cBruce#n~
+#0Bruce is sitting here, sharpening his horns#n
+~
+~
+3 0 -1000
+44 0 0 0
+1 0
+S
+#2031
+illusion~
+An Illusion~
+An illusion
+~
+~
+1 0 0
+6 0 0 0
+0 0
+S
+#2900
+temple guardian~
+#0E#glit#0e #g[#RM#rinotau#Rr#g] #0T#gempl#0e #gG#0uardia#gn#n~
+#0E#glit#0e #g[#RM#rinotau#Rr#g] #0T#gempl#0e #gG#0uardia#gn#n
+~
+~
+3 40 1000
+37 1 0 2
+1 0
+S
+#2901
+abilasha archer~
+#r[#yWild#gE#Glf#r] #cA#Cbilasha #7t#0he #pf#Pemale #oA#yrcher#n~
+#r[#yWild#gE#Glf#r] #cA#Cbilasha #7t#0he #pf#Pemale #oA#yrcher#n
+~
+~
+19 2097192 0
+20 -20 1 1
+2 0
+S
+#2902
+isti hobgoblin monk~
+#r[#gHob#Ggoblin#r] #lIst#Li #7t#0he #7Ma#ost#yer #CMonk#n~
+#r[#gHob#Ggoblin#r] #lIst#Li #7t#0he #7Ma#ost#yer #CMonk#n
+~
+~
+19 2097192 0
+37 -50 2 0
+1 0
+S
+#2903
+utapart alchemist~
+#r[#GH#galf#9-#gE#Glf#r] #gU#Gtapart #9t#0he #oA#9lchemist#n~
+#r[#GH#galf#9-#gE#Glf#r] #gU#Gtapart #9t#0he #oA#9lchemist#n
+~
+~
+3 40 0
+34 -20 2 0
+1 0
+S
+#2904
+patsuz orc nightblade~
+#o[#ROr#Rc#o] #yPat#osuz #9t#0he #Rhell#rish #0Night#rblade#n.~
+#o[#ROr#Rc#o] #yPat#osuz #9t#0he #Rhell#rish #0Night#rblade#n.
+~
+~
+3 2097192 0
+32 -30 3 1
+1 0
+S
+#2905
+kijimi dragonkind~
+#o[#RDragon#0Kind#o] #oKi#9jimi#7, #RD#9evi#Rl #RS#9paw#Rn#n~
+#o[#RDragon#0Kind#o] #oKi#9jimi#7, #RD#9evi#Rl #RS#9paw#Rn#n
+~
+~
+3 2097192 0
+36 -40 2 1
+1 0
+S
+#2906
+minotaur corsair~
+#9a #o[#RM#rinotau#Rr#o] #9Corsair#n~
+#9a faithful #o[#RM#rinotau#Rr#o] #9Corsair#n
+~
+~
+3 0 0
+32 -10 1 1
+1 0
+S
+#2907
+human master duels~
+#9a #o[#9Human#o] #9Master of Duels#n~
+#9a desolate #o[#9Human#o] #9Master of Duels#n
+~
+~
+3 0 0
+28 -10 1 1
+1 0
+S
+#2908
+half ogre lancer~
+#9a #o[#GH#galf#GO#ggre#o] #9Lancer#n~
+#9a wretched #o[#GH#galf#GO#ggre#o] #9Lancer#n
+~
+~
+3 2097192 0
+44 -10 1 1
+1 0
+S
+#2909
+dragonkind elemental~
+#9a #o[#RDragon#0Kind#o] #sE#sl#se#sm#se#sn#st#sa#sl#n~
+#9a powerful #o[#RDragon#0Kind#o] #sE#sl#se#sm#se#sn#st#sa#sl#n
+~
+~
+3 2097192 0
+47 -10 1 1
+1 0
+S
+#2910
+mountain dwarf berserker~
+#9a #o[#gM#oountain#gDwarf#o] #9Berserker#n~
+#9an enraged #o[#gM#oountain#gDwarf#o] #9Berserker#n
+~
+~
+3 2097192 0
+34 -10 1 1
+1 0
+S
+#2911
+drow dragonslayer~
+#9a #o[#0Drow#o] #RD#rragon#0Slayer#n~
+#9a hardcore #o[#0Drow#o] #RD#rragon#0Slaye#0r#n
+~
+~
+3 2097192 0
+53 -10 1 1
+0 0
+S
+#2912
+giant soulbender~
+#9a #o[#GGiant#o] #9S#0oul#9B#0ender#N~
+#9a half-geo #o[#GGiant#o] #9S#0oul#9B#0ender#N
+~
+~
+3 2097192 0
+45 -10 1 1
+0 0
+S
+#2913
+hobbit shadow~
+#9a #0[#oHobbit#0] #9S#0hado#9w~
+#9an #0X#9Killer #0[#oHobbit#0] #9S#0hado#9w
+~
+~
+3 2097192 0
+46 -10 1 1
+0 0
+S
+#0
+
+
+
+#OBJECTS
+#2001
+a black leath belt brass buckle~
+#0A #oleather #cBelt #0with a #yBrass #0Buckle#n~
+#0A #oleather #cBelt #0with a #yBrass #0Buckle#n is here.~
+11
+7 1 2049
+10 0 0 0
+4 30
+A
+18 30
+A
+19 30
+A
+13 200
+#2002
+steel cutlas~
+#0A #c[#7STEEL#c] #0Cutlas#n~
+#0A #c[#7STEEL#c] #0Cutlas is here.#n~
+4
+5 1 8193
+0 30 50 3
+1 54
+A
+18 20
+A
+19 20
+#2003
+patrolmans iron mace~
+#0A #PP#pa#Pt#pr#Po#pl#Pm#pa#Pn#ps #c[#7IRON#c] #0Mace#n~
+#0A #PP#pa#Pt#pr#Po#pl#Pm#pa#Pn#ps #c[#7IRON#c] #0Mace is here.#n~
+4
+5 0 8193
+0 30 40 10
+15 150
+A
+18 40
+A
+19 40
+#2004
+patrolmans iron mace~
+#0A #PP#pa#Pt#pr#Po#pl#Pm#pa#Pn#ps #c[#7IRON#c] #0Mace#n~
+#0A #PP#pa#Pt#pr#Po#pl#Pm#pa#Pn#ps #c[#7IRON#c] #0Mace is here.#n~
+4
+5 3 8193
+0 30 2 10
+15 150
+A
+18 40
+A
+19 40
+#2005
+a patrolmans iron mace~
+#0A #PP#pa#Pt#pr#Po#pl#Pm#pa#Pn#ps #c[#7IRON#c] #0Mace#n~
+#0A #PP#pa#Pt#pr#Po#pl#Pm#pa#Pn#ps #c[#7IRON#c] #0Mace is here.#n~
+4
+5 3 8193
+0 30 2 10
+15 150
+A
+18 53
+A
+19 30
+#2006
+chain whip~
+#0A #c[#7STEEL#c] #oChain #0Whip#n~
+#0A #c[#7STEEL#c] #oChain #0Whip is here. #n~
+4
+5 3 8193
+0 40 2 11
+5 145
+A
+18 20
+A
+19 50
+#2007
+newbie broadsword~
+#0A #oCommon #0Broadsword#n~
+#0A #oCommon #0Broadsword is here.#n~
+4
+5 3 8193
+0 10 3 5
+15 50
+A
+18 20
+A
+19 20
+#2008
+quartz necklance newbie~
+#0A #7Quartz #0Necklace#n~
+#0A #7Quartz #0Necklace is here.#n~
+27
+7 3 5
+0 0 0 0
+4 50
+A
+18 20
+A
+19 20
+A
+13 1000
+#2009
+newbie iron helm~
+#0An #c[#nIRON#c] #0Helm#n~
+#0An #c[#7IRON#c]#n #0Helm is here.#n~
+26
+7 3 17
+25 0 0 0
+10 30
+A
+19 20
+A
+18 20
+A
+13 1000
+#2010
+quartz ring~
+#0A #7Quartz #0Ring#n~
+#0A #7Quartz #0Ring is here#n~
+27
+7 3 3
+5 0 0 0
+3 50
+A
+18 20
+A
+19 20
+#2011
+medium round shield~
+#0A Medium #yRound #0Shield#n~
+#0A Medium #YRound #0Shield is here.#n~
+12
+7 3 513
+50 0 0 0
+15 80
+#2012
+6 foot mace~
+#0an #c[#7IRON#c] #0Six Foot Mace#n~
+#0an #c[#7IRON#c] #0Six Foot Mace is here.#n~
+27
+5 2 8193
+14000 150 175 10
+45 200
+#2013
+fountain~
+#0A Well#n~
+#0An large well, with engravings is here.#n~
+28
+19 0 0
+0 0 0 0
+10000 0
+#2017
+iron bound wooden shield~
+#GLegendary #0Iron-Bound #oWooden #yShield#n~
+A #0Iron-Bound #oWooden #YShield#n is here.~
+6
+7 1 513
+500 0 0 12
+18 125000
+A
+1 10
+A
+5 10
+A
+19 140
+A
+18 100
+#2018
+leather saddle~
+#oA Leather Saddle#n~
+#oA Leather Saddle#n is here.~
+25
+7 0 1
+0 0 0 0
+45 150
+#2019
+spool of cloth~
+#7A #LSpool #7of #LCloth#n~
+#7A #LSpool #7of #LCloth#n is here.~
+31
+10 0 1
+0 0 0 0
+20 200
+#2020
+jade statue~
+#0A small #GJade#0 Statue#n~
+#0A small #GJade#0 Statue#n is here.~
+19
+10 0 1
+0 0 0 0
+15 500
+#2021
+adamantite ingot~
+#LAn #CAdamantite #7Ingot#n~
+#LAn #CAdamantite #7Ingot#n #Lis here.#n~
+10
+10 0 1
+0 0 0 0
+20 200
+#2022
+mithril ingot~
+#7A #CM#ci#Ct#ch#Cr#ci#Cl #7Ingot#n~
+#7A #CM#ci#Ct#ch#Cr#ci#Cl #7Ingot#n is here.~
+5
+10 0 1
+0 0 0 0
+20 800
+#2023
+copper bracelet~
+a #oCopper #7Bracelet#n~
+A #oCopper #7Bracelet#n is here.~
+1
+10 0 1
+0 0 0 0
+8 5
+#2024
+steel ingot~
+a #0Steel #7Ingot~
+A #0Steel #7Ingot is here.~
+4
+6 0 1
+0 0 0 0
+10 30
+#2025
+gold ring~
+#7A #yGold #7Ring#n~
+#7A #yGold #7Ring#n is here.~
+2
+6 0 1
+0 0 0 0
+2 15
+#2026
+slab of marble~
+#7A Slab of #CM#ca#Cr#cb#Cl#ce#n~
+#7A Slab of #CM#ca#Cr#cb#Cl#ce#n lies here.~
+28
+6 0 1
+0 0 0 0
+20 500
+#2027
+limestone~
+#7A Slab of #GL#7i#Gm#7e#Gs#7t#Go#7n#Ge#n~
+#7A Slab of #GL#7i#Gm#7e#Gs#7t#Go#7n#Ge#n is here.~
+16
+6 0 1
+0 0 0 0
+20 500
+#2028
+wool coat~
+#7A #oWool #7coat#n~
+#7A #oWool #7coat is here.#n~
+30
+7 0 1
+0 0 0 0
+8 8
+#2029
+silver necklace~
+#7A #0silver #7necklace#n~
+#7A #0silver #7necklace is here#n.~
+29
+6 0 5
+0 0 0 0
+10 15
+#2030
+bruce broadsword~
+#CB#cruces #yGolden #0Broadsword#n~
+#CB#cruces #yGolden #0Broadsword is here.#n~
+0
+5 3 8193
+0 50 2 5
+25 200
+#2031
+large round shield~
+#CB#cruce's #yGolden #oround #0Shield#n~
+#CB#cruce's #yGolden #oround #0Shield is here.#n~
+0
+7 2 513
+150 0 0 0
+10 200
+A
+13 2000
+#2032
+platinum ring~
+#LA #7Platinum #7Ring#n~
+#LA #7Platinum #7Ring #Lis here.#n~
+9
+7 1 3
+200 0 0 0
+5 100
+#2033
+diamond ring~
+#LA #7Diamond Ring#n~
+#LA #7Diamond Ring#L is here.#n~
+8
+7 0 3
+300 0 0 0
+3 200
+#2034
+Bismuth~
+#0Some #PBismuth#n~
+#0Some #PBismuth#n is here.~
+33
+6 0 16385
+0 0 0 0
+5 50
+#2035
+aluminium~
+#LSome #7Aluminium#n~
+#LSome #7Aluminium#n is here.~
+32
+6 0 1
+0 0 0 0
+20 1
+#2036
+gallium~
+#LSome #7Gallium#n~
+#LSome #7Gallium#n is here.~
+35
+6 0 1
+0 0 0 0
+20 100
+#2037
+indium~
+#LSome #7Indium#n~
+#Lsome #7Indium#n is here.~
+36
+6 0 1
+0 0 0 0
+20 100
+#2038
+Magnesium~
+#LSome #7Magnesium#n~
+#LSome #7Magnesium #0is here.#n~
+38
+6 0 1
+0 0 0 0
+50 300
+#2039
+Cobalt~
+#LSome #0Cobalt#n~
+#LSome #0Cobalt#n is here.~
+34
+6 0 1
+0 0 0 0
+50 200
+#2040
+ivory bastard sword~
+#L(#7Ancient#L) #0An #c[#7IVORY#c] #oHandled #yBastard #0Sword#n~
+#L(#7Ancient#L) #0An #c[#7IVORY#c] #oHandled #yBastard #0Sword is here.#n~
+3
+5 1 8193
+0 100 102 7
+30 2000
+A
+19 70
+A
+18 50
+#2041
+full body shield~
+#L(#7Ancient#L) #0A #yFull#R-#0Body #yShield#n~
+#L(#7Ancient#L) #0A #yFull#R-#0Body #yShield #0is here.#n~
+6
+7 0 513
+300 0 0 9
+40 2000
+A
+19 60
+A
+18 60
+#2042
+some lead~
+#7Some #0Lead#n~
+#7Some #0Lead#n is here.~
+37
+6 0 1
+0 0 0 0
+100 10
+#2043
+mercury~
+#7Some #RMercury#n~
+#7Some #RMercury#n is here.~
+39
+6 0 1
+0 0 0 0
+20 200
+#2044
+nickel~
+#7Some #0Nickel#n~
+#7Some #0Nickel#n is here.~
+40
+6 0 1
+0 0 0 0
+50 200
+#2045
+uranium~
+some #oUranium#n~
+Some #oUranium#n is here.~
+42
+6 0 1
+0 0 0 0
+50 10
+#2046
+titanium~
+#7Some #cTitanium#n~
+#7Some #cTitanium#n is here.~
+43
+6 0 1
+0 0 0 0
+20 25
+#2047
+zinc~
+#pZinc#n~
+Some #pZinc#n is here.~
+44
+6 0 1
+0 0 0 0
+10 5
+#2048
+carbon~
+some #0Carbon#n~
+Some #0Carbon#n is here.~
+46
+6 0 1
+0 0 0 0
+50 50
+#2049
+Zirconium~
+some #PZirconium#n~
+Some #PZirconium#n is here.~
+45
+6 0 1
+0 0 0 0
+25 10
+#2050
+Potassium~
+#pPotassium#n~
+Some #pPotassium#n is here~
+41
+6 0 1
+0 0 0 0
+50 20
+#2051
+palladium~
+#Lsome #7Palladium#n~
+#Lsome #7Palladium#n is here.~
+47
+6 0 1
+0 0 0 0
+50 200
+#2220
+Holy symbol~
+holy symbol~
+(no description)~
+0
+10 0 0
+0 0 0 0
+1 0
+#2221
+emerald~
+#7An #GE#gm#Ge#gr#Ga#gl#Gd#n~
+#7An #GE#gm#Ge#gr#Ga#gl#Gd#n is here.~
+21
+10 0 1
+0 0 0 0
+5 20
+#2222
+ruby ring~
+#7A #RR#ru#Rb#Ry #7Ring#n~
+#7A #RR#ru#Rb#Ry #7Ring#n is here.~
+15
+6 0 3
+0 0 0 0
+5 75
+#2900
+sai light~
+#c[#nSTEEL#c] #RS#ra#Ri #7of #yL#oight#n~
+A blinding light glows here.~
+0
+5 258 8193
+0 40 40 1
+5 20
+A
+19 40
+A
+18 30
+#2901
+altar~
+#o[#yS#oton#ye#0] #0Altar #7of #0Sacrafice#n~
+#o[#yS#oton#ye#0] #0Altar #7of #0Sacrafice#n~
+0
+9 0 0
+0 0 0 0
+500 0
+#2902
+hora rings~
+#9[#0STEEL#9] #CH#9ora #CR#9ings~
+#9[#0STEEL#9] #CH#9ora #CR#9ings~
+0
+5 1 8193
+0 50 50 17
+4 45
+A
+19 50
+A
+18 50
+A
+17 -50
+A
+1 10
+#2903
+statue sargonnas~
+#c[#oConc#0rete#c] #7Statue of #ySar#ogon#0as#n~
+#c[#oConc#0rete#c] #7Statue of #ySar#ogon#0as#n~
+0
+9 0 0
+0 0 0 0
+500 0
+#2904
+ring chaos~
+#RInf#rused #o[#9P#0LATINU#9M#o] #RR#ring #0o#7f #rC#Rhaos#n~
+#7 a ring filled with #rC#Rhaos#7.#n~
+0
+7 1 3
+15 0 0 12
+1 200
+A
+18 30
+A
+19 30
+A
+17 -50
+#2905
+donum dei~
+#9D#Conu#cm #9D#Ce#ci#n~
+A steaming potion of neutrality, is here.~
+0
+8 0 1
+1000 39 47 110
+3 50
+#2906
+assassins boots~
+#9S#0hadowe#9d #c[#9STEEL#c] #0B#9oots #9o#0f #9t#0he #0A#9ssassi#0n#n~
+#0B#9oots #9o#0f #9t#0he #0A#9ssassi#0n#n~
+0
+7 257 65
+15 0 0 11
+10 15
+A
+19 20
+A
+18 20
+A
+1 -3
+A
+17 -40
+#2907
+nyoi-bo~
+#9[#0CARBON#9] #yNyoi#9-#yBo#n~
+#9[#0CARBON#9] #yNyoi#9-#yBo#n~
+0
+5 6 8193
+0 25 40 2
+15 25
+A
+18 15
+A
+19 15
+A
+2 10
+#2908
+red brigandine~
+#9a #RR#red #o[#0CARBON STEEL#o] #9B#Rr#rigandine#n~
+#9a #RR#red #o[#0CARBON STEEL#o] #9B#Rr#rigandine#n~
+0
+7 259 9
+50 0 0 0
+50 100
+A
+2 -5
+A
+1 10
+A
+17 -50
+A
+19 50
+A
+18 50
+#2909
+shield of the crusaders~
+#gS#7hield of the #Y<#R-#yCrusaders#R-#Y>#n~
+#gS#7hield of the #Y<#R-#yCrusaders#R-#Y>#n is here.~
+0
+7 1024 513
+350 0 0 9
+10 100000
+A
+18 75
+A
+19 75
+#0
+
+
+
+#ROOMDATA
+#2001
+#R<#0<#R<#Y---#0[[[#cAltar #0of #RS#0argonna#Rs#0]]]#Y---#R>#0>#R>#n~
+~
+65580 0
+D2
+~
+~
+0 0 2002
+S
+#2002
+#R<#0<#R<#Y---#0[[[#RL#0acyno#Rs C#0it#Ry R#0ecal#Rl#0]]]#Y---#R>#0>#R>#n~
+~
+0 1
+D0
+~
+~
+0 0 2001
+D1
+~
+~
+0 0 2003
+D2
+~
+~
+0 0 2007
+D3
+~
+~
+0 0 2006
+S
+#2003
+#R<#0<#R<#Y---#0[#R[#0[#0Path Leading to Dungeon Tower]#R]#0]#Y---#R>#0>#R>#n~
+~
+0 0
+D1
+~
+~
+0 0 2004
+D3
+~
+~
+0 0 2002
+S
+#2004
+#R<#0<#R<#Y---#0[#R[#0[#0Path Leading to Dungeon Tower]#R]#0]#Y---#R>#0>#R>#n~
+~
+0 0
+D1
+~
+~
+0 0 2005
+D3
+~
+~
+0 0 2003
+S
+#2005
+#R<#0<#R<#Y---#0[#R[#0[#0Path Leading to Dungeon Tower]#R]#0]#Y---#R>#0>#R>#n~
+~
+0 0
+D0
+~
+~
+0 0 1000
+D3
+~
+~
+0 0 2004
+S
+#2006
+#g(#yD#gonatio#yn R#goo#ym#g)#n~
+~
+0 0
+D1
+~
+~
+0 0 2002
+S
+#2007
+#o(#c*#o)#RMarketplace#o(#c*#o)#n~
+~
+32 0
+D0
+~
+~
+0 0 2002
+D1
+~
+~
+0 0 2009
+D2
+~
+~
+0 0 2010
+D3
+~
+~
+0 0 2008
+S
+#2008
+#o(#c*#o)#RMarketplace#o(#c*#o)#n~
+~
+32 0
+D1
+~
+~
+0 0 2007
+D2
+~
+~
+0 0 2012
+D3
+~
+~
+0 0 5001
+S
+#2009
+#o(#c*#o)#RMarketplace#o(#c*#o)#n~
+~
+32 1
+D2
+~
+~
+0 0 2011
+D3
+~
+~
+0 0 2007
+S
+#2010
+#o(#c*#o)#RMarketplace#o(#c*#o)#n~
+~
+36 1
+D0
+~
+~
+0 0 2007
+D1
+~
+~
+0 0 2011
+D2
+~
+~
+0 0 2016
+D3
+~
+~
+0 0 2012
+S
+#2011
+#o(#c*#o)#RMarketplace#o(#c*#o)#n~
+~
+32 0
+D0
+~
+~
+0 0 2009
+D3
+~
+~
+0 0 2010
+S
+#2012
+#o(#c*#o)#RMarketplace#o(#c*#o)#n~
+~
+32 0
+D0
+~
+~
+0 0 2008
+D1
+~
+~
+0 0 2010
+D3
+~
+~
+0 0 2013
+S
+#2013
+#0Before the Temple of Sargonnas#n~
+~
+4 0
+D0
+~
+~
+0 0 2014
+D1
+~
+~
+0 0 2012
+D2
+~
+~
+0 0 2015
+D3
+~
+~
+0 0 2900
+S
+#2014
+#0North Lawn#n~
+~
+4 0
+D2
+~
+~
+0 0 2013
+S
+#2015
+#0South Lawn~
+~
+4 0
+D0
+~
+~
+0 0 2013
+S
+#2016
+#0North Main Street#n~
+~
+0 0
+D0
+~
+~
+0 0 2010
+D2
+~
+~
+0 0 2017
+S
+#2017
+#0The Four Corners of Main Street#n~
+~
+0 1
+D0
+~
+~
+0 0 2016
+D1
+~
+~
+0 0 2020
+D2
+~
+~
+0 0 2018
+D3
+~
+~
+0 0 2019
+S
+#2018
+#0South Main Street#n~
+~
+0 0
+D0
+~
+~
+0 0 2017
+D2
+~
+~
+0 0 3301
+S
+#2019
+#0West Main Street#n~
+~
+0 0
+D1
+~
+~
+0 0 2017
+S
+#2020
+#0East Main Street#n~
+~
+0 0
+D1
+~
+~
+0 0 2021
+D3
+~
+~
+0 0 2017
+S
+#2021
+#0East Main Street #R(#0Residential District#R)#n~
+~
+0 0
+D0
+~
+~
+0 0 2023
+D1
+~
+~
+0 0 2022
+D2
+~
+~
+0 0 2024
+D3
+~
+~
+0 0 2020
+S
+#2022
+#0East Main Street #R(#0Residential District#R)#n~
+~
+0 0
+D0
+~
+~
+0 0 2025
+D1
+~
+~
+0 0 2027
+D2
+~
+~
+0 0 2026
+D3
+~
+~
+0 0 2021
+S
+#2023
+~
+~
+0 0
+D2
+~
+~
+0 0 2021
+S
+#2024
+~
+~
+0 0
+D0
+~
+~
+0 0 2021
+S
+#2025
+~
+~
+0 0
+D2
+~
+~
+0 0 2022
+S
+#2026
+#0Bruce Familys Front Yard#n~
+~
+0 0
+D0
+~
+~
+0 0 2022
+D2
+~
+~
+0 0 2028
+S
+#2027
+#0East Main Street #R(#0Residential District#R)#n~
+~
+0 0
+D3
+~
+~
+0 0 2022
+S
+#2028
+#0Bruce Family Foyar#n~
+~
+0 0
+D0
+~
+~
+0 0 2026
+D1
+~
+~
+0 0 2030
+D2
+~
+~
+0 0 2037
+D3
+~
+~
+0 0 2029
+D4
+~
+~
+0 0 2031
+D5
+~
+~
+0 0 2036
+S
+#2029
+#0Living Room#n~
+~
+0 0
+D1
+~
+~
+0 0 2028
+S
+#2030
+#0Kitchen#n~
+~
+0 0
+D3
+~
+~
+0 0 2028
+S
+#2031
+#0Bruce Family Attick#n~
+~
+0 0
+D0
+~
+~
+0 0 2032
+D1
+~
+~
+0 0 2033
+D2
+~
+~
+0 0 2035
+D3
+~
+~
+0 0 2034
+D5
+~
+~
+0 0 2028
+S
+#2032
+#0Bruce Family Attick#n~
+~
+0 0
+D2
+~
+~
+0 0 2031
+S
+#2033
+#0Bruce Family Attick#n~
+~
+0 0
+D3
+~
+~
+0 0 2031
+S
+#2034
+#0Bruce Family Attick#n~
+~
+0 0
+D1
+~
+~
+0 0 2031
+S
+#2035
+#0Bruce Family Attick#n~
+~
+0 0
+D0
+~
+~
+0 0 2031
+S
+#2036
+#0Cellar#n~
+~
+0 0
+D4
+~
+~
+0 0 2028
+S
+#2037
+#0Dining Room#n~
+~
+0 0
+D0
+~
+~
+0 0 2028
+S
+#2900
+#c[#o1F#c] #0Inside the Temple of Sargonnas#n~
+~
+0 0
+D1
+~
+~
+0 0 2013
+D3
+~
+~
+0 0 2901
+S
+#2901
+#c[#o1F#c] #0Inside the Temple of Sargonnas#n~
+~
+0 0
+D0
+~
+~
+0 0 2902
+D1
+~
+~
+0 0 2900
+D2
+~
+~
+0 0 2903
+D3
+~
+~
+3 0 2904
+S
+#2902
+#c[#o1F#c] #0Sacrifical Chamber#n~
+~
+4 0
+D2
+~
+~
+0 0 2901
+S
+#2903
+#c[#o1F#c] #0Sacrifical Chamber#n~
+~
+4 0
+D0
+~
+~
+0 0 2901
+S
+#2904
+#c[#o1F#c] #0A Long Hallway#n~
+~
+0 0
+D0
+~
+~
+0 0 2905
+D1
+~
+~
+3 0 2901
+D2
+~
+~
+0 0 2906
+S
+#2905
+#c[#o1F#c] #0A Long Hallway#n~
+~
+4 0
+D2
+~
+~
+0 0 2904
+D3
+~
+~
+3 0 2911
+S
+#2906
+#c[#o1F#c] #0A Long Hallway#n~
+~
+4 0
+D0
+~
+~
+0 0 2904
+D3
+~
+~
+3 0 2907
+S
+#2907
+#c[#o1F#c] #0Corridor of Vengeance#n~
+~
+0 0
+D1
+~
+~
+3 0 2906
+D3
+~
+~
+0 0 2908
+S
+#2908
+#c[#o1F#c] #0Corridor of Vengeance#n~
+~
+0 0
+D1
+~
+~
+0 0 2907
+D3
+~
+~
+0 0 2909
+S
+#2909
+#c[#o1F#c] #0Corridor of Vengeance#n~
+~
+0 0
+D1
+~
+~
+0 0 2908
+D3
+~
+~
+0 0 2910
+S
+#2910
+#c[#o1F#c] #0Corridor of Vengeance#n~
+~
+4 0
+D1
+~
+~
+0 0 2909
+D3
+~
+~
+0 0 2916
+S
+#2911
+#c[#o1F#c] #0Corridor of Destruction#n~
+~
+0 0
+D1
+~
+~
+3 0 2905
+D3
+~
+~
+0 0 2912
+S
+#2912
+#c[#o1F#c] #0Corridor of Destruction#n~
+~
+0 0
+D1
+~
+~
+0 0 2911
+D3
+~
+~
+0 0 2914
+S
+#2914
+#c[#o1F#c] #0Corridor of Destruction#n~
+~
+4 0
+D1
+~
+~
+0 0 2912
+D3
+~
+~
+0 0 2915
+S
+#2915
+#c[#o1F#c] #0Corridor of Destruction#n~
+~
+0 0
+D1
+~
+~
+0 0 2914
+D3
+~
+~
+0 0 2920
+S
+#2916
+#c[#o1F#c] #0Corridor of Vengeance#n~
+~
+4 0
+D1
+~
+~
+0 0 2910
+D5
+~
+~
+0 0 2929
+S
+#2917
+~
+~
+4 0
+S
+#2918
+~
+~
+4 0
+S
+#2919
+~
+~
+4 0
+S
+#2920
+#c[#o1F#c] #0Corridor of Destruction#n~
+~
+0 0
+D1
+~
+~
+0 0 2915
+S
+#2921
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D1
+~
+~
+0 0 2928
+D2
+~
+~
+0 0 2922
+S
+#2922
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2921
+D1
+~
+~
+0 0 2927
+D2
+~
+~
+0 0 2923
+S
+#2923
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2922
+D1
+~
+~
+0 0 2926
+D2
+~
+~
+0 0 2924
+S
+#2924
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2923
+D1
+~
+~
+0 0 2925
+S
+#2925
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2926
+D1
+~
+~
+0 0 2932
+D3
+~
+~
+0 0 2924
+S
+#2926
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2927
+D1
+~
+~
+0 0 2931
+D2
+~
+~
+0 0 2925
+D3
+~
+~
+0 0 2923
+S
+#2927
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2928
+D1
+~
+~
+0 0 2930
+D2
+~
+~
+0 0 2926
+D3
+~
+~
+0 0 2922
+S
+#2928
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D1
+~
+~
+0 0 2929
+D2
+~
+~
+0 0 2927
+D3
+~
+~
+0 0 2921
+S
+#2929
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+65536 0
+D1
+~
+~
+0 0 2936
+D2
+~
+~
+0 0 2930
+D3
+~
+~
+0 0 2928
+D4
+~
+~
+0 0 2916
+S
+#2930
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2929
+D1
+~
+~
+0 0 2935
+D2
+~
+~
+0 0 2931
+D3
+~
+~
+0 0 2927
+S
+#2931
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2930
+D1
+~
+~
+0 0 2934
+D2
+~
+~
+0 0 2932
+D3
+~
+~
+0 0 2926
+S
+#2932
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2931
+D1
+~
+~
+0 0 2933
+D3
+~
+~
+0 0 2925
+S
+#2933
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2934
+D1
+~
+~
+0 0 2940
+D3
+~
+~
+0 0 2932
+S
+#2934
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2935
+D1
+~
+~
+0 0 2939
+D2
+~
+~
+0 0 2933
+D3
+~
+~
+0 0 2931
+S
+#2935
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2936
+D1
+~
+~
+0 0 2938
+D2
+~
+~
+0 0 2934
+D3
+~
+~
+0 0 2930
+S
+#2936
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D1
+~
+~
+0 0 2937
+D2
+~
+~
+0 0 2935
+D3
+~
+~
+0 0 2929
+S
+#2937
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D2
+~
+~
+0 0 2938
+D3
+~
+~
+0 0 2936
+S
+#2938
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2937
+D2
+~
+~
+0 0 2939
+D3
+~
+~
+0 0 2935
+S
+#2939
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2938
+D2
+~
+~
+0 0 2940
+D3
+~
+~
+0 0 2934
+S
+#2940
+#c[#oB1F#c] #0Dungeon of Vengeance#n~
+~
+0 0
+D0
+~
+~
+0 0 2939
+D3
+~
+~
+0 0 2933
+S
+#0
+
+
+
+#SPECIALS
+Z 2008 shopspec_generic
+Z 2009 shopspec_generic
+Z 2010 shopspec_generic
+Z 2012 shopspec_generic
+Z 2013 shopspec_generic
+Z 2018 shopspec_generic
+M 2900 spec_ninja
+S
+
+
+
+#RESETS
+M 0 2003 1 2002
+E 0 2012 0 16
+M 0 2001 1 2003
+E 0 2001 0 13
+E 0 2002 0 16
+O 0 2010 0 2006
+O 0 2008 0 2006
+O 0 2011 0 2006
+O 0 2010 0 2006
+O 0 2009 0 2006
+O 0 2008 0 2006
+O 0 2007 0 2006
+O 0 2013 0 2007
+M 0 2002 3 2007
+E 0 2003 0 16
+M 0 2002 3 2007
+E 0 2004 0 16
+M 0 2002 3 2007
+E 0 2005 0 16
+P 0 1055 0 1
+P 0 1056 0 1
+P 0 1057 0 1
+P 0 1058 0 1
+M 0 2018 1 2007
+E 0 2034 0 -1
+E 0 2036 0 -1
+E 0 2037 0 -1
+E 0 2038 0 -1
+E 0 2039 0 -1
+E 0 2042 0 -1
+E 0 2043 0 -1
+E 0 2044 0 -1
+E 0 2045 0 -1
+E 0 2047 0 -1
+E 0 2049 0 -1
+E 0 2050 0 -1
+E 0 2051 0 -1
+M 0 2008 1 2008
+E 0 2018 0 -1
+E 0 2023 0 -1
+E 0 2019 0 -1
+E 0 2020 0 -1
+E 0 2024 0 -1
+E 0 2022 0 -1
+E 0 2021 0 -1
+E 0 2028 0 -1
+E 0 2035 0 -1
+E 0 2046 0 -1
+E 0 2048 0 -1
+M 0 2009 1 2009
+E 0 1055 0 -1
+E 0 1058 0 -1
+E 0 1057 0 -1
+E 0 1056 0 -1
+M 0 2010 1 2010
+E 0 2040 0 -1
+E 0 2041 0 -1
+E 0 1042 0 -1
+E 0 1043 0 -1
+E 0 1044 0 -1
+E 0 1045 0 -1
+E 0 1046 0 -1
+E 0 1047 0 -1
+E 0 1048 0 -1
+E 0 1050 0 -1
+M 0 2011 2 2011
+E 0 2006 0 16
+M 0 2011 2 2011
+E 0 2006 0 16
+M 0 2012 1 2011
+E 0 2221 0 -1
+E 0 2025 0 -1
+E 0 2222 0 -1
+E 0 2029 0 -1
+E 0 2032 0 -1
+E 0 2033 0 -1
+M 0 2013 1 2012
+E 0 2026 0 -1
+E 0 2027 0 -1
+M 0 2017 1 2017
+E 0 2017 0 11
+M 0 2030 1 2037
+E 0 2030 0 16
+E 0 2031 0 11
+M 0 2900 2 2900
+E 0 2900 0 16
+E 0 2904 0 1
+O 0 2903 0 2901
+M 0 2901 1 2902
+E 0 2907 0 16
+O 0 2901 0 2902
+M 0 2902 1 2903
+E 0 2902 0 16
+O 0 2901 0 2903
+M 0 2903 1 2911
+E 0 2905 0 -1
+M 0 2904 1 2912
+E 0 2906 0 8
+M 0 2905 1 2914
+E 0 2908 0 5
+M 0 2906 40 2921
+M 0 2906 40 2921
+M 0 2906 40 2921
+M 0 2906 40 2921
+M 0 2906 40 2921
+M 0 2906 40 2921
+M 0 2906 40 2921
+M 0 2906 40 2921
+M 0 2906 40 2921
+M 0 2906 40 2921
+M 0 2909 20 2922
+M 0 2909 20 2922
+M 0 2909 20 2922
+M 0 2909 20 2922
+M 0 2909 20 2922
+M 0 2909 20 2922
+M 0 2909 20 2922
+M 0 2909 20 2922
+M 0 2909 20 2922
+M 0 2909 20 2922
+M 0 2910 20 2923
+M 0 2910 20 2923
+M 0 2910 20 2923
+M 0 2910 20 2923
+M 0 2910 20 2923
+M 0 2910 20 2923
+M 0 2910 20 2923
+M 0 2910 20 2923
+M 0 2910 20 2923
+M 0 2910 20 2923
+M 0 2906 40 2924
+M 0 2906 40 2924
+M 0 2906 40 2924
+M 0 2906 40 2924
+M 0 2906 40 2924
+M 0 2906 40 2924
+M 0 2906 40 2924
+M 0 2906 40 2924
+M 0 2906 40 2924
+M 0 2906 40 2924
+M 0 2912 20 2925
+M 0 2912 20 2925
+M 0 2912 20 2925
+M 0 2912 20 2925
+M 0 2912 20 2925
+M 0 2912 20 2925
+M 0 2912 20 2925
+M 0 2912 20 2925
+M 0 2912 20 2925
+M 0 2912 20 2925
+M 0 2907 40 2926
+M 0 2907 40 2926
+M 0 2907 40 2926
+M 0 2907 40 2926
+M 0 2907 40 2926
+M 0 2907 40 2926
+M 0 2907 40 2926
+M 0 2907 40 2926
+M 0 2907 40 2926
+M 0 2907 40 2926
+M 0 2907 40 2927
+M 0 2907 40 2927
+M 0 2907 40 2927
+M 0 2907 40 2927
+M 0 2907 40 2927
+M 0 2907 40 2927
+M 0 2907 40 2927
+M 0 2907 40 2927
+M 0 2907 40 2927
+M 0 2907 40 2927
+M 0 2911 20 2928
+M 0 2911 20 2928
+M 0 2911 20 2928
+M 0 2911 20 2928
+M 0 2911 20 2928
+M 0 2911 20 2928
+M 0 2911 20 2928
+M 0 2911 20 2928
+M 0 2911 20 2928
+M 0 2911 20 2928
+M 0 2908 20 2929
+M 0 2908 20 2929
+M 0 2908 20 2929
+M 0 2908 20 2929
+M 0 2908 20 2929
+M 0 2908 20 2929
+M 0 2908 20 2929
+M 0 2908 20 2929
+M 0 2908 20 2929
+M 0 2908 20 2929
+M 0 2913 20 2930
+M 0 2913 20 2930
+M 0 2913 20 2930
+M 0 2913 20 2930
+M 0 2913 20 2930
+M 0 2913 20 2930
+M 0 2913 20 2930
+M 0 2913 20 2930
+M 0 2913 20 2930
+M 0 2913 20 2930
+M 0 2913 20 2931
+M 0 2913 20 2931
+M 0 2913 20 2931
+M 0 2913 20 2931
+M 0 2913 20 2931
+M 0 2913 20 2931
+M 0 2913 20 2931
+M 0 2913 20 2931
+M 0 2913 20 2931
+M 0 2913 20 2931
+M 0 2908 20 2932
+M 0 2908 20 2932
+M 0 2908 20 2932
+M 0 2908 20 2932
+M 0 2908 20 2932
+M 0 2908 20 2932
+M 0 2908 20 2932
+M 0 2908 20 2932
+M 0 2908 20 2932
+M 0 2908 20 2932
+M 0 2911 20 2933
+M 0 2911 20 2933
+M 0 2911 20 2933
+M 0 2911 20 2933
+M 0 2911 20 2933
+M 0 2911 20 2933
+M 0 2911 20 2933
+M 0 2911 20 2933
+M 0 2911 20 2933
+M 0 2911 20 2933
+M 0 2907 40 2934
+M 0 2907 40 2934
+M 0 2907 40 2934
+M 0 2907 40 2934
+M 0 2907 40 2934
+M 0 2907 40 2934
+M 0 2907 40 2934
+M 0 2907 40 2934
+M 0 2907 40 2934
+M 0 2907 40 2934
+M 0 2907 40 2935
+M 0 2907 40 2935
+M 0 2907 40 2935
+M 0 2907 40 2935
+M 0 2907 40 2935
+M 0 2907 40 2935
+M 0 2907 40 2935
+M 0 2907 40 2935
+M 0 2907 40 2935
+M 0 2907 40 2935
+M 0 2912 20 2936
+M 0 2912 20 2936
+M 0 2912 20 2936
+M 0 2912 20 2936
+M 0 2912 20 2936
+M 0 2912 20 2936
+M 0 2912 20 2936
+M 0 2912 20 2936
+M 0 2912 20 2936
+M 0 2912 20 2936
+M 0 2906 40 2937
+M 0 2906 40 2937
+M 0 2906 40 2937
+M 0 2906 40 2937
+M 0 2906 40 2937
+M 0 2906 40 2937
+M 0 2906 40 2937
+M 0 2906 40 2937
+M 0 2906 40 2937
+M 0 2906 40 2937
+M 0 2910 20 2938
+M 0 2910 20 2938
+M 0 2910 20 2938
+M 0 2910 20 2938
+M 0 2910 20 2938
+M 0 2910 20 2938
+M 0 2910 20 2938
+M 0 2910 20 2938
+M 0 2910 20 2938
+M 0 2910 20 2938
+M 0 2909 20 2939
+M 0 2909 20 2939
+M 0 2909 20 2939
+M 0 2909 20 2939
+M 0 2909 20 2939
+M 0 2909 20 2939
+M 0 2909 20 2939
+M 0 2909 20 2939
+M 0 2909 20 2939
+M 0 2909 20 2939
+M 0 2906 40 2940
+M 0 2906 40 2940
+M 0 2906 40 2940
+M 0 2906 40 2940
+M 0 2906 40 2940
+M 0 2906 40 2940
+M 0 2906 40 2940
+M 0 2906 40 2940
+M 0 2906 40 2940
+M 0 2906 40 2940
+S
+
+
+
+#$

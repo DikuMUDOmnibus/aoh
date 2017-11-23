@@ -1,0 +1,1561 @@
+#AREADATA
+Name        Minotaur military quarter~
+Builders    Rayvn~
+Music       default.mid~
+VNUMs       3001 3100
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#3002
+Minotaur civilan~
+An average looking Minotaur is here.~
+A Minotaur one of the greatest mysical beast is here ready to kill any moment.
+~
+~
+1 0 -1000
+74 50 0 2
+0 0
+S
+#3003
+Minotaur guard~
+A Minotaur is here guarding the gate from intuders~
+A minotaur is here guarding the gate eyeballing every move someing makes.
+~
+~
+1 0 0
+3 0 0 0
+0 0
+S
+#3011
+Minotaur Guard level 2~
+A minotaur Guard level 2~
+A minotaur Guard level 2 is here, doing what ever minotaur guards do.
+~
+~
+19 0 -200
+68 55 2 0
+0 0
+S
+#3012
+Minotaur Guard level 3~
+Minotaur Guard level 3~
+Minotaur Guard level 3 is here, killing all the don't belong.
+~
+~
+19 0 0
+6 60 3 0
+0 0
+S
+#3013
+Minotaur Military Commander~
+Minotaur Military Commander~
+Minotaur Military Commander is here, going through some paper work.
+~
+~
+19 0 0
+79 100 5 0
+0 0
+S
+#3014
+Minotaur Weapon Smith~
+A Minotaur weapon smith.~
+A Minotaur weapon smith is here making a weapon to you specifications.
+~
+~
+3 0 0
+98 0 0 0
+0 0
+S
+#3015
+Minotaur Military Elite Guards~
+Minotaur Military Elite Guard~
+Minotaur Military Elite Guard is here, an unsurpassed killing Machine.
+~
+~
+19 0 0
+74 70 4 0
+0 0
+S
+#3016
+Minotaur Armor Smith~
+A minotaur armor smith.~
+A Minotaur Armor Smith is here, making an armor for your specifactions.
+~
+~
+3 0 0
+103 0 0 0
+0 0
+S
+#3024
+Minotaur Soldier~
+A minotaur soldier~
+A minotaur soldier is here, waiting for the unexpected warrior.
+~
+~
+17 0 -200
+69 50 1 2
+0 0
+S
+#3036
+Cleric of the Minotuar military~
+A Cleric~
+A Cleric from the minotaur military quarter is here.
+~
+~
+3 8388608 0
+74 0 0 0
+0 0
+S
+#3037
+Minotaur Military Magi~
+Minotaur Military Magi~
+Minotaur Military Magi is here, dressed in fine red robes.
+~
+~
+19 0 0
+1 0 0 0
+0 0
+S
+#3042
+DEATH~
+#0Death~
+#0Death is here waiting for you, for you have gambled with your soul to the devil.
+~
+~
+11283 263912 0
+198 100 20 3
+0 0
+S
+#3060
+Sabor Tooth Fish~
+Sabor Tooth Fish~
+Sabor Tooth Fish is here, looks good enough to eat.
+~
+~
+19 0 0
+49 1 1 1
+0 0
+S
+#0
+
+
+
+#OBJECTS
+#3001
+Minotaur military helmet~
+#RMino#rtaur #RMili#rtary #CHelmet~
+#RMino#rtaur #RMili#rtary #CHelmet #7is here, shaped as a bulls head.~
+26
+7 0 17
+0 0 0 8
+30 40
+#3002
+Minotaur military shield~
+#RMino#rtaur #RMili#rtary #Cshield~
+#RMino#rtaur #RMili#rtary #Cshield #7is here, looks as if hardly no one wields it.~
+6
+7 0 513
+0 0 0 12
+16 35
+#3003
+Minotaur military boots~
+#RMino#rtaur #RMili#rtary #Cboots~
+#RMino#rtaur #RMili#rtary #Cboots #7is here, black and polished all over.~
+25
+7 0 65
+0 0 0 18
+3 25
+#3004
+Minotaur military tunic~
+#RMino#rtaur #RMili#rtary #Ctunic~
+#RMino#rtaur #RMili#rtary #Ctunic #7is here, big enough to put two grown men into it.~
+0
+7 0 9
+0 0 0 16
+7 52
+#3005
+Minotaur military sword~
+#RMino#rtaur #RMili#rtary #Csword~
+#RMino#rtaur #RMili#rtary #Csword #7is here, looks like an average sword (did the Minotaur's really make this).~
+4
+5 0 8193
+0 2 40 0
+6 30
+#3006
+Minotaur military dagger~
+#RMino#rtaur #RMili#rtary #Cdagger~
+#RMino#rtaur #RMili#rtary #Cdagger#7, why in all names would a Minotaur wield a dagger.~
+4
+5 0 8193
+0 0 30 0
+2 10
+#3007
+Minotaur Military Brass Plate~
+#RMino#rtaur #RMili#rtary #CBrass plate~
+#RMino#rtaur #RMili#rtary #CBrass plate #7is here, only the strongest can wield it.~
+11
+7 0 9
+0 0 0 8
+10 50
+#3008
+Minotaur Military Silver Staff~
+#RMino#rtaur #RMili#rtary #CSilver Staff~
+#RMino#rtaur #RMili#rtary #CSilver Staff #7is here, looks as if a sign of power.~
+29
+4 0 8193
+100 250 75 44
+3 500
+#3009
+Minotaur military Brass Boots~
+#RMino#rtaur #RMili#rtary #CBrass Boots~
+#RMino#rtaur #RMili#rtary #CBrass Boots #7of hast is here, looks heavier then what they seem.~
+11
+7 0 65
+0 0 0 14
+1 75
+#3010
+Sign~
+a dusty sign is here.~
+A dusty sign is here, looks as if no one ever reads it.~
+6
+10 0 0
+0 0 0 0
+9999 0
+#3011
+Minotaur military Golden Dagger~
+#RMino#rtaur #RMili#rtary #CGolden dagger~
+#RMino#rtaur #RMili#rtary #CGolden dagger #7is here, only used for looks.~
+2
+5 0 8193
+1 3 100 0
+4 135
+#3012
+Minotaur military helm of power~
+#RMino#rtaur #RMili#rtary #CHelm of power~
+#RMino#rtaur #RMili#rtary #CHelm of power, #7wounder what power's it may hold.~
+3
+7 0 17
+0 0 0 13
+10 100
+#3013
+Minotaur Military Boots of Flight~
+#RMino#rtaur #RMili#rtary #CBoots of flight~
+#RMino#rtaur #RMili#rtary #CBoots of flight, #7don't look like anything special.~
+25
+7 0 65
+0 0 0 3
+1 80
+#3014
+Minotaur Military Cloak of Invisibility~
+#RMino#rtaur #RMili#rtary #CCloak~
+#RMino#rtaur #RMili#rtary #CCloak #7of invisibility is here, so clear to the naked eye.~
+31
+7 0 5
+0 0 0 5
+7 130
+#3015
+Minotaur military ring of Regeneration~
+#RMino#rtaur #RMili#rtary #CRing of Regeneration~
+#RMino#rtaur #RMili#rtary #CRing of Regeneration #7is here, so big that a normal human could not wear it.~
+0
+7 0 3
+0 0 0 13
+1 150
+#3016
+Copper gloves of Giant Strength~
+#RMino#rtaur #RMili#rtary #CGloves of Giant strength~
+#RMino#rtaur #RMili#rtary #CGloves of Giant strength #7is lying here, looks as if they give off a wierd aura.~
+0
+7 0 129
+0 0 0 16
+3 135
+#3017
+Minotaur Military Mask of Passdoor~
+#RMino#rtaur #RMili#rtary #CMask of Passdoor~
+#RMino#rtaur #RMili#rtary #CMask of Passdoor#7 is here, just an average looking mask.~
+0
+7 0 32769
+0 0 0 6
+5 75
+#3018
+Minotaur Military Ring of Sanctuary~
+#RMino#rtaur #RMili#rtary #CRing of Sanctuary~
+#RMino#rtaur #RMili#rtary #CRing of Sanctuary #7is here, in the mud from someone's boot.~
+8
+7 0 3
+0 0 0 9
+1 130
+#3019
+Blue Pill~
+#LBlue #lpill~
+#LBlue #lpill #7is here, wounder what it does.~
+0
+20 0 16385
+0 25 25 25
+1 20
+#3020
+Purple Pill~
+#PPurple #ppill~
+#PPurple #ppill #7is here, wounder what it does.~
+0
+20 0 16385
+0 27 10 11
+1 20
+#3021
+Green Pill~
+#GGreen #gpill~
+#GGreen #gpill #7is here, wounder what it does.~
+0
+20 0 0
+0 39 23 41
+1 20
+#3024
+Minotaur Military Axe~
+#RMino#rtaur #RMili#rtary #CAxe~
+#RMino#rtaur #RMili#rtary #CAxe #7is here, looks as if a giant can only wield this thing properly.~
+26
+5 0 24577
+0 0 150 9
+60 75
+#3042
+Death's Touch~
+#0Death's Touch~
+#0Death's Touch is here, a most powerful weapon to wield.~
+0
+5 0 8193
+2 1000 1000 0
+1 0
+#3060
+Raw Fish~
+#RR#raw #RF#rish~
+#RR#raw #RF#rish #9is here, looks good enough to eat.~
+7
+20 0 1
+10 25 25 25
+1 0
+#3075
+Fish Tooth~
+a #RFish #rTooth #7~
+A #RFish #rTooth #7is here, looks as if it can be used as a weapon~
+7
+5 0 8193
+0 5 2 0
+1 1
+#3076
+Fish Bone Helm~
+#RF#ris#Rh #RB#ron#Re #RH#rel#Rm~
+#RF#ris#Rh #RB#ron#Re #RH#rel#Rm #7is here, looks as if it was made quickly during a battle.~
+7
+7 0 17
+1 0 0 0
+2 1
+#0
+
+
+
+#ROOMDATA
+#3001
+Outside the Incampment~
+The street comes to an end as a huge military quarter appears over the hill. The sounds comming from the north sound like this base is still being used. The gate to the north is connect by a fence that looks like it goes on for miles both ways.
+~
+0 0
+D0
+~
+~
+0 0 3003
+D1
+~
+~
+0 0 3002
+D3
+~
+~
+0 0 3034
+S
+#3002
+outside the incampment~
+~
+0 0
+D1
+~
+~
+0 0 3044
+D3
+~
+~
+0 0 3001
+D5
+~
+~
+1 0 3008
+S
+#3003
+Gate to the Military quarter~
+The gate to the entrance is guarded my two huge Minotaur's. They seem to be the tallest yet. The gate from the fence seems to be thirdy feet high, with barbwire wraped on top. It streachs for learly a mile before it disapears.
+~
+0 0
+D0
+~
+~
+1 0 3004
+D2
+~
+~
+0 0 3001
+S
+#3004
+south gate of incampment~
+The building inside the quarter look normal as an other military base, yet Minotaur's cant build something this average looking they must have something up there sleeve's.
+~
+0 0
+D0
+~
+~
+0 0 3005
+D1
+~
+~
+0 0 3035
+D2
+~
+~
+1 0 3003
+D3
+~
+~
+0 0 3015
+S
+#3005
+inside the Minotaur military quarter~
+~
+0 0
+D0
+~
+~
+0 0 3006
+D1
+~
+~
+0 0 3017
+D2
+~
+~
+0 0 3004
+D3
+~
+~
+0 0 3009
+S
+#3006
+Entrance to the Maze~
+~
+0 0
+D2
+~
+~
+0 0 3005
+D5
+~
+~
+0 0 3007
+S
+#3007
+Inside the maze~
+~
+0 0
+D0
+~
+~
+0 0 3029
+D2
+~
+~
+0 0 3024
+D4
+~
+~
+0 0 3006
+S
+#3008
+Trap Door to the Maze~
+~
+0 0
+D0
+~
+~
+0 0 3032
+D4
+~
+~
+1 0 3002
+S
+#3009
+inside the Minotaur military quarter~
+~
+0 0
+D0
+~
+~
+0 0 3014
+D1
+~
+~
+0 0 3005
+D2
+~
+~
+0 0 3015
+D3
+~
+~
+1 0 3010
+S
+#3010
+Minoraur military Command Tower~
+This building looks as if a troll can fit into here confertable. The guards here look mean and tough, but great WISDOM comes greate STRENGTH. The sign to the right here looks as if no one ever pays attention to it, as if it is no important to read.
+~
+0 0
+D1
+~
+~
+1 0 3009
+D4
+~
+~
+0 0 3011
+S
+#3011
+2nd lvl of the command tower~
+~
+0 0
+D4
+~
+~
+0 0 3012
+D5
+~
+~
+0 0 3010
+S
+#3012
+3rd lvl of the command tower~
+~
+0 0
+D4
+~
+~
+0 0 3013
+D5
+~
+~
+0 0 3011
+S
+#3013
+Command Tower~
+~
+0 0
+D5
+~
+~
+0 0 3012
+S
+#3014
+Weapon Facility~
+~
+32 0
+D2
+~
+~
+0 0 3009
+S
+#3015
+inside the Minotaur military quarter~
+~
+0 0
+D0
+~
+~
+0 0 3009
+D1
+~
+~
+0 0 3004
+D2
+~
+~
+0 0 3016
+S
+#3016
+Armor quarter's~
+~
+32 0
+D0
+~
+~
+0 0 3015
+S
+#3017
+Inside the Minotaur military quarter~
+~
+0 0
+D1
+~
+~
+0 0 3018
+D3
+~
+~
+0 0 3005
+S
+#3018
+Minotaur Military Training facility~
+~
+0 0
+D0
+~
+~
+0 0 3019
+D1
+~
+~
+0 0 3021
+D3
+~
+~
+0 0 3017
+S
+#3019
+Minotaur Military Training facility~
+~
+0 0
+D1
+~
+~
+0 0 3020
+D2
+~
+~
+0 0 3018
+S
+#3020
+Minotaur Military Training facility~
+~
+0 0
+D1
+~
+~
+0 0 3023
+D2
+~
+~
+0 0 3021
+D3
+~
+~
+0 0 3019
+S
+#3021
+Minotaur Military Training facility~
+~
+0 0
+D0
+~
+~
+0 0 3020
+D1
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3018
+S
+#3022
+Minotaur Military Training facility~
+~
+0 0
+D0
+~
+~
+0 0 3023
+D3
+~
+~
+0 0 3021
+S
+#3023
+Minotaur Military Training facility~
+~
+0 0
+D2
+~
+~
+0 0 3022
+D3
+~
+~
+0 0 3020
+S
+#3024
+Inisde the Maze~
+~
+0 0
+D0
+~
+~
+0 0 3007
+D1
+~
+~
+0 0 3025
+D2
+~
+~
+0 0 3029
+D3
+~
+~
+0 0 3027
+S
+#3025
+Inside the Maze~
+~
+0 0
+D0
+~
+~
+0 0 3031
+D1
+~
+~
+0 0 3026
+D2
+~
+~
+0 0 3032
+D3
+~
+~
+0 0 3024
+S
+#3026
+Inside the Maze~
+~
+0 0
+D3
+~
+~
+0 0 3025
+D5
+~
+~
+0 0 3030
+S
+#3027
+Inside the Maze~
+~
+0 0
+D0
+~
+~
+0 0 3028
+D1
+~
+~
+0 0 3024
+D2
+~
+~
+0 0 3031
+D3
+~
+~
+0 0 3028
+S
+#3028
+Inside the Maze~
+~
+0 0
+D0
+~
+~
+0 0 3030
+D1
+~
+~
+0 0 3027
+D2
+~
+~
+0 0 3027
+D5
+~
+~
+0 0 3033
+S
+#3029
+Inside the Maze~
+~
+0 0
+D0
+~
+~
+0 0 3024
+D1
+~
+~
+0 0 3032
+D2
+~
+~
+0 0 3007
+D3
+~
+~
+0 0 3031
+S
+#3030
+Inside the Maze~
+~
+0 0
+D1
+~
+~
+0 0 3031
+D2
+~
+~
+0 0 3028
+D3
+~
+~
+0 0 3033
+D4
+~
+~
+0 0 3026
+S
+#3031
+Inside the Maze~
+~
+0 0
+D0
+~
+~
+0 0 3027
+D1
+~
+~
+0 0 3029
+D2
+~
+~
+0 0 3025
+D3
+~
+~
+0 0 3030
+D5
+~
+~
+0 0 3038
+S
+#3032
+Inside the Maze~
+~
+0 0
+D0
+~
+~
+0 0 3025
+D1
+~
+~
+0 0 3033
+D2
+~
+~
+0 0 3008
+D3
+~
+~
+0 0 3029
+S
+#3033
+Inside the Maze~
+~
+0 0
+D0
+~
+~
+0 0 3033
+D1
+~
+~
+0 0 3030
+D2
+~
+~
+0 0 3033
+D3
+~
+~
+0 0 3032
+D4
+~
+~
+0 0 3028
+S
+#3034
+Outside the Incampment~
+~
+0 0
+D1
+~
+~
+0 0 3001
+S
+#3035
+Inside the incampment~
+~
+0 0
+D0
+~
+~
+0 0 3036
+D2
+~
+~
+0 0 3037
+D3
+~
+~
+0 0 3004
+S
+#3036
+Medical quarter's~
+~
+32 0
+D2
+~
+~
+0 0 3035
+S
+#3037
+Magi Room~
+~
+32 0
+D0
+~
+~
+0 0 3035
+S
+#3038
+Bottom of the Maze~
+~
+0 0
+D0
+~
+~
+0 0 3039
+D4
+~
+~
+0 0 3031
+S
+#3039
+Bottom of the Maze~
+~
+0 0
+D0
+~
+~
+0 0 3040
+D2
+~
+~
+0 0 3038
+S
+#3040
+Bottom of the Maze~
+~
+0 0
+D1
+~
+~
+0 0 3041
+D2
+~
+~
+0 0 3039
+S
+#3041
+Sanctuary~
+CONGRATS YOU FOUND MY SECRET ROOM...THERE IS ONE LAST TEST
+CHOOSE EITHER THE DOOR TO THE NORTH
+OR THE DOOR TO THE SOUTH...BUT CHOOSE WISELY
+FOR YOU GUESS WRONG YOU WILL MEED A MOST PAINFULL DEATH
+...GUESS RIGHT YOUR RICHES WILL BE FORFILLED
+~
+0 0
+D0
+~
+~
+0 0 3043
+D2
+~
+~
+1 0 3042
+D3
+~
+~
+0 0 3040
+S
+#3042
+Gate to Hell~
+~
+0 0
+D0
+~
+~
+1 0 3041
+S
+#3043
+Sanctuary~
+HA HA YOU ALL HAVE BEEN FOOLED...GO THE OTHER WAY
+~
+0 0
+D2
+~
+~
+0 0 3041
+S
+#3044
+Entrence of Dark Forest~
+~
+0 0
+D1
+~
+~
+0 0 3045
+D2
+~
+~
+0 0 3066
+D3
+~
+~
+0 0 3002
+S
+#3045
+Edge of Dark Forest~
+~
+0 0
+D0
+~
+~
+0 0 3056
+D3
+~
+~
+0 0 3044
+S
+#3056
+Dark Forest~
+~
+0 0
+D0
+~
+~
+0 0 3057
+D2
+~
+~
+0 0 3045
+S
+#3057
+Dark Forest~
+~
+0 0
+D0
+~
+~
+0 0 3058
+D1
+~
+~
+0 0 3061
+D2
+~
+~
+0 0 3056
+S
+#3058
+Dark Forest~
+~
+0 0
+D1
+~
+~
+0 0 3059
+D2
+~
+~
+0 0 3057
+S
+#3059
+Dark Forest~
+~
+0 0
+D1
+~
+~
+0 0 3060
+D3
+~
+~
+0 0 3058
+S
+#3060
+Cristal Lake~
+~
+0 0
+D0
+~
+~
+0 0 3075
+D1
+~
+~
+0 0 3079
+D3
+~
+~
+0 0 3059
+S
+#3061
+Dark Forest~
+~
+0 0
+D1
+~
+~
+0 0 3062
+D3
+~
+~
+0 0 3057
+S
+#3062
+Fork in the Path~
+~
+0 0
+D0
+~
+~
+0 0 3064
+D2
+~
+~
+0 0 3063
+D3
+~
+~
+0 0 3061
+S
+#3063
+Dark Forest~
+~
+0 0
+D0
+~
+~
+0 0 3062
+D3
+~
+~
+0 0 3065
+S
+#3064
+Dark Forest~
+~
+0 0
+D2
+~
+~
+0 0 3062
+D3
+~
+~
+0 0 3067
+S
+#3065
+Dark Forest~
+~
+0 0
+D1
+~
+~
+0 0 3063
+D3
+~
+~
+0 0 3066
+S
+#3066
+Edge of a Dark Forest~
+~
+0 0
+D0
+~
+~
+0 0 3044
+D1
+~
+~
+0 0 3065
+S
+#3067
+Dark Forest~
+~
+0 0
+D1
+~
+~
+0 0 3064
+D3
+~
+~
+0 0 3068
+S
+#3068
+Cristal Lake~
+~
+0 0
+D0
+~
+~
+0 0 3069
+D1
+~
+~
+0 0 3067
+S
+#3069
+Cristal lake~
+~
+0 0
+D0
+~
+~
+0 0 3070
+D2
+~
+~
+0 0 3068
+S
+#3070
+Cristal lake~
+~
+0 0
+D2
+~
+~
+0 0 3069
+D3
+~
+~
+0 0 3071
+S
+#3071
+Cristal Lake~
+~
+0 0
+D1
+~
+~
+0 0 3070
+D3
+~
+~
+0 0 3072
+S
+#3072
+Cristal Lake~
+~
+0 0
+D1
+~
+~
+0 0 3071
+D2
+~
+~
+0 0 3073
+S
+#3073
+Cristal Lake~
+~
+0 0
+D0
+~
+~
+0 0 3072
+D2
+~
+~
+0 0 3074
+S
+#3074
+Cristal Lake~
+~
+0 0
+D0
+~
+~
+0 0 3073
+D2
+~
+~
+0 0 3060
+S
+#3075
+Cristal Lake~
+~
+0 0
+D0
+~
+~
+0 0 3076
+D1
+~
+~
+0 0 3077
+D2
+~
+~
+0 0 3060
+S
+#3076
+Cristal Lake~
+~
+0 0
+D1
+~
+~
+0 0 3078
+D2
+~
+~
+0 0 3075
+S
+#3077
+Cristal Lake~
+~
+0 0
+D0
+~
+~
+0 0 3078
+D2
+~
+~
+0 0 3079
+D3
+~
+~
+0 0 3075
+S
+#3078
+Cristal Lake~
+~
+0 0
+D2
+~
+~
+0 0 3077
+D3
+~
+~
+0 0 3076
+S
+#3079
+Cristal Lake~
+~
+0 0
+D0
+~
+~
+0 0 3077
+D3
+~
+~
+0 0 3060
+S
+#3087
+~
+~
+0 0
+D2
+~
+~
+0 0 3077
+S
+#0
+
+
+
+#SPECIALS
+Z 3014 shopspec_generic
+Z 3016 shopspec_generic
+Z 3036 shopspec_healer
+Z 3037 shopspec_generic
+S
+
+
+
+#RESETS
+M 0 3024 10 3010
+E 0 3024 0 16
+M 0 3011 10 3011
+E 0 3001 0 6
+E 0 3002 0 11
+E 0 3003 0 8
+E 0 3004 0 5
+E 0 3005 0 16
+M 0 3012 10 3012
+E 0 3007 0 5
+E 0 3008 0 16
+E 0 3009 0 8
+M 0 3015 10 3013
+E 0 3011 0 16
+E 0 3012 0 6
+E 0 3013 0 8
+E 0 3014 0 3
+E 0 3015 0 2
+E 0 3016 0 9
+E 0 3017 0 20
+E 0 3018 0 1
+M 0 3014 1 3014
+E 0 3024 0 -1
+E 0 3005 0 -1
+E 0 3006 0 -1
+M 0 3016 1 3016
+E 0 3016 0 -1
+E 0 3001 0 -1
+E 0 3002 0 -1
+E 0 3003 0 -1
+E 0 3004 0 -1
+M 0 3024 10 3018
+E 0 3024 0 16
+M 0 3024 10 3019
+E 0 3024 0 16
+M 0 3024 10 3020
+E 0 3024 0 16
+M 0 3024 10 3021
+E 0 3024 0 16
+M 0 3024 10 3022
+E 0 3024 0 16
+M 0 3024 10 3023
+E 0 3024 0 16
+M 0 3024 10 3024
+E 0 3024 0 16
+M 0 3024 10 3025
+E 0 3024 0 16
+M 0 3024 10 3026
+E 0 3024 0 16
+M 0 3024 10 3027
+E 0 3024 0 16
+M 0 3024 10 3028
+E 0 3024 0 16
+M 0 3024 10 3030
+E 0 3024 0 16
+M 0 3024 10 3031
+E 0 3024 0 16
+M 0 3024 10 3032
+E 0 3024 0 16
+M 0 3036 1 3036
+M 0 3037 1 3037
+E 0 3019 0 -1
+E 0 3020 0 -1
+E 0 3021 0 -1
+E 0 3015 0 -1
+E 0 3018 0 -1
+E 0 3008 0 -1
+M 0 3024 10 3038
+M 0 3024 10 3039
+M 0 3024 10 3040
+M 0 3024 10 3041
+M 0 3042 1 3042
+E 0 3042 0 16
+M 0 3024 10 3044
+M 0 3024 10 3045
+M 0 3024 10 3058
+E 0 3024 0 16
+M 0 3024 10 3059
+E 0 3024 0 16
+M 0 3024 10 3060
+E 0 3024 0 16
+E 0 3076 0 6
+P 0 3075 0 1
+M 0 3060 10 3060
+E 0 3060 0 17
+M 0 3060 10 3068
+E 0 3060 0 17
+E 0 3075 0 6
+E 0 3076 0 16
+M 0 3060 10 3069
+E 0 3060 0 17
+E 0 3075 0 6
+E 0 3076 0 16
+M 0 3060 10 3070
+E 0 3060 0 17
+E 0 3075 0 6
+E 0 3076 0 16
+M 0 3060 10 3071
+E 0 3060 0 17
+E 0 3075 0 6
+E 0 3076 0 16
+M 0 3060 10 3072
+E 0 3060 0 17
+E 0 3075 0 6
+E 0 3076 0 16
+M 0 3060 10 3073
+E 0 3060 0 17
+E 0 3075 0 6
+E 0 3076 0 16
+M 0 3060 10 3074
+E 0 3060 0 17
+E 0 3075 0 6
+E 0 3076 0 16
+M 0 3060 10 3075
+E 0 3060 0 17
+E 0 3076 0 6
+P 0 3075 0 1
+M 0 3060 10 3076
+E 0 3060 0 17
+E 0 3076 0 6
+P 0 3075 0 1
+M 0 3060 10 3077
+E 0 3060 0 17
+E 0 3076 0 6
+P 0 3075 0 1
+M 0 3060 10 3078
+E 0 3060 0 17
+E 0 3076 0 6
+P 0 3075 0 1
+M 0 3060 10 3079
+E 0 3060 0 17
+E 0 3076 0 6
+P 0 3075 0 1
+S
+
+
+
+#$

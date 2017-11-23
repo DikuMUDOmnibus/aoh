@@ -1,0 +1,95 @@
+#AREADATA
+Name        Guardian Fortress~
+Builders    None~
+Music       default.mid~
+VNUMs       5101 5199
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#5101
+#0Center of Guardian Fortress#n~
+~
+0 0
+D0
+~
+~
+0 0 5103
+D1
+~
+~
+0 0 5104
+D2
+~
+~
+0 0 5105
+D3
+~
+~
+0 0 5102
+S
+#5102
+#0West path through forest#n~
+~
+0 0
+D1
+~
+~
+0 0 5101
+S
+#5103
+#0north path through forest#n~
+~
+0 0
+D2
+~
+~
+0 0 5101
+S
+#5104
+#0East path through forest#n~
+~
+0 0
+D3
+~
+~
+0 0 5101
+S
+#5105
+#0South path through forest#n~
+~
+0 0
+D0
+~
+~
+0 0 5101
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

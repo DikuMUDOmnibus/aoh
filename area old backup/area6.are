@@ -1,0 +1,1968 @@
+#AREADATA
+Name        Solace~
+Builders    Dagnarus Urkon~
+Music       default.mid~
+VNUMs       3101 3300
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#3101
+A rat~
+A rat is here~
+A rat is sitting on the ground, watching out for unwanted visitors. As it catches sight of something, it hisses
+~
+A tiny rat sits here, eating grain. As it sees you, it hisses in warning.
+~
+19 512 5
+7 2 3 0
+0 0
+S
+#3102
+Small Spider.~
+#7A #CS#cm#Ca#9l#cl #0S#9p#ci#7d#ce#9r #7is here.#n~
+#7A #CS#cm#Ca#9l#cl #0S#9p#ci#7d#ce#9r #7is here.#n
+~
+A small spider is here watching for prey.
+~
+3 0 -10
+1 0 0 0
+0 0
+S
+#3106
+A small spider~
+A spider is here.~
+A spider is here waiting for pray to walk into its webbing.
+~
+A small spider is here, spinning a new web and watching to see if anything wanders into one of its old webs.
+~
+1 0 -5
+6 0 0 0
+0 0
+S
+#3107
+A draconian scout~
+A draconian looks back at you and bares his teeth~
+An ugly draconian that is flying
+~
+A draconion is ugly, flying, and is glaring at everything in sight. Part of the way it wins a fight is through intimidation: obviousely it doesn't go in for strength
+~
+19 262164 100
+29 0 0 0
+1 0
+S
+#3108
+A Hooded Stranger~
+A hooded stranger ~
+A hooded stranger
+~
+A hooded stranger is wearing all black and brown traveling robes. He is very tall and what you can see of his face are his eyes, which are oddly glowing as though lit with an inner fire
+~
+3 0 50
+49 0 0 0
+1 0
+S
+#3111
+A woman of Solace~
+A woman~
+A woman
+~
+A female village of Solace is blonde haired, and fair of face. She is apparently half-elf, as her ears are pointed and her hair is very long. She seems to be weak, but looks
+can be deceiving.
+~
+33 0 25
+22 0 0 0
+2 0
+S
+#3113
+Bobcat~
+A female bob-cat~
+A strong bob cat
+~
+A bob cat is yellow-brown, is very powerfull looking, and has many scars on her back. She has a little drool running from her mouth as she contemplates eating you.
+~
+1 0 -15
+102 0 0 0
+2 0
+S
+#3116
+Tanis Half-Elven~
+A Half Elf looks at you~
+Tanis Half-Elven is standing here before you
+~
+~
+19 262144 100
+47 0 2 0
+1 0
+S
+#3117
+A Half-Elven Shopkeeper~
+A shopkeeper~
+A shopkeeper
+~
+This Half Elven shop keeper is wearing armor identifiable as that of The Solamnics. He seems to be a retired Solamnic Knight. He has pale blue eyes, blonde hair, and has a suprisingly strong looking body.
+~
+19 262144 60
+53 0 0 0
+1 0
+S
+#3118
+A Rabbiyt~
+#0A #RCu#rte #RRab#rbit#n~
+#0A #RCu#rte #RRab#rbit#n is looking at you.
+~
+~
+19 0 0
+7 0 0 0
+0 0
+S
+#3119
+A courtesan~
+#0A #RFem#rale #RHum#ran #RCourt#resan#n~
+A female is here looking at you
+~
+Although this woman is more of a pleasure than a warrior, she has a dagger protruding from her tight bodice. She also has pretty strong muscles for a female
+She is standing here, protected by a Solace guard.
+~
+19 0 0
+46 0 0 0
+0 0
+S
+#3120
+A Guard~
+#0A #RSola#rce #RGua#rrd#n is standing here.~
+#0A #RSola#rce #RGua#rrd#n notices your interest and begins to tighten his grip on his longsword. He gives you a meaningful glare.
+~
+~
+19 0 100
+200 0 0 0
+1 0
+S
+#3121
+A Dog~
+#0A #RSma#rll #RCu#rte #RPup#rpy #RDo#rg#n~
+A puppy looks at you and seems to plead for attention
+~
+~
+1 0 0
+1 0 0 0
+2 0
+S
+#3122
+A peasent~
+#0A #RPea#rsent#n is here washing themselves~
+#0A #RPea#rsent#n is here
+~
+~
+19 8388608 0
+1 0 0 0
+0 0
+S
+#3123
+a Bard~
+#0A #CBa#crd#n~
+A bard is here singing
+~
+~
+19 8388608 200
+147 0 0 0
+1 0
+S
+#3124
+A Deer~
+#0A #yGlos#rsy #yDe#rer#n is here~
+#0A #yGlos#rsy #yDe#rer#n stands here
+~
+~
+1 8388608 5
+2 0 0 0
+2 0
+S
+#3126
+A Bird~
+#0A #RHun#rgry #RBi#rrd#n~
+#0A #RHun#rgry #RBi#rrd#n is here
+~
+~
+1 0 0
+96 0 0 0
+2 0
+S
+#3130
+Dhaeran~
+Dhaeran looks back at you as you examine him~
+Dhaeran is here
+~
+A tall human with dark hair, and tattered clothing is here. He has a glowing glaive on his back and something blue shines on his leg.
+His eyes are slightly red as though filled with liquid fire. He has a slightly dark complexion, and he is wearing golden earings.
+~
+19 8192 -50
+50 4 3 3
+1 0
+S
+#3131
+A wild boar~
+A Wild Boar~
+A Wild Boar is here
+~
+~
+1 0 0
+31 0 0 0
+1 0
+S
+#3132
+Sentry~
+#0A #RSen#rtry#n sees you looking at him, smiles, nods, and returns to his watch.~
+#0A #RSen#rtry#n sees you looking at him, nods at you, smiles, and returns to his watch
+~
+~
+19 0 10
+1 0 0 0
+1 0
+S
+#3164
+An Undead Skeleton~
+an Undead Skeleton~
+An Undead Skeleton
+~
+This skeleton is missing parts of its body, is gray and is covered in blood and dust. Its eyes are vacant, and seem to stare right through you.
+~
+19 0 -100
+142 0 0 0
+0 0
+S
+#3200
+Tika~
+Tika is here~
+Tika is here
+~
+Tika is the female companion of Tanis Half-Elven, and even his lover, some say. She is the new owner of the inn of the last home, as well as a strong and feared fighter. She can defend herself
+and others from anything.
+~
+19 262144 100
+6 0 0 0
+2 0
+S
+#0
+
+
+
+#OBJECTS
+#3101
+A thin dagger~
+a thin dagger looks very inconspicuous~
+A thin dagger is laying on the ground here.~
+3
+5 0 8193
+0 0 0 0
+2 2
+#3102
+A short sword~
+a short sword is here.~
+A short sword is laying here, almost indistinguishible from the ground~
+4
+5 0 8193
+0 0 0 -99
+3 10
+#3106
+A well~
+a fountain is here~
+A fountain is here~
+28
+19 0 0
+0 0 0 0
+1 0
+#3107
+no name~
+a bench to sleep on~
+A bench is here.~
+6
+9 0 0
+0 0 0 0
+1 0
+#3109
+A sparkling diamond~
+a sparkling diamond ~
+A diamond~
+8
+6 3 16385
+0 0 0 0
+5 200
+#3110
+A light~
+a light ~
+A light~
+0
+7 3 16385
+0 0 0 0
+1 0
+#3111
+An Icy Blue Potion~
+an Icy Blue Potion~
+An Icy Blue Potion~
+0
+8 1 1
+0 1 39 23
+1 15
+#3112
+no name~
+(no short description)~
+(no description)~
+0
+10 0 0
+0 0 0 0
+1 0
+#3116
+A torch~
+a torch~
+A torch~
+6
+1 259 24577
+0 0 10000 0
+2 30
+#3117
+Maximillion Armor~
+#RMa#rx#0imill#ri#Ron #RA#rr#0m#ro#Rr#n~
+A mithril and platinum suit of armor~
+5
+7 259 1
+0 0 0 0
+15 25000
+A
+17 -100
+A
+19 52
+A
+18 45
+A
+12 1000
+A
+13 1000
+#3125
+A Dusty Scimitar~
+#0A #RDus#rty #RScim#ritar#n~
+#0A #RDus#rty #RScim#ritar#n is here~
+4
+5 2 8193
+0 0 0 0
+15 800
+#3126
+A Helmet~
+#0A #RMaxi#rmill#Rion #RHe#rlm#Re#rt#n~
+#0A #RMaxi#rmill#Rion #RHe#rlm#Re#rt#n is here~
+26
+7 256 17
+0 0 0 0
+50 12000
+#3127
+Goblins Bane~
+#RGob#rlins #RBa#rne#n~
+#RGob#rlins #RBa#rne#n is here~
+26
+5 3 8193
+0 400 200 6
+100 31000
+#3128
+A green pill~
+#0A #GGre#gen #GPi#gll#n~
+#0A #GGre#gen #GPi#gll#n is here~
+0
+20 259 1
+100 2 23 33
+1 0
+#3129
+A Red Pill~
+#0A #RRe#rd #RPi#rll#n~
+#0A #RRe#rd #RPi#rll#n is here~
+0
+20 259 1
+100 1 40 19
+1 0
+#3130
+A Purple Pill~
+#0A #PPur#pple #PPi#pll#n~
+#0A #PPur#pple #PPi#pll#n is here~
+0
+20 0 1
+50 37 25 62
+1 200
+#3190
+A vat of cunt-juice~
+a vat of cunt-juice~
+A vat of cunt-juice~
+7
+12 0 1
+100 100 17 0
+1 15
+#3196
+#0A #RSwe#ret #RApp#rle#n~
+a sweet smelling apple~
+A sweet tasting apple~
+7
+14 3 1
+100 0 0 1
+10 2
+#3197
+#0A #RGre#ren #RDrin#rking #RPot#rion#n~
+a bubbling potion~
+A glowing potion~
+0
+8 1 1
+50 34 8 3
+2 2
+#3198
+A Mysterious Blue Hole~
+a Portal in th Nethers is here.~
+A portal is here.~
+0
+21 259 0
+3116 0 0 0
+1 0
+#3199
+#0 #RA #RRe#rd #RPor#rtal#n~
+a portal~
+A glowing portal~
+0
+21 259 0
+3115 0 0 0
+1 0
+#3200
+A flask of Whisky~
+a flask of whisky~
+A flask of whisky~
+0
+12 0 1
+100 100 5 0
+1 20
+#0
+
+
+
+#ROOMDATA
+#3101
+#0The #RAca#rdemy #0of #RSor#rce#rry~
+The ruins of the once proud Academy of Sorcery are laying about here, strewn as though by the gods themselves. All of the 
+ruins are covered by scorch marks and graffitti indicating that the destroyers had little love for all that is sacred. There is 
+an empty pool or fountain in the center of all the ruins. Allthough it has long been destroyed, a sense of calm, peace, and tranquility remain behin.
+~
+0 1
+D0
+~
+~
+0 0 3102
+S
+#3102
+#RTr#re#0e #9T#7o#9p #0w#9a#7l#0k#rw#Ray.#n~
+A walkway goes back the way you came and onward through the twisting branches. Up ahead, birds chip and a woodpecker is making a nest.
+This place smells heavenly, with many different smells. Among these are good smelling food, flowers, fresh air, and an unidentifiable scent.
+Up ahead, the walkway curves to dodge a tree trunk.
+~
+0 1
+D0
+~
+~
+0 0 3103
+D2
+~
+~
+0 0 3101
+S
+#3103
+#RIns#ride #0a #rTree#R-House~
+This home seems to actually be a storage room for all sorts of knickknacks from old books and animal fur, to relics and armor. There are several book shelves filled completely
+with journals, maps, records, history books, story books, and several indeciferable books. On top of the shelves are rare items, including a piece
+of bark from a Valenwood Tree, old Draconian Armom, several faded paintings, and a long, thin box. Further into the room is a second exit.
+~
+0 0
+D0
+~
+~
+0 0 3104
+D2
+~
+~
+0 0 3102
+S
+#3104
+#0An #0old #Rtre#re-top #Rpath~
+This walkway, while being like the other walkways, is older, and creaks often when the wind blows or it moves. Allthough its old, it was well built and will last for a long time, if not forever.
+The varnish on this old walkway has faded slightly but is still easy to ditinguish from thin air at night.
+~
+0 0
+D0
+~
+~
+0 0 3105
+D2
+~
+~
+0 0 3103
+S
+#3105
+#0 A #rnew#Rer #Rplo#rt #0of #rwo#Rod~
+You have just arrived on a walkway that is newer and more well cared for than the last path. The bridge doesn't creak, it is very wide, and there is a peaceful
+feeling all around. You can start to smell the aromas better than ever, and all of a sudden are reminded of your hunger.
+~
+0 0
+D0
+~
+~
+0 0 3106
+D2
+~
+~
+0 0 3104
+S
+#3106
+#0A #rresting #Rpad~
+There are spots to lay and rest here in the shadows, on a platform that juts out from the walkway. Although you are in a city, the inhabitants seem not to be on the walkways. All though you can see no one, you can hear singing and shouting coming from further in.
+~
+0 0
+D0
+~
+~
+0 0 3107
+D2
+~
+~
+0 0 3105
+S
+#3107
+#0A #Rsma#rll #rlak#Re#n~
+A small pathway crosses a bridge in the center of this lake and continues north. Though there is a wind blowing, the climate is very warm and there are many birds chirping all around you. There is a sense of being watched
+as though from above by the gods or from the land by the offspring of the gods. But the feeling is not frightening it feels very safe.
+~
+0 0
+D0
+~
+~
+0 0 3108
+D2
+~
+~
+0 0 3106
+S
+#3108
+#0The #RGla#rde #0of #0the #Rstr#rong#n~
+There are blood stains in the grass and on some of the trees. The feeling of being watched remains still, but is stronger than ever, and seems to be full of hatred and evil.
+There is snow in some spots on the ground, and it is very cold here. There is also a feeling of being watched by something good here. The good feeling is very reassuring.
+~
+0 0
+D0
+~
+~
+0 0 3109
+D2
+~
+~
+0 0 3107
+S
+#3109
+#0The #RTrea#rsure #Rmou#rnd#n~
+There are many valuable items here, including potions that can be found hardly anywhere, special weapons, and some valuable gems. There are cobwebs all over this room, allthough there are no longer spiders.
+There are spider husks laying all over the ground as well as some old pieces of parchment. There is a large mound in the center of this rooms, incidating a grave or a collapse in this room
+~
+0 2
+D0
+~
+~
+0 0 3110
+D2
+~
+~
+0 0 3108
+S
+#3110
+#0The #RField #0of #RSol#race#n~
+This area is a large field, which you got to by use of the tree top ropes. This field is very strange, with unrecognisable trees growing at odd places and angles.
+The trees have a strange, yet not menacing, scent about them. There is a buzzing in the air as though by a hundred bees: clearly these trees are actually a bees honeycomb.
+~
+0 2
+D0
+~
+~
+0 0 3111
+D2
+~
+~
+0 0 3109
+S
+#3111
+#0The #RWoo#rds #0of #RSol#race#n~
+These woods are full of some more of the honeycombs pretending to be trees. Also the sound of bees is louder and more insistent here. You can again smell food cooking though
+you can see no signs of food cooking. You hear more laughter, louder this time.
+~
+0 0
+D0
+~
+~
+0 0 3112
+D2
+~
+~
+0 0 3110
+S
+#3112
+#RFurt#rher #0into #0the #RWo#rods#n~
+There are more trees here, but there are no more honeycombs. The path here is slightly worn indicating that few people come through here. There is a small puddle of mud on the ground in front of you, that you should walk around.
+~
+0 0
+D1
+~
+~
+0 0 3113
+D2
+~
+~
+0 0 3111
+S
+#3113
+#RLeav#ring #0the #RWoo#rds#n~
+You are now standing at the edge of the woods: apparently you have made it through safely. The size of it was deceiving: it looked larger than it really was. As you are walking out of the woods, you hear a bobcat scream.
+~
+0 0
+D1
+~
+~
+0 0 3114
+D3
+~
+~
+0 0 3112
+S
+#3114
+#RBelow #RSo#rme #RTre#res#n~
+You are completely out of the woods now, and standing beneath some very tall oak and willow trees. There are more signs of human habitation here, although most of the life is probably at the Inn.
+~
+0 0
+D1
+~
+~
+0 0 3115
+D3
+~
+~
+0 0 3113
+D4
+~
+~
+0 0 3200
+S
+#3115
+#RTan#ris #RHa#rlf#R-Elv#rens #RHou#rse#n~
+This is the House in which Tanis Half-Elven has grown up in when he isn't traveling. There are few decorations, and more books. There is a painting of Kitiara, Raistlin Majeres sister on one wall, and one of Tika, on another.
+Both the paintings are depicted with a light scene behind them--along with the Crystalmir Lake. Tika is short, perhaps around 15, Kitiara is tall, around 23.
+There is a bow leaning in one corner, and a sword is on the ground beside it.
+~
+0 0
+D3
+~
+~
+0 0 3114
+D4
+~
+~
+0 0 3116
+S
+#3116
+#RClim#rbing #0a #RTr#re#re#n~
+This area is a path that twists round and round the Vallenwood tree, with the path being built on a wooded walkway that is supported by thin support legs. The path seems very safe and is very strong and wide. There is little noise here and the wind doesn't seem to be blowing. It is getting rather hot up here.
+~
+0 0
+D4
+~
+~
+0 0 3117
+D5
+~
+~
+0 0 3115
+S
+#3117
+#0At #0the #RTo#rp #0of #0a #RTr#ree#n~
+You are at the top of the tree. Though you took a short time climbing, this place is still high in the air. There is a path going further west or you can go back down.
+This spot would be a good location for a guard, as you could see almost all of solace from here
+There are birds flying through the air here, and there are few clouds covering your field of vision
+~
+0 0
+D3
+~
+~
+0 0 3118
+D5
+~
+~
+0 0 3116
+S
+#3118
+#0A #RTre#e-To#Rp #RBro#Rok#n~
+There is a brook running through here, and you are surrounded by what appears to be a small tree top forest, but the forest is actually growing through the wooden patio that you are standing on. The tree's reach all the way up here from the ground, and are very veritable. There is obviousely enough moisture and light, as well as air, up here for all the tree's to grow veritable. There is a lot o
+There is a brook running through here, and you are surrounded by what appears to be a small tree top forest, but the forest
+is actually growing through the wooden patio that you are standing on. The tree's reach all the way up here from the ground, 
+and are very veritable. There is obviousely enough moisture and light, as well as air, up here for all the tree's to grow 
+veritable. There is a lot of nature all around you, most of which are rabbits.
+~
+0 3
+D0
+~
+~
+0 0 3119
+D1
+~
+~
+0 0 3117
+S
+#3119
+#0A #RSma#rll #RCorri#rdor #0of #RTre#res#n~
+~
+0 3
+D1
+~
+~
+0 0 3120
+D2
+~
+~
+0 0 3118
+S
+#3120
+#RFur#rther #RIn#rto #RTh#re #RWoo#rds #RPa#rth#n~
+You are further into the forest path that you just entered. Allthough you have come far in a short time, you still have a little farther to go in order to exit these woods.
+You can see light coming through the trees ahead, which show you are almost out of here. You can smell wonderful smells coming from somewhere in Solace
+You can sense, rather than see, citizens of Solace, as though they passed right by you. Looking around, however, you see no one.
+~
+0 3
+D1
+~
+~
+0 0 3121
+D3
+~
+~
+0 0 3119
+S
+#3121
+#0A #RHud#rdle #0of #RLiv#ring #RHou#rses#n~
+You have just exited the tree top forest of Solace. You are now standing outside and area where a lot of Solace's citizens have made their homes.
+There are a few people and animals here. You hear a bobcat snarling and a screaming from the forest you just exited.
+Obviously the bob cat just caught itself, and perhaps its cubs, some dinner now. You hope very much that it got an animal and not a human for dinner.
+~
+0 1
+D0
+~
+~
+0 0 3122
+D3
+~
+~
+0 0 3120
+S
+#3122
+#0A #RTo#rwn #RBath#ring #RTem#rple#n~
+You have just entered a Temple devoted entirely to washing ones self after a hard days work or journey. There are two sections separated
+one for females, one for males. There are a few people washing them selves, most of whom are farmers, a few Knights and some adventurers, and
+a single bard.
+The bard is wearing clothes that are considered outlandish here, but are probably the style worn where ever the bard comes from. There is a well further into this room, in a third separated room, in which
+peasents and the thirsty can get water to salve their throats.
+~
+0 0
+D0
+~
+~
+0 0 3123
+D2
+~
+~
+0 0 3121
+S
+#3123
+#ROut#rside #0the #RJa#ril #0of #RSol#race#n~
+You are standing outside an unfortunate but necessary installment in any town. This jail, while being grim, seems to be well taken care of, and there are few inhabitants to be seen in the cells.
+The few inhabitants inside cells are probably just people who were late on paying fines or fees, if their security level is to be judged by.
+Although the jail is a place to be avoided, it also serves to be a sort of place for people with out homes, money, or who just roam the land to get a free meal and supplies when they need it.
+There are villagers crossing the road in many places as well as tpeople taking in the sites. There are homes all along the street here, with no sign
+that their inhabitants are currently in their houses.
+~
+0 1
+D0
+~
+~
+0 0 3124
+D2
+~
+~
+0 0 3122
+S
+#3124
+#0Outside #0the #RSoth#rern #RDis#rtrict #0of #RSol#race#n~
+You are outside of the southern part of Solace, heading toward the northern district of Solace. There are many plants growing here naturally as well 
+as some animals walking around. There is a few people here, but this part of the path is used mostly by animals, since there are hoof marks as well as paw prints here.
+There is a smattering of snow here, but it is all muddy and covered in mud. There are a couple of felled trees laying on the ground
+that no one has bothered to clear out yet. There appears to be some animals using the felled trees as their den. There is a solitary guard here to insure safe 
+passage for all people that do wish to pass this way.
+~
+2 1
+D1
+~
+~
+0 0 3125
+D2
+~
+~
+0 0 3123
+S
+#3125
+#0A #RDa#rrk #RAll#rey#n~
+You have entered a dark alley that begins in the entrance to Northern Solace and leads further into Northern Solace. There are some items hidden in the dust, that\
+some one probablr dropped out of their pockets in there haste to get, all though there are a couple of pieces of armor and a weapon are here.
+There is light entering from both ends of the alley, but something feels odd. A second later you realize it is the lack of Guards who man this dark pathway. You have grown accustomed to being watched over
+that you are frightened at first
+~
+1 1
+D1
+~
+~
+0 0 3126
+D3
+~
+~
+0 0 3124
+S
+#3126
+#RIns#ride #0A #RRiv#rer#n~
+You are walking through a river that appears to be about waist height, although in spots it looks a lot deeper. The water is very cold,
+and has a large quantity of mud in the bottom. There are fish that you can recognize and fish you cant swimming all around you, most of which you know is the 
+diet of Solace's people. There are countless reeds around the edge of the river, and there are many trees here providing shade to the
+river. There is smoke coming from a house somewhere in the trees far ahead of you. There are birds flying over the river just ahead
+trying to catch some fish to eat. There are bird nests in the trees behind you, and you can hear the baby birs squawking.
+~
+0 0
+D1
+~
+~
+0 0 3127
+D3
+~
+~
+0 0 3125
+S
+#3127
+#RFur#rther #0Up #0the #RRiv#rer#n~
+You are further crossed into the river. By looking ahead you can see that you only have a few hundred feet of river to walk through, then you can exit the river,
+and so exit this extreme cold. There are a few more birds here, and something is floating in the bottom of the river, in all the mud.
+The thing thats in the river is sparkling and glowing as though alive, and there is a blue light coming from what ever it is. There are less fish here, at least
+as far as you can see there is less fish here.
+~
+0 0
+D0
+~
+~
+0 0 3128
+D3
+~
+~
+0 0 3126
+S
+#3128
+#RAlm#rost #0out #0of #0the #RRiv#rer#n~
+There are no fish here, due to the fact that two City Guards are here keeping an eye on you. Something is glowing in the water at your feet again, but
+is covered up more than before now. There are sounds of laughter coming from a dwelling on the east side of the river to the right of you.
+There is a dog barking from inside a house on the left side of the river. There is a splashing from far north, indicating you aren't quite out of the river yet.
+There are tiny minnows darting around your feet and the feet of the Guards, and there are bees flying around looking for a flower to gather nectar from.
+ 
+~
+0 0
+D0
+~
+~
+0 0 3129
+D2
+~
+~
+0 0 3127
+S
+#3129
+#0At #0the #REd#rge #0of #0the #RRiv#rer#n~
+You have just reached the edge of the river that you have been walking through. To the west it ends in a great waterfall, which explains the mysterious
+splashing you heard earlier, while to the east it leads to a dam that beavers built a long time before civilization existed here. There are a couple
+of beavers here, although they are certainly not the ones who dammed this area up so long ago. There are some pills on the ground here, some green, and some red, and some purple.
+~
+0 0
+D0
+~
+~
+0 0 3130
+D2
+~
+~
+0 0 3128
+S
+#3130
+#ROut#rside #0An #RUnu#rsed #RHou#rse#n~
+You have just exited the river of Solace, finding yourself outside a house that was obviousely recently built but unused yet. There is little dust
+on the house, there is little death in the grasses surrounding it, and the the wood isn't faded any or weather splotched from storms.
+There are several wild animals ranging around the house, including what seems to be a wild boar, wild deer, some squirrels, and a bob cat.
+There is also something shimmering on the ground here. The sky shows clearly in this clearing. Judging from the size and splendor of this house,
+it seems to have been built for a rich traveling dignitary, such as a bard, a hunter, a court scribe, or someone of that stature.
+~
+0 0
+D0
+~
+~
+0 0 3131
+D2
+~
+~
+0 0 3129
+S
+#3131
+#RFur#rther #Rpa#rst #0an #RUnu#rsed #RHou#rse#n~
+This area is farther past the unused and rotting house. The smell of decay is still lingering in the air but is less noticeable now. There is mud all over the place,
+evidence that the soil here absorbs and contains water for a longer time that ordinary soil. There is the smell of camp fire nearby, but you cannot discern the source from here.
+ 
+There are rotting trees laying on the ground and somehow held up of their own accord. There are few noises here and the air is very still, and is overlaid with an
+almost unbearable heat here. This area seems to be prepetually bright.
+~
+0 0
+D1
+~
+~
+0 0 3132
+D2
+~
+~
+0 0 3130
+S
+#3132
+#0A #RCa#rmp #RFi#rre#n~
+This place seems to be where all the unbearable heat is coming from. There is a smell of an unidentifiable meat cooking over the fire on a spit, and there is a
+tree with an axe stuck in it here, waiting to be cut into smaller pieces to be used for the cooking fire. There is a sentry here who notices you, waves, smiles, and 
+goes back to his watch over the meat and chests on the ground here.
+~
+0 0
+D1
+~
+~
+0 0 3133
+D3
+~
+~
+0 0 3131
+S
+#3133
+~
+~
+0 0
+D0
+~
+~
+0 0 3134
+D3
+~
+~
+0 0 3132
+S
+#3134
+~
+~
+0 0
+D0
+~
+~
+0 0 3135
+D2
+~
+~
+0 0 3133
+S
+#3135
+~
+~
+0 0
+D0
+~
+~
+0 0 3136
+D2
+~
+~
+0 0 3134
+S
+#3136
+~
+~
+0 0
+D1
+~
+~
+0 0 3137
+D2
+~
+~
+0 0 3135
+S
+#3137
+~
+~
+0 0
+D2
+~
+~
+0 0 3138
+D3
+~
+~
+0 0 3136
+S
+#3138
+~
+~
+0 0
+D0
+~
+~
+0 0 3137
+D2
+~
+~
+0 0 3139
+S
+#3139
+~
+~
+0 0
+D0
+~
+~
+0 0 3138
+D2
+~
+~
+0 0 3140
+S
+#3140
+~
+~
+0 0
+D0
+~
+~
+0 0 3139
+D1
+~
+~
+0 0 3141
+S
+#3141
+~
+~
+0 0
+D1
+~
+~
+0 0 3142
+D3
+~
+~
+0 0 3140
+S
+#3142
+~
+~
+0 0
+D1
+~
+~
+0 0 3143
+D3
+~
+~
+0 0 3141
+S
+#3143
+~
+~
+0 0
+D1
+~
+~
+0 0 3144
+D3
+~
+~
+0 0 3142
+S
+#3144
+~
+~
+0 0
+D1
+~
+~
+0 0 3145
+D3
+~
+~
+0 0 3143
+S
+#3145
+~
+~
+0 0
+D1
+~
+~
+0 0 3146
+D3
+~
+~
+0 0 3144
+S
+#3146
+~
+~
+0 0
+D2
+~
+~
+0 0 3147
+D3
+~
+~
+0 0 3145
+S
+#3147
+~
+~
+0 0
+D0
+~
+~
+0 0 3146
+D2
+~
+~
+0 0 3148
+S
+#3148
+~
+~
+0 0
+D0
+~
+~
+0 0 3147
+D2
+~
+~
+0 0 3149
+S
+#3149
+~
+~
+0 0
+D0
+~
+~
+0 0 3148
+D2
+~
+~
+0 0 3150
+S
+#3150
+~
+~
+0 0
+D0
+~
+~
+0 0 3149
+D2
+~
+~
+0 0 3151
+S
+#3151
+~
+~
+0 0
+D0
+~
+~
+0 0 3150
+D2
+~
+~
+0 0 3152
+S
+#3152
+~
+~
+0 0
+D0
+~
+~
+0 0 3151
+D1
+~
+~
+0 0 3153
+S
+#3153
+~
+~
+0 0
+D1
+~
+~
+0 0 3154
+D3
+~
+~
+0 0 3152
+S
+#3154
+~
+~
+0 0
+D1
+~
+~
+0 0 3155
+D3
+~
+~
+0 0 3153
+S
+#3155
+~
+~
+0 0
+D1
+~
+~
+0 0 3156
+D3
+~
+~
+0 0 3154
+S
+#3156
+~
+~
+0 0
+D3
+~
+~
+0 0 3155
+S
+#3157
+~
+~
+0 0
+D0
+~
+~
+0 0 3158
+D3
+~
+~
+0 0 3156
+S
+#3158
+~
+~
+0 0
+D0
+~
+~
+0 0 3159
+D2
+~
+~
+0 0 3157
+S
+#3159
+~
+~
+0 0
+D0
+~
+~
+0 0 3160
+D2
+~
+~
+0 0 3158
+S
+#3160
+~
+~
+0 0
+D0
+~
+~
+0 0 3161
+D2
+~
+~
+0 0 3159
+S
+#3161
+~
+~
+0 0
+D0
+~
+~
+0 0 3162
+D2
+~
+~
+0 0 3160
+S
+#3162
+~
+~
+0 0
+D0
+~
+~
+0 0 3164
+D1
+~
+~
+0 0 3163
+D2
+~
+~
+0 0 3161
+S
+#3163
+~
+~
+0 0
+D1
+~
+~
+0 0 3165
+D3
+~
+~
+0 0 3162
+S
+#3164
+#0A #RDe#rad #REn#rd#n~
+This area has lead you straight to a dead end. Looks like you missed a turn back there somewhere, young fellow. While you are hear, you can smell the decay of the Undead, of the unburied corpses, and of the damp.
+~
+0 0
+D2
+~
+~
+0 0 3162
+S
+#3165
+~
+~
+0 0
+D1
+~
+~
+0 0 3166
+D3
+~
+~
+0 0 3163
+S
+#3166
+~
+~
+0 0
+D0
+~
+~
+0 0 3167
+D1
+~
+~
+0 0 3168
+D3
+~
+~
+0 0 3165
+S
+#3167
+~
+~
+0 0
+D0
+~
+~
+0 0 3169
+D2
+~
+~
+0 0 3166
+S
+#3168
+#0A #RDe#rad #REn#rd#n~
+You have reached another dead end, young adventurer. You arent having a lot of luck here. Looks like you missed another turn in here. Well you will have plenty of company in here
+~
+0 0
+D3
+~
+~
+0 0 3166
+S
+#3169
+~
+~
+0 0
+D0
+~
+~
+0 0 3170
+D2
+~
+~
+0 0 3167
+S
+#3170
+~
+~
+0 0
+D0
+~
+~
+0 0 3171
+D2
+~
+~
+0 0 3169
+S
+#3171
+~
+~
+0 0
+D1
+~
+~
+0 0 3172
+D2
+~
+~
+0 0 3170
+S
+#3172
+~
+~
+0 0
+D1
+~
+~
+0 0 3173
+D3
+~
+~
+0 0 3171
+S
+#3173
+~
+~
+0 0
+D1
+~
+~
+0 0 3174
+D3
+~
+~
+0 0 3172
+S
+#3174
+~
+~
+0 0
+D1
+~
+~
+0 0 3175
+D3
+~
+~
+0 0 3173
+S
+#3175
+~
+~
+0 0
+D0
+~
+~
+0 0 3176
+D3
+~
+~
+0 0 3174
+S
+#3176
+~
+~
+0 0
+D0
+~
+~
+0 0 3177
+D2
+~
+~
+0 0 3175
+S
+#3177
+~
+~
+0 0
+D0
+~
+~
+0 0 3178
+D2
+~
+~
+0 0 3176
+S
+#3178
+~
+~
+0 0
+D2
+~
+~
+0 0 3177
+D3
+~
+~
+0 0 3179
+S
+#3179
+~
+~
+0 0
+D1
+~
+~
+0 0 3178
+D3
+~
+~
+0 0 3180
+S
+#3180
+~
+~
+0 0
+D1
+~
+~
+0 0 3179
+D3
+~
+~
+0 0 3181
+S
+#3181
+~
+~
+0 0
+D1
+~
+~
+0 0 3180
+D3
+~
+~
+0 0 3182
+S
+#3182
+~
+~
+0 0
+D1
+~
+~
+0 0 3181
+D3
+~
+~
+0 0 3183
+S
+#3183
+~
+~
+0 0
+D0
+~
+~
+0 0 3184
+D1
+~
+~
+0 0 3182
+S
+#3184
+~
+~
+0 0
+D0
+~
+~
+0 0 3185
+D2
+~
+~
+0 0 3183
+S
+#3185
+~
+~
+0 0
+D1
+~
+~
+0 0 3186
+D2
+~
+~
+0 0 3184
+S
+#3186
+~
+~
+0 0
+D2
+~
+~
+0 0 3187
+D3
+~
+~
+0 0 3185
+S
+#3187
+~
+~
+0 0
+D0
+~
+~
+0 0 3186
+D2
+~
+~
+0 0 3188
+S
+#3188
+~
+~
+0 0
+D0
+~
+~
+0 0 3187
+D2
+~
+~
+0 0 3189
+S
+#3189
+~
+~
+0 0
+D0
+~
+~
+0 0 3188
+D2
+~
+~
+0 0 3190
+S
+#3190
+~
+~
+0 0
+D0
+~
+~
+0 0 3189
+D2
+~
+~
+0 0 3191
+S
+#3191
+~
+~
+0 0
+D0
+~
+~
+0 0 3190
+D2
+~
+~
+0 0 3192
+S
+#3192
+~
+~
+0 0
+D0
+~
+~
+0 0 3191
+D2
+~
+~
+0 0 3193
+S
+#3193
+~
+~
+0 0
+D0
+~
+~
+0 0 3192
+D2
+~
+~
+0 0 3194
+S
+#3194
+~
+~
+0 0
+D0
+~
+~
+0 0 3193
+D2
+~
+~
+0 0 3195
+S
+#3195
+~
+~
+0 0
+D0
+~
+~
+0 0 3194
+D2
+~
+~
+0 0 3196
+S
+#3196
+~
+~
+0 0
+D0
+~
+~
+0 0 3195
+D1
+~
+~
+0 0 3197
+S
+#3197
+~
+~
+0 0
+D1
+~
+~
+0 0 3198
+D3
+~
+~
+0 0 3196
+S
+#3198
+~
+~
+0 0
+D1
+~
+~
+0 0 3199
+D3
+~
+~
+0 0 3197
+S
+#3199
+~
+~
+0 0
+D1
+~
+~
+0 0 3200
+D3
+~
+~
+0 0 3198
+S
+#3200
+#0The #RInn #0of #0the #RLa#rst #RHo#rme#n~
+This inn is very famous for its food and beer, as well as its service. All though there have been hated customers, the loved customers always come back. This Inn is built high in the trees, to protect
+it from ruffians, nature, and monsters all alike.
+~
+0 0
+D3
+~
+~
+0 0 3199
+D5
+~
+~
+0 0 3114
+S
+#0
+
+
+
+#SPECIALS
+Z 3117 shopspec_generic
+Z 3200 shopspec_generic
+S
+
+
+
+#RESETS
+M 0 3101 10 3101
+M 0 3101 10 3101
+O 0 3101 0 3101
+O 0 3101 0 3101
+O 0 3101 0 3101
+O 0 3101 0 3101
+O 0 3101 0 3101
+M 0 3101 1 3101
+M 0 3101 5 3101
+O 0 3101 0 3101
+O 0 3101 0 3101
+O 0 3101 0 3101
+P 0 3106 0 1
+M 0 3130 1 3101
+M 0 3102 6 3102
+M 0 3102 6 3102
+M 0 3102 1 3102
+M 0 3102 1 3102
+M 0 3102 1 3102
+M 0 3102 1 3102
+M 0 3102 1 3102
+M 0 3102 1 3102
+M 0 3102 1 3102
+M 0 3102 10 3102
+M 0 3102 10 3102
+M 0 3102 10 3102
+M 0 3102 10 3102
+M 0 3102 10 3102
+M 0 3102 10 3102
+M 0 3102 10 3102
+M 0 3102 10 3102
+M 0 3102 10 3102
+M 0 3102 10 3102
+O 0 3106 0 3106
+M 0 3106 1 3106
+M 0 3107 5 3107
+O 0 3109 0 3109
+O 0 3110 0 3109
+O 0 3111 0 3109
+M 0 3108 5 3110
+O 0 3111 0 3110
+M 0 3111 10 3111
+O 0 3116 0 3111
+M 0 3113 5 3113
+M 0 3113 5 3114
+M 0 3113 5 3114
+M 0 3113 1 3114
+M 0 3116 1 3115
+M 0 3118 6 3118
+M 0 3120 1 3119
+M 0 3119 5 3119
+M 0 3113 1 3120
+M 0 3111 1 3120
+M 0 3107 1 3120
+M 0 3121 10 3121
+M 0 3122 10 3122
+M 0 3123 1 3122
+M 0 3124 20 3124
+O 0 3125 0 3125
+M 0 3120 4 3125
+E 0 3126 0 6
+E 0 3125 0 16
+M 0 3126 5 3126
+O 0 3127 0 3127
+O 0 3127 0 3128
+O 0 3127 0 3128
+O 0 3127 0 3128
+O 0 3127 0 3128
+M 0 3120 1 3128
+M 0 3120 1 3128
+O 0 3128 0 3128
+O 0 3128 0 3128
+O 0 3128 0 3128
+O 0 3128 0 3128
+O 0 3128 0 3128
+O 0 3128 0 3128
+O 0 3128 0 3128
+O 0 3128 0 3128
+O 0 3128 0 3128
+O 0 3128 0 3128
+O 0 3128 0 3129
+O 0 3128 0 3129
+O 0 3128 0 3129
+O 0 3128 0 3129
+O 0 3129 0 3129
+O 0 3129 0 3129
+O 0 3129 0 3129
+O 0 3129 0 3129
+O 0 3130 0 3129
+O 0 3130 0 3129
+O 0 3130 0 3129
+O 0 3130 0 3129
+M 0 3130 1 3130
+M 0 3131 5 3130
+M 0 3164 6 3164
+M 0 3164 6 3168
+O 0 3199 0 3199
+O 0 3200 0 3200
+O 0 3200 0 3200
+O 0 3200 0 3200
+O 0 3200 0 3200
+M 0 3200 1 3200
+O 0 3190 0 3200
+O 0 3190 0 3200
+O 0 3190 0 3200
+O 0 3190 0 3200
+O 0 3198 0 3200
+O 0 3197 0 3200
+O 0 3197 0 3200
+O 0 3197 0 3200
+O 0 3197 0 3200
+O 0 3199 0 3200
+S
+
+
+
+#$

@@ -1,0 +1,7436 @@
+#AREADATA
+Name        Dungeon Tower~
+Builders    Urkon Xrakisis~
+Music       default.mid~
+VNUMs       1000 2000
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#1002
+human mercenary~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n #7stands here.#n
+~
+~
+3 0 -350
+3 0 0 0
+1 0
+S
+#1003
+human mercenary~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n #7stands here.#n
+~
+~
+3 0 -350
+1 0 0 0
+1 0
+S
+#1004
+human mercenary~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n #7stands here.#n
+~
+~
+3 0 -350
+7 0 0 0
+1 0
+S
+#1005
+human mercenary~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n #7stands here.#n
+~
+~
+3 0 -350
+9 0 0 0
+1 0
+S
+#1006
+human mercenary~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n #7stands here.#n
+~
+~
+3 0 -350
+4 0 0 0
+1 0
+S
+#1007
+human mercenary~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n #7stands here.#n
+~
+~
+3 0 -350
+14 0 0 0
+1 0
+S
+#1008
+human mercenary~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n #7stands here.#n
+~
+~
+3 0 -350
+2 0 0 0
+1 0
+S
+#1009
+human mercenary~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n~
+#7A #CH#cu#9m#ca#Cn #LMe#lr#7c#ce#7n#la#Lry#n #7stands here.#n
+~
+~
+3 0 -350
+8 0 0 0
+1 0
+S
+#1010
+minotaur guard~
+#0A Trainee #RM#ri#Rn#ro#Rt#ra#Ru#rr #0Guard#n~
+#0A Trainee #RM#ri#Rn#ro#Rt#ra#Ru#rr #0Guard#n stands here.
+~
+~
+3 0 -1000
+41 0 0 0
+1 0
+S
+#1011
+goblin prisoner~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin#n~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin #7stands here chained to the Wall.#n
+~
+~
+3 0 0
+13 0 0 0
+1 0
+S
+#1012
+goblin prisoner~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin#n~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin #7stands here chained to the Wall.#n
+~
+~
+3 0 0
+6 0 0 0
+1 0
+S
+#1013
+goblin prisoner~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin#n~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin #7stands here chained to the Wall.#n
+~
+~
+3 0 0
+9 0 0 0
+1 0
+S
+#1014
+goblin prisoner~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin#n~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin #7stands here chained to the Wall.#n
+~
+~
+3 0 0
+10 0 0 0
+1 0
+S
+#1015
+goblin prisoner~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin#n~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin #7stands here chained to the Wall.#n
+~
+~
+3 0 0
+15 0 0 0
+1 0
+S
+#1016
+goblin prisoner~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin#n~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin #7stands here chained to the Wall.#n
+~
+~
+3 0 0
+9 0 0 0
+1 0
+S
+#1017
+goblin prisoner~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin#n~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin #7stands here chained to the Wall.#n
+~
+~
+3 0 0
+11 0 0 0
+1 0
+S
+#1018
+goblin prisoner~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin#n~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin #7stands here chained to the Wall.#n
+~
+~
+3 0 0
+12 0 0 0
+1 0
+S
+#1019
+goblin prisoner~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin#n~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin #7stands here chained to the Wall.#n
+~
+~
+3 0 0
+8 0 0 0
+1 0
+S
+#1020
+goblin prisoner~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin#n~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin #7stands here chained to the Wall.#n
+~
+~
+3 0 0
+13 0 0 0
+1 0
+S
+#1021
+goblin prisoner~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin#n~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin #7stands here chained to the Wall.#n
+~
+~
+3 0 0
+3 0 0 0
+1 0
+S
+#1022
+goblin prisoner~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin#n~
+#7A #RSk#ci#0n#Rny #RGo#rbl#Rin #7stands here chained to the Wall.#n
+~
+~
+3 0 0
+4 0 0 0
+1 0
+S
+#1023
+minotaur apprentice guard~
+#0A #RM#ri#Rn#ro#Rt#ra#Ru#rr #0Apprentice Guard#n~
+#0A #RM#ri#Rn#ro#Rt#ra#Ru#rr #0Apprentice Guard is here.#n
+~
+~
+3 0 -1000
+30 0 0 0
+1 0
+S
+#1024
+kender prisoner~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer#n~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer #7is here.#n
+~
+~
+3 0 0
+11 0 0 0
+1 0
+S
+#1025
+kender prisoner~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer#n~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer #7is here.#n
+~
+~
+3 0 0
+29 0 0 0
+1 0
+S
+#1026
+kender prisoner~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer#n~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer #7is here.#n
+~
+~
+3 0 0
+9 0 0 0
+1 0
+S
+#1027
+kender prisoner~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer#n~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer #7is here.#n
+~
+~
+3 0 0
+9 0 0 0
+1 0
+S
+#1028
+kender prisoner~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer#n~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer #7is here.#n
+~
+~
+3 0 0
+24 0 0 0
+1 0
+S
+#1029
+kender prisoner~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer#n~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer #7is here.#n
+~
+~
+3 0 0
+27 0 0 0
+1 0
+S
+#1030
+kender prisoner~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer#n~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer #7is here.#n
+~
+~
+3 0 0
+8 0 0 0
+1 0
+S
+#1031
+kender prisoner~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer#n~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer #7is here.#n
+~
+~
+3 0 0
+14 0 0 0
+1 0
+S
+#1032
+kender prisoner~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer#n~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer #7is here.#n
+~
+~
+3 0 0
+19 0 0 0
+1 0
+S
+#1033
+kender prisoner~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer#n~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer #7is here.#n
+~
+~
+3 0 0
+10 0 0 0
+1 0
+S
+#1034
+kender prisoner~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer#n~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer #7is here.#n
+~
+~
+3 0 0
+27 0 0 0
+1 0
+S
+#1035
+kender prisoner~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer#n~
+#7A #cK#0e#9n#cd#Cer Pr#9i#0s#9o#0n#cer #7is here.#n
+~
+~
+3 0 0
+19 0 0 0
+1 0
+S
+#1036
+minotaur guard~
+#0An Apprentice #RM#ri#Rn#ro#Rt#ra#Ru#rr#0 Guard#n~
+#0An Apprentice #RM#ri#Rn#ro#Rt#ra#Ru#rr#0 Guard is here.#n
+~
+~
+3 0 0
+27 0 0 0
+1 0
+S
+#1037
+gully dwarf prisoner~
+#0A #oGully #cDwarf #0Prisoner#n~
+#0A #oGully #cDwarf #0Prisoner stands here.#n
+~
+~
+3 0 0
+9 0 0 0
+1 0
+S
+#1038
+gully dwarf prisoner~
+#0A #oGully #cDwarf #0Prisoner#n~
+#0A #oGully #cDwarf #0Prisoner stands here.#n
+~
+~
+3 0 0
+5 0 0 0
+1 0
+S
+#1039
+gully dwarf prisoner~
+#0A #oGully #cDwarf #0Prisoner#n~
+#0A #oGully #cDwarf #0Prisoner stands here.#n
+~
+~
+3 0 0
+16 0 0 0
+1 0
+S
+#1040
+gully dwarf prisoner~
+#0A #oGully #cDwarf #0Prisoner#n~
+#0A #oGully #cDwarf #0Prisoner stands here.#n
+~
+~
+3 0 0
+15 0 0 0
+1 0
+S
+#1041
+gully dwarf prisoner~
+#0A #oGully #cDwarf #0Prisoner#n~
+#0A #oGully #cDwarf #0Prisoner stands here.#n
+~
+~
+3 0 0
+24 0 0 0
+1 0
+S
+#1042
+gully dwarf prisoner~
+#0A #oGully #cDwarf #0Prisoner#n~
+#0A #oGully #cDwarf #0Prisoner stands here.#n
+~
+~
+3 0 0
+11 0 0 0
+1 0
+S
+#1043
+gully dwarf prisoner~
+#0A #oGully #cDwarf #0Prisoner#n~
+#0A #oGully #cDwarf #0Prisoner stands here.#n
+~
+~
+3 0 0
+10 0 0 0
+1 0
+S
+#1044
+gully dwarf prisoner~
+#0A #oGully #cDwarf #0Prisoner#n~
+#0A #oGully #cDwarf #0Prisoner stands here.#n
+~
+~
+3 0 0
+23 0 0 0
+1 0
+S
+#1045
+gully dwarf prisoner~
+#0A #oGully #cDwarf #0Prisoner#n~
+#0A #oGully #cDwarf #0Prisoner stands here.#n
+~
+~
+3 0 0
+17 0 0 0
+1 0
+S
+#1046
+gully dwarf prisoner~
+#0A #oGully #cDwarf #0Prisoner#n~
+#0A #oGully #cDwarf #0Prisoner stands here.#n
+~
+~
+3 0 0
+12 0 0 0
+1 0
+S
+#1047
+gully dwarf prisoner~
+#0A #oGully #cDwarf #0Prisoner#n~
+#0A #oGully #cDwarf #0Prisoner stands here.#n
+~
+~
+3 0 0
+7 0 0 0
+1 0
+S
+#1048
+gully dwarf prisoner~
+#0A #oGully #cDwarf #0Prisoner#n~
+#0A #oGully #cDwarf #0Prisoner stands here.#n
+~
+~
+3 0 0
+12 0 0 0
+1 0
+S
+#1049
+minotaur guard~
+#0A #RM#ri#Rn#ro#Rt#ra#Ru#rr #cCaptain#n~
+#0The #RM#ri#Rn#ro#Rt#ra#Ru#rr #cCaptain#n#0 of levels 1-5 stands here.#n
+~
+~
+3 0 0
+47 0 0 0
+1 0
+S
+#1050
+hill dwarf~
+A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf#n~
+#7A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf #7is standing here.#n
+~
+~
+3 0 0
+23 0 0 0
+1 0
+S
+#1051
+hill dwarf~
+A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf#n~
+#7A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf #7is standing here.#n
+~
+~
+3 0 0
+13 0 0 0
+1 0
+S
+#1052
+hill dwarf~
+A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf#n~
+#7A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf #7is standing here.#n
+~
+~
+3 0 0
+13 0 0 0
+1 0
+S
+#1053
+hill dwarf~
+A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf#n~
+#7A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf #7is standing here.#n
+~
+~
+3 0 0
+22 0 0 0
+1 0
+S
+#1054
+hill dwarf~
+A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf#n~
+#7A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf #7is standing here.#n
+~
+~
+3 0 0
+21 0 0 0
+1 0
+S
+#1055
+hill dwarf~
+A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf#n~
+#7A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf #7is standing here.#n
+~
+~
+3 0 0
+11 0 0 0
+1 0
+S
+#1056
+hill dwarf~
+A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf#n~
+#7A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf #7is standing here.#n
+~
+~
+3 0 0
+18 0 0 0
+1 0
+S
+#1057
+hill dwarf~
+A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf#n~
+#7A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf #7is standing here.#n
+~
+~
+3 0 0
+19 0 0 0
+1 0
+S
+#1058
+hill dwarf~
+A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf#n~
+#7A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf #7is standing here.#n
+~
+~
+3 0 0
+14 0 0 0
+1 0
+S
+#1059
+hill dwarf~
+A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf#n~
+#7A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf #7is standing here.#n
+~
+~
+3 0 0
+17 0 0 0
+1 0
+S
+#1060
+hill dwarf~
+A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf#n~
+#7A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf #7is standing here.#n
+~
+~
+3 0 0
+23 0 0 0
+1 0
+S
+#1061
+hill dwarf~
+A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf#n~
+#7A #GH#gi#yl#Gl #GD#gw#ya#gr#Gf #7is standing here.#n
+~
+~
+3 0 0
+13 0 0 0
+1 0
+S
+#1062
+experianced minotaur guard~
+#0An Experianced #RM#ri#Rn#ro#Rt#ra#Ru#rr #0guard#n~
+#0An Experianced #RM#ri#Rn#ro#Rt#ra#Ru#rr #0guard is here.#n
+~
+~
+3 0 0
+39 0 0 0
+1 0
+S
+#1063
+hobgoblin prisoner~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#n~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#0 is here.#n
+~
+~
+3 0 -1000
+22 0 0 0
+1 0
+S
+#1064
+hobgoblin prisoner~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#n~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#0 is here.#n
+~
+~
+3 0 -1000
+28 0 0 0
+1 0
+S
+#1065
+hobgoblin prisoner~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#n~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#0 is here.#n
+~
+~
+3 0 -1000
+45 0 0 0
+1 0
+S
+#1066
+hobgoblin prisoner~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#n~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#0 is here.#n
+~
+~
+3 0 -1000
+22 0 0 0
+1 0
+S
+#1067
+hobgoblin prisoner~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#n~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#0 is here.#n
+~
+~
+3 0 -1000
+34 0 0 0
+1 0
+S
+#1068
+hobgoblin prisoner~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#n~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#0 is here.#n
+~
+~
+3 0 -1000
+36 0 0 0
+1 0
+S
+#1069
+hobgoblin prisoner~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#n~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#0 is here.#n
+~
+~
+3 0 -1000
+19 0 0 0
+1 0
+S
+#1070
+hobgoblin prisoner~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#n~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#0 is here.#n
+~
+~
+3 0 -1000
+30 0 0 0
+1 0
+S
+#1071
+hobgoblin prisoner~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#n~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#0 is here.#n
+~
+~
+3 0 -1000
+34 0 0 0
+1 0
+S
+#1072
+hobgoblin prisoner~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#n~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#0 is here.#n
+~
+~
+3 0 -1000
+44 0 0 0
+1 0
+S
+#1073
+hobgoblin prisoner~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#n~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#0 is here.#n
+~
+~
+3 0 -1000
+18 0 0 0
+1 0
+S
+#1074
+hobgoblin prisoner~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#n~
+#0A #YH#Gob-#YG#Goblin#n #cPrisoner#0 is here.#n
+~
+~
+3 0 -1000
+29 0 0 0
+1 0
+S
+#1075
+minotaur sergent~
+#0A #RM#ri#Rn#ro#Rt#ra#Ru#rr #gSergent#n~
+#0A #RM#ri#Rn#ro#Rt#ra#Ru#rr #gSergent#0 is here.#n
+~
+~
+3 0 -1000
+45 0 0 0
+1 0
+S
+#1076
+orc~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler.~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler #7stands here.#n
+~
+~
+3 0 -1000
+39 0 0 0
+1 0
+S
+#1077
+orc~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler.~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler #7stands here.#n
+~
+~
+3 0 -1000
+33 0 0 0
+1 0
+S
+#1078
+orc~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler.~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler #7stands here.#n
+~
+~
+3 0 -1000
+38 0 0 0
+1 0
+S
+#1079
+orc~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler.~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler #7stands here.#n
+~
+~
+3 0 -1000
+56 0 0 0
+1 0
+S
+#1080
+orc~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler.~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler #7stands here.#n
+~
+~
+3 0 -1000
+30 0 0 0
+1 0
+S
+#1081
+orc~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler.~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler #7stands here.#n
+~
+~
+3 0 -1000
+46 0 0 0
+1 0
+S
+#1082
+orc~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler.~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler #7stands here.#n
+~
+~
+3 0 -1000
+39 0 0 0
+1 0
+S
+#1083
+orc~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler.~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler #7stands here.#n
+~
+~
+3 0 -1000
+46 0 0 0
+1 0
+S
+#1084
+orc~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler.~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler #7stands here.#n
+~
+~
+3 0 -1000
+48 0 0 0
+1 0
+S
+#1085
+orc~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler.~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler #7stands here.#n
+~
+~
+3 0 -1000
+31 0 0 0
+1 0
+S
+#1086
+orc~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler.~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler #7stands here.#n
+~
+~
+3 0 -1000
+40 0 0 0
+1 0
+S
+#1087
+orc~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler.~
+#0A#9n #LO#cr#Lc #LMa#rr#Ra#Ru#rd#Ler #7stands here.#n
+~
+~
+3 0 -1000
+36 0 0 0
+1 0
+S
+#1088
+veteran minotaur guard~
+#0A #cVeteran #RM#ri#Rn#ro#Rt#ra#Ru#rr #0Guard#n~
+#0A #cVeteran #RM#ri#Rn#ro#Rt#ra#Ru#rr #0Guard stands here.#n
+~
+~
+3 0 -1000
+47 0 0 0
+1 0
+S
+#1089
+human prisoner~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer#n~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer #7stands here.#n
+~
+~
+3 0 0
+39 0 0 0
+1 0
+S
+#1090
+human prisoner~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer#n~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer #7stands here.#n
+~
+~
+3 0 0
+38 0 0 0
+1 0
+S
+#1091
+human prisoner~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer#n~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer #7stands here.#n
+~
+~
+3 0 0
+38 0 0 0
+1 0
+S
+#1092
+human prisoner~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer#n~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer #7stands here.#n
+~
+~
+3 0 0
+36 0 0 0
+1 0
+S
+#1093
+human prisoner~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer#n~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer #7stands here.#n
+~
+~
+3 0 0
+47 0 0 0
+1 0
+S
+#1094
+human prisoner~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer#n~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer #7stands here.#n
+~
+~
+3 0 0
+36 0 0 0
+1 0
+S
+#1095
+human prisoner~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer#n~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer #7stands here.#n
+~
+~
+3 0 0
+36 0 0 0
+1 0
+S
+#1096
+human prisoner~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer#n~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer #7stands here.#n
+~
+~
+3 0 0
+47 0 0 0
+1 0
+S
+#1097
+human prisoner~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer#n~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer #7stands here.#n
+~
+~
+3 0 0
+36 0 0 0
+1 0
+S
+#1098
+human prisoner~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer#n~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer #7stands here.#n
+~
+~
+3 0 0
+34 0 0 0
+1 0
+S
+#1099
+human prisoner~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer#n~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer #7stands here.#n
+~
+~
+3 0 0
+37 0 0 0
+1 0
+S
+#1100
+human prisoner~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer#n~
+#7A #RH#ru#0m#ra#Rn Pr#ri#7s#9o#rn#Rer #7stands here.#n
+~
+~
+3 0 0
+38 0 0 0
+1 0
+S
+#1102
+wild elf berserker~
+#0A #gW#yild #gE#ylf #RBerserker#n~
+#0A #gW#yild #gE#ylf #RBerserker#n is here.
+~
+~
+3 0 0
+42 0 0 0
+1 0
+S
+#1103
+wild elf berserker~
+#0A #gW#yild #gE#ylf #RBerserker#n~
+#0A #gW#yild #gE#ylf #RBerserker#n is here.
+~
+~
+3 0 0
+45 0 0 0
+1 0
+S
+#1104
+wild elf berserker~
+#0A #gW#yild #gE#ylf #RBerserker#n~
+#0A #gW#yild #gE#ylf #RBerserker#n is here.
+~
+~
+3 0 0
+28 0 0 0
+1 0
+S
+#1105
+wild elf berserker~
+#0A #gW#yild #gE#ylf #RBerserker#n~
+#0A #gW#yild #gE#ylf #RBerserker#n is here.
+~
+~
+3 0 0
+49 0 0 0
+1 0
+S
+#1106
+wild elf berserker~
+#0A #gW#yild #gE#ylf #RBerserker#n~
+#0A #gW#yild #gE#ylf #RBerserker#n is here.
+~
+~
+3 0 0
+31 0 0 0
+1 0
+S
+#1107
+wild elf berserker~
+#0A #gW#yild #gE#ylf #RBerserker#n~
+#0A #gW#yild #gE#ylf #RBerserker#n is here.
+~
+~
+3 0 0
+32 0 0 0
+1 0
+S
+#1108
+wild elf berserker~
+#0A #gW#yild #gE#ylf #RBerserker#n~
+#0A #gW#yild #gE#ylf #RBerserker#n is here.
+~
+~
+3 0 0
+45 0 0 0
+1 0
+S
+#1109
+wild elf berserker~
+#0A #gW#yild #gE#ylf #RBerserker#n~
+#0A #gW#yild #gE#ylf #RBerserker#n is here.
+~
+~
+3 0 0
+43 0 0 0
+1 0
+S
+#1110
+wild elf berserker~
+#0A #gW#yild #gE#ylf #RBerserker#n~
+#0A #gW#yild #gE#ylf #RBerserker#n is here.
+~
+~
+3 0 0
+34 0 0 0
+1 0
+S
+#1111
+wild elf berserker~
+#0A #gW#yild #gE#ylf #RBerserker#n~
+#0A #gW#yild #gE#ylf #RBerserker#n is here.
+~
+~
+3 0 0
+35 0 0 0
+1 0
+S
+#1112
+wild elf berserker~
+#0A #gW#yild #gE#ylf #RBerserker#n~
+#0A #gW#yild #gE#ylf #RBerserker#n is here.
+~
+~
+3 0 0
+49 0 0 0
+1 0
+S
+#1113
+wild elf berserker~
+#0A #gW#yild #gE#ylf #RBerserker#n~
+#0A #gW#yild #gE#ylf #RBerserker#n is here.
+~
+~
+3 0 0
+36 0 0 0
+1 0
+S
+#1115
+human cleric paladine~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne#n~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne #7stands here.#n
+~
+~
+3 0 0
+49 0 0 0
+2 0
+S
+#1116
+human cleric paladine~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne#n~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne #7stands here.#n
+~
+~
+3 0 0
+47 0 0 0
+2 0
+S
+#1117
+human cleric paladine~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne#n~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne #7stands here.#n
+~
+~
+3 0 0
+54 0 0 0
+2 0
+S
+#1118
+human cleric paladine~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne#n~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne #7stands here.#n
+~
+~
+3 0 0
+47 0 0 0
+2 0
+S
+#1119
+human cleric paladine~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne#n~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne #7stands here.#n
+~
+~
+3 0 0
+35 0 0 0
+2 0
+S
+#1120
+human cleric paladine~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne#n~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne #7stands here.#n
+~
+~
+3 0 0
+38 0 0 0
+2 0
+S
+#1121
+human cleric paladine~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne#n~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne #7stands here.#n
+~
+~
+3 0 0
+51 0 0 0
+2 0
+S
+#1122
+human cleric paladine~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne#n~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne #7stands here.#n
+~
+~
+3 0 0
+48 0 0 0
+2 0
+S
+#1123
+human cleric paladine~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne#n~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne #7stands here.#n
+~
+~
+3 0 0
+54 0 0 0
+2 0
+S
+#1124
+human cleric paladine~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne#n~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne #7stands here.#n
+~
+~
+3 0 0
+51 0 0 0
+2 0
+S
+#1125
+human cleric paladine~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne#n~
+#9A #CH#cu#7m#ca#Cn #CC#cl#7e#9r#ci#Cc #7o#9f #CPa#cl#7a#9d#ci#Cne #7stands here.#n
+~
+~
+3 0 0
+45 0 0 0
+2 0
+S
+#1126
+half ogre prisoner~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner#n~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner #7is here.#n
+~
+~
+3 0 0
+56 0 0 0
+1 0
+S
+#1127
+half ogre prisoner~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner#n~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner #7is here.#n
+~
+~
+3 0 0
+56 0 0 0
+1 0
+S
+#1128
+half ogre prisoner~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner#n~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner #7is here.#n
+~
+~
+3 0 0
+72 0 0 0
+1 0
+S
+#1129
+half ogre prisoner~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner#n~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner #7is here.#n
+~
+~
+3 0 0
+62 0 0 0
+1 0
+S
+#1130
+half ogre prisoner~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner#n~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner #7is here.#n
+~
+~
+3 0 0
+53 0 0 0
+1 0
+S
+#1131
+half ogre prisoner~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner#n~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner #7is here.#n
+~
+~
+3 0 0
+55 0 0 0
+1 0
+S
+#1132
+half ogre prisoner~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner#n~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner #7is here.#n
+~
+~
+3 0 0
+56 0 0 0
+1 0
+S
+#1133
+half ogre prisoner~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner#n~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner #7is here.#n
+~
+~
+3 0 0
+66 0 0 0
+1 0
+S
+#1134
+half ogre prisoner~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner#n~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner #7is here.#n
+~
+~
+3 0 0
+63 0 0 0
+1 0
+S
+#1135
+half ogre prisoner~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner#n~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner #7is here.#n
+~
+~
+3 0 0
+55 0 0 0
+1 0
+S
+#1136
+half ogre prisoner~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner#n~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner #7is here.#n
+~
+~
+3 0 0
+57 0 0 0
+1 0
+S
+#1137
+half ogre prisoner~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner#n~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner #7is here.#n
+~
+~
+3 0 0
+67 0 0 0
+1 0
+S
+#1138
+half ogre prisoner~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner#n~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner #7is here.#n
+~
+~
+3 0 0
+64 0 0 0
+1 0
+S
+#1139
+half ogre prisoner~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner#n~
+#7A #RH#ral#Rf#c-#RO#rgr#Re #RPr#ri#Rs#ro#Rner #7is here.#n
+~
+~
+3 0 0
+56 0 0 0
+1 0
+S
+#1141
+gnoll prisoner~
+#0A #oGnoll #cPrisoner#n~
+#0A #oGnoll #cPrisoner #0is here.#n
+~
+~
+3 0 0
+40 0 0 0
+1 0
+S
+#1142
+gnoll prisoner~
+#0A #oGnoll #cPrisoner#n~
+#0A #oGnoll #cPrisoner #0is here.#n
+~
+~
+3 0 0
+45 0 0 0
+1 0
+S
+#1143
+gnoll prisoner~
+#0A #oGnoll #cPrisoner#n~
+#0A #oGnoll #cPrisoner #0is here.#n
+~
+~
+3 0 0
+40 0 0 0
+1 0
+S
+#1144
+gnoll prisoner~
+#0A #oGnoll #cPrisoner#n~
+#0A #oGnoll #cPrisoner #0is here.#n
+~
+~
+3 0 0
+55 0 0 0
+1 0
+S
+#1145
+gnoll prisoner~
+#0A #oGnoll #cPrisoner#n~
+#0A #oGnoll #cPrisoner #0is here.#n
+~
+~
+3 0 0
+46 0 0 0
+1 0
+S
+#1146
+gnoll prisoner~
+#0A #oGnoll #cPrisoner#n~
+#0A #oGnoll #cPrisoner #0is here.#n
+~
+~
+3 0 0
+43 0 0 0
+1 0
+S
+#1147
+gnoll prisoner~
+#0A #oGnoll #cPrisoner#n~
+#0A #oGnoll #cPrisoner #0is here.#n
+~
+~
+3 0 0
+35 0 0 0
+1 0
+S
+#1148
+gnoll prisoner~
+#0A #oGnoll #cPrisoner#n~
+#0A #oGnoll #cPrisoner #0is here.#n
+~
+~
+3 0 0
+44 0 0 0
+1 0
+S
+#1149
+gnoll prisoner~
+#0A #oGnoll #cPrisoner#n~
+#0A #oGnoll #cPrisoner #0is here.#n
+~
+~
+3 0 0
+54 0 0 0
+1 0
+S
+#1150
+gnoll prisoner~
+#0A #oGnoll #cPrisoner#n~
+#0A #oGnoll #cPrisoner #0is here.#n
+~
+~
+3 0 0
+51 0 0 0
+1 0
+S
+#1151
+gnoll prisoner~
+#0A #oGnoll #cPrisoner#n~
+#0A #oGnoll #cPrisoner #0is here.#n
+~
+~
+3 0 0
+37 0 0 0
+1 0
+S
+#1152
+gnoll prisoner~
+#0A #oGnoll #cPrisoner#n~
+#0A #oGnoll #cPrisoner #0is here.#n
+~
+~
+3 0 0
+41 0 0 0
+1 0
+S
+#1153
+gnoll prisoner~
+#0A #oGnoll #cPrisoner#n~
+#0A #oGnoll #cPrisoner #0is here.#n
+~
+~
+3 0 0
+46 0 0 0
+1 0
+S
+#1154
+kobold prisoner~
+#0A #cKobold #0Prisoner#n~
+#0A #cKobold #0Prisoner stands here.#n
+~
+~
+3 0 -1000
+63 0 0 0
+1 0
+S
+#1155
+kobold prisoner~
+#0A #cKobold #0Prisoner#n~
+#0A #cKobold #0Prisoner stands here.#n
+~
+~
+3 0 -1000
+62 0 0 0
+1 0
+S
+#1156
+kobold prisoner~
+#0A #cKobold #0Prisoner#n~
+#0A #cKobold #0Prisoner stands here.#n
+~
+~
+3 0 -1000
+59 0 0 0
+1 0
+S
+#1157
+kobold prisoner~
+#0A #cKobold #0Prisoner#n~
+#0A #cKobold #0Prisoner stands here.#n
+~
+~
+3 0 -1000
+56 0 0 0
+1 0
+S
+#1158
+kobold prisoner~
+#0A #cKobold #0Prisoner#n~
+#0A #cKobold #0Prisoner stands here.#n
+~
+~
+3 0 -1000
+63 0 0 0
+1 0
+S
+#1159
+kobold prisoner~
+#0A #cKobold #0Prisoner#n~
+#0A #cKobold #0Prisoner stands here.#n
+~
+~
+3 0 -1000
+53 0 0 0
+1 0
+S
+#1160
+kobold prisoner~
+#0A #cKobold #0Prisoner#n~
+#0A #cKobold #0Prisoner stands here.#n
+~
+~
+3 0 -1000
+62 0 0 0
+1 0
+S
+#1161
+kobold prisoner~
+#0A #cKobold #0Prisoner#n~
+#0A #cKobold #0Prisoner stands here.#n
+~
+~
+3 0 -1000
+60 0 0 0
+1 0
+S
+#1162
+kobold prisoner~
+#0A #cKobold #0Prisoner#n~
+#0A #cKobold #0Prisoner stands here.#n
+~
+~
+3 0 -1000
+63 0 0 0
+1 0
+S
+#1163
+kobold prisoner~
+#0A #cKobold #0Prisoner#n~
+#0A #cKobold #0Prisoner stands here
+~
+~
+3 0 -1000
+62 0 0 0
+1 0
+S
+#1164
+kobold prisoner~
+#0A #cKobold #0Prisoner#n~
+#0A #cKobold #0Prisoner stands here
+~
+~
+3 0 -1000
+60 0 0 0
+1 0
+S
+#1165
+kobold prisoner~
+#0A #cKobold #0Prisoner#n~
+#0A #cKobold #0Prisoner stands here
+~
+~
+3 0 -1000
+60 0 0 0
+1 0
+S
+#1167
+ogre slave~
+#LO#cg#Cr#le S#Cl#ca#0v#Le#n~
+#7A#9n #LO#cg#Cr#le S#Cl#ca#0v#Le #7stands here.#n
+~
+~
+3 0 0
+67 0 0 0
+1 0
+S
+#1168
+ogre slave~
+#LO#cg#Cr#le S#Cl#ca#0v#Le#n~
+#7A#9n #LO#cg#Cr#le S#Cl#ca#0v#Le #7stands here.#n
+~
+~
+3 0 0
+72 0 0 0
+1 0
+S
+#1169
+ogre slave~
+#LO#cg#Cr#le S#Cl#ca#0v#Le#n~
+#7A#9n #LO#cg#Cr#le S#Cl#ca#0v#Le #7stands here.#n
+~
+~
+3 0 0
+69 0 0 0
+1 0
+S
+#1170
+ogre slave~
+#LO#cg#Cr#le S#Cl#ca#0v#Le#n~
+#7A#9n #LO#cg#Cr#le S#Cl#ca#0v#Le #7stands here.#n
+~
+~
+3 0 0
+74 0 0 0
+1 0
+S
+#1173
+ogre slave~
+#LO#cg#Cr#le S#Cl#ca#0v#Le#n~
+#7A#9n #LO#cg#Cr#le S#Cl#ca#0v#Le #7stands here.#n
+~
+~
+3 0 0
+70 0 0 0
+1 0
+S
+#1174
+ogre slave~
+#LO#cg#Cr#le S#Cl#ca#0v#Le#n~
+#7A#9n #LO#cg#Cr#le S#Cl#ca#0v#Le #7stands here.#n
+~
+~
+3 0 0
+72 0 0 0
+1 0
+S
+#1175
+ogre slave~
+#LO#cg#Cr#le S#Cl#ca#0v#Le#n~
+#7A#9n #LO#cg#Cr#le S#Cl#ca#0v#Le #7stands here.#n
+~
+~
+3 0 0
+74 0 0 0
+1 0
+S
+#1176
+ogre slave~
+#LO#cg#Cr#le S#Cl#ca#0v#Le#n~
+#7A#9n #LO#cg#Cr#le S#Cl#ca#0v#Le #7stands here.#n
+~
+~
+3 0 0
+72 0 0 0
+1 0
+S
+#1177
+ogre slave~
+#LO#cg#Cr#le S#Cl#ca#0v#Le#n~
+#7A#9n #LO#cg#Cr#le S#Cl#ca#0v#Le #7stands here.#n
+~
+~
+3 0 0
+62 0 0 0
+1 0
+S
+#1178
+ogre slave~
+#LO#cg#Cr#le S#Cl#ca#0v#Le#n~
+#7A#9n #LO#cg#Cr#le S#Cl#ca#0v#Le #7stands here.#n
+~
+~
+3 0 0
+77 0 0 0
+1 0
+S
+#1179
+ogre slave~
+#LO#cg#Cr#le S#Cl#ca#0v#Le#n~
+#7A#9n #LO#cg#Cr#le S#Cl#ca#0v#Le #7stands here.#n
+~
+~
+3 0 0
+70 0 0 0
+1 0
+S
+#1180
+ogre slave~
+#LO#cg#Cr#le S#Cl#ca#0v#Le#n~
+#7A#9n #LO#cg#Cr#le S#Cl#ca#0v#Le #7stands here.#n
+~
+~
+3 0 0
+79 0 0 0
+1 0
+S
+#1181
+Tester mob~
+A TESTER MOB~
+A TESTER MOB is here.
+~
+~
+3 0 0
+194 0 0 0
+1 0
+S
+#1182
+half troll slave~
+#0A #oHalf-#Gtroll#c Slave#n~
+#0A #oHalf-#GTroll #cSlave#0 stands here.#n
+~
+~
+3 0 -1000
+73 0 0 0
+1 0
+S
+#1183
+half troll slave~
+#0A #oHalf-#Gtroll#c Slave#n~
+#0A #oHalf-#GTroll #cSlave#0 stands here.#n
+~
+~
+3 0 -1000
+72 0 0 0
+1 0
+S
+#1184
+half troll slave~
+#0A #oHalf-#Gtroll#c Slave#n~
+#0A #oHalf-#GTroll #cSlave#0 stands here.#n
+~
+~
+3 0 -1000
+67 0 0 0
+1 0
+S
+#1185
+half troll slave~
+#0A #oHalf-#Gtroll#c Slave#n~
+#0A #oHalf-#GTroll #cSlave#0 stands here.#n
+~
+~
+3 0 -1000
+67 0 0 0
+1 0
+S
+#1186
+half troll slave~
+#0A #oHalf-#Gtroll#c Slave#n~
+#0A #oHalf-#GTroll #cSlave#0 stands here.#n
+~
+~
+3 0 -1000
+84 0 0 0
+1 0
+S
+#1187
+half troll slave~
+#0A #oHalf-#Gtroll#c Slave#n~
+#0A #oHalf-#GTroll #cSlave#0 stands here.#n
+~
+~
+3 0 -1000
+82 0 0 0
+1 0
+S
+#1188
+half troll slave~
+#0A #oHalf-#Gtroll#c Slave#n~
+#0A #oHalf-#GTroll #cSlave#0 stands here.#n
+~
+~
+3 0 -1000
+63 0 0 0
+1 0
+S
+#1189
+half troll slave~
+#0A #oHalf-#Gtroll#c Slave#n~
+#0A #oHalf-#GTroll #cSlave#0 stands here.#n
+~
+~
+3 0 -1000
+73 0 0 0
+1 0
+S
+#1190
+half troll slave~
+#0A #oHalf-#Gtroll#c Slave#n~
+#0A #oHalf-#GTroll #cSlave#0 stands here.#n
+~
+~
+3 0 -1000
+67 0 0 0
+1 0
+S
+#1191
+half troll slave~
+#0A #oHalf-#Gtroll#c Slave#n~
+#0A #oHalf-#GTroll #cSlave#0 stands here.#n
+~
+~
+3 0 -1000
+73 0 0 0
+1 0
+S
+#1192
+half troll slave~
+#0A #oHalf-#Gtroll#c Slave#n~
+#0A #oHalf-#GTroll #cSlave#0 stands here.#n
+~
+~
+3 0 -1000
+70 0 0 0
+1 0
+S
+#1193
+half troll slave~
+#0A #oHalf-#Gtroll#c Slave#n~
+#0A #oHalf-#GTroll #cSlave#0 stands here.#n
+~
+~
+3 0 -1000
+68 0 0 0
+1 0
+S
+#1194
+Guardian Thor ~
+#RGu#ra#Rr#rdi#Ran #RT#rh#Ro#rr#n~
+#RT#rh#Ro#Rr, #Ct#ch#Ce #Cpr#cis#Con#cer#Cs #RGu#ra#Rr#rdi#Ran#n
+~
+~
+19 2105500 -300
+5001 20 3 1
+1 0
+S
+#1195
+human cleric of Takhisis~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs#n~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs #0is here.#n
+~
+~
+3 0 -1000
+76 0 0 0
+1 0
+S
+#1196
+human cleric of Takhisis~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs#n~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs #0is here.#n
+~
+~
+3 0 -1000
+82 0 0 0
+1 0
+S
+#1197
+human cleric of Takhisis~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs#n~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs #0is here.#n
+~
+~
+3 0 -1000
+84 0 0 0
+1 0
+S
+#1198
+human cleric of Takhisis~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs#n~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs #0is here.#n
+~
+~
+3 0 -1000
+74 0 0 0
+1 0
+S
+#1199
+human cleric of Takhisis~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs#n~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs #0is here.#n
+~
+~
+3 0 -1000
+81 0 0 0
+1 0
+S
+#1200
+human cleric of Takhisis~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs#n~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs #0is here.#n
+~
+~
+3 0 -1000
+78 0 0 0
+1 0
+S
+#1201
+human cleric of Takhisis~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs#n~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs #0is here.#n
+~
+~
+3 0 -1000
+75 0 0 0
+1 0
+S
+#1202
+human cleric of Takhisis~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs#n~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs #0is here.#n
+~
+~
+3 0 -1000
+77 0 0 0
+1 0
+S
+#1203
+human cleric of Takhisis~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs#n~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs #0is here.#n
+~
+~
+3 0 -1000
+80 0 0 0
+1 0
+S
+#1204
+human cleric of Takhisis~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs#n~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs #0is here.#n
+~
+~
+3 0 -1000
+78 0 0 0
+1 0
+S
+#1205
+human cleric of Takhisis~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs#n~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs #0is here.#n
+~
+~
+3 0 -1000
+82 0 0 0
+1 0
+S
+#1206
+human cleric of Takhisis~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs#n~
+#0A #CH#cu#7m#ca#0n #CC#cl#7e#cr#Ci#7c #Ro#rf #RT#ra#Rk#rh#Ri#rs#Ri#rs #0is here.#n
+~
+~
+3 0 -1000
+84 0 0 0
+1 0
+S
+#0
+
+
+
+#OBJECTS
+#1002
+no name~
+(no short description)~
+(no description)~
+0
+10 0 0
+0 0 0 0
+1 0
+#1010
+one handed longsword~
+#0A #RM#ri#Rn#ro#Rt#ra#Ru#rr#0 trainee One-Handed Longsword#n~
+#0A #RM#ri#Rn#ro#Rt#ra#Ru#rr#0 trainee One-Handed Longsword#n #0is here.#n~
+4
+5 0 8193
+0 25 50 6
+1 45
+#1011
+minotaur trainee breastplate~
+#0A #RM#ri#Rn#ro#Rt#ra#Ru#rr #0Trainee#n #7B#wr#7e#wa#7s#wt#7P#wl#7a#wt#7e#n~
+#0A #RM#ri#Rn#ro#Rt#ra#Ru#rr #0Trainee#n #7B#wr#7e#wa#7s#wt#7P#wl#7a#wt#7e#n #0is here#n~
+26
+7 0 9
+0 0 0 0
+1 0
+A
+18 25
+A
+19 25
+A
+5 5
+A
+1 5
+#1012
+black cloak~
+#0A Black #7cloak#n~
+#0A Black #7cloak#0 is Here.#n~
+30
+7 0 1025
+1 0 0 0
+5 50
+A
+4 2
+A
+3 2
+A
+12 2000
+#1013
+A Viper Tattoo~
+#yA #RV#giper #cTattoo#n~
+#yA #RV#giper #cTattoo#n #0is here.#n~
+0
+7 0 131073
+50 0 0 16
+1 3000
+A
+19 50
+A
+18 25
+A
+13 3000
+#1023
+iron minotaur ring~
+#0An Iron #RM#ri#Rn#ro#Rt#ra#Ru#rr #0Ring#n~
+#0An Iron #RM#ri#Rn#ro#Rt#ra#Ru#rr #0Ring is here.#n~
+26
+7 0 3
+35 0 0 0
+1 0
+A
+18 40
+A
+19 40
+#1042
+heavy plate leggings~
+#L(#7Ancient#L) #yHeavy #7Plate #0Leggings#n~
+#L(#7Ancient#L) #0A Pair of #yHeavy #7Plate #0Leggings are here.#n~
+5
+7 1 33
+100 0 0 0
+15 2000
+A
+19 60
+A
+18 60
+#1043
+heavy iron breastplate~
+#L(#7Ancient#L) #yHeavy #c[#7IRON#c] #7BreastPlate#n~
+#L(#7Ancient#L) #0A #yHeavy #c[#7IRON#c] #7BreastPlate#0 lies here.#n~
+26
+7 1 9
+200 0 0 0
+25 2000
+A
+19 60
+A
+18 60
+#1044
+pair iron gauntlets~
+#L(#7Ancient#L) #0A Pair of #c[#7IRON#c] #yGauntlets#n~
+#L(#7Ancient#L) #0A Pair of #c[#7IRON#c] #yGauntlets #0are here.#n~
+26
+7 1 129
+50 0 0 0
+5 2000
+A
+19 60
+A
+18 60
+#1045
+bag of holding~
+#0A #yBag #0of #yHolding#n~
+#0A #yBag #0of #yHolding#n #0is Here.#n~
+31
+11 3 16385
+150000 0 0 0
+1 5000
+#1046
+visored great helm rose~
+#L(#7Ancient#L) #0Visored #yGreat#R-#yHelm #0of the Rose.#n~
+#L(#7Ancient#L) #0Visored #yGreat#R-#yHelm #0of the Rose is here.#n~
+26
+7 2 17
+75 0 0 0
+12 2000
+A
+18 60
+A
+19 60
+#1047
+mithril bracer~
+#L(#7Ancient#L) #0A #yHeavy #7Plate #yBracer#n~
+#L(#7Ancient#L) #0A #yHeavy #7Plate #yBracer#0 is here.#n~
+5
+7 2 4097
+50 0 0 0
+5 2000
+A
+18 60
+A
+19 60
+#1048
+heavy plate arm guards~
+#L(#7Ancient#L) #yHeavy #7Plate #0Arm#R-#0Guards#n~
+#L(#7Ancient#L) #0A Pair of #yHeavy #7Plate #0Arm#R-#0Guards are here.#n~
+4
+7 1 257
+100 0 0 0
+8 2000
+A
+18 60
+A
+19 60
+#1049
+an evil spirit~
+#0An #REVIL #GS#gp#Gi#gr#Gi#gt#n~
+#0An #REVIL #GS#gp#Gi#gr#Gi#gt#n #0is here.#n~
+7
+7 2 524289
+0 0 0 0
+1 0
+A
+18 70
+A
+19 70
+#1050
+heavy plate collar~
+#L(#7Ancient#L) #0A #yHeavy #7Plate #0Collar#n~
+#L(#7Ancient#L) #0A #yHeavy #7Plate #0Collar is here.#n~
+5
+7 1 5
+25 0 0 0
+5 2000
+A
+18 60
+A
+19 60
+#1055
+elven one handed longsword~
+#0An #GE#gl#Gv#ge#Gn #ROne-Handed #yLongsword#n~
+#0An #GE#gl#Gv#ge#Gn #ROne-Handed #yLongsword#n #0is here.#n~
+4
+5 3 8193
+13000 150 175 6
+9 50000
+A
+19 70
+A
+18 70
+A
+13 2000
+#1056
+selven steel gladius~
+#0An #GE#gl#Gv#ge#Gn #c[#7STEEL#c] #yGladius#n~
+#0An #GE#gl#Gv#ge#Gn #c[#7STEEL#c] #yGladius#n #0is here.#n~
+4
+5 3 8193
+14000 150 175 3
+5 50000
+A
+19 70
+A
+18 70
+#1057
+elven winged boots~
+#0A Pair of #GE#gl#Gv#ge#Gn #yWinged #0Boots#n~
+#0A Pair of #GE#gl#Gv#ge#Gn #yWinged #0Boots are here.#n~
+25
+7 3 65
+50 0 0 3
+1 50000
+A
+19 70
+A
+18 70
+#1058
+elven steel breastplate~
+#0An #GE#gl#Gv#ge#Gn #c[#7STEEL#c] #yBreastplate#n~
+#0An #GE#gl#Gv#ge#Gn #c[#7STEEL#c] #yBreastplate#n #0is here.#n~
+4
+7 3 9
+300 0 0 9
+13 50000
+A
+18 70
+A
+19 70
+#1062
+pair of iron gauntlets~
+#0A #cPair #Rof #0[IRON] #cGauntlets#n~
+#0A #cPair #Rof #0[IRON] #cGauntlets#0 is here.#n~
+26
+7 2 129
+0 0 0 0
+1 0
+A
+19 35
+A
+18 35
+A
+13 1000
+#1075
+iron bracer~
+#0An #c[#7IRON#c]#0 Bracer#n~
+#0An #c[#7IRON#c]#0 Bracer is here.#n~
+26
+7 3 4097
+30 0 0 0
+10 400
+A
+19 30
+A
+18 30
+#1076
+plate leggings iron~
+#0A Pair of #c[#7IRON#c] #7Plate #0Leggings#n~
+#0A Pair of #c[#7IRON#c] #7Plate #0Leggings are here.#n~
+26
+7 3 33
+50 0 0 0
+30 80
+A
+19 30
+A
+18 30
+#1088
+iron plated boots~
+#0A #oPair #0of #c[#7IRON#c] #0Plated Boots#n~
+#0A #oPair #0of #c[#7IRON#c] #0Plated Boots lies here.#n~
+26
+7 3 65
+25 0 0 0
+9 35
+A
+17 -100
+A
+19 30
+A
+18 30
+#1089
+iron great visored helm~
+#0A Visored #c[#7IRON#c] #oGreat #cHelm#n~
+#0A Visored #c[#7IRON#c] #oGreat #cHelm #0is here.#n~
+26
+7 3 32769
+20 0 0 0
+10 120
+A
+17 -75
+A
+19 25
+A
+18 25
+#1090
+chainmail sleeves~
+#0A pair of #c[#7STEEL#c] #cChain-Mail #oSleeves#n~
+#0A pair of #c[#7STEEL#c] #cChain-Mail #oSleeves #0are here.#n~
+4
+7 3 257
+30 0 0 0
+6 150
+A
+19 35
+A
+18 35
+A
+17 -150
+#1194
+Pearl of Regeneration~
+#9Pearl #7of #RR#re#yg#Ce#7nera#Ct#yi#ro#Rn#n~
+#La shining sphere lie here.#n~
+22
+7 131 524289
+0 0 0 16
+50 50000
+A
+19 60
+A
+17 -150
+A
+18 50
+A
+14 750
+A
+12 1000
+A
+13 3000
+#0
+
+
+
+#ROOMDATA
+#1000
+#c-#C[#c-#ROu#rtsi#Rde #RT#rh#Re #RGr#re#Rat #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1001
+D1
+~
+~
+0 0 3340
+D2
+~
+~
+0 0 2005
+S
+#1001
+#c-#C[#c-#RIn#rsi#Rde #Rt#rh#Re #REn#rt#Rra#rn#Rce #ro#Rf #Rt#rh#Re #RGr#re#Rat #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1003
+D1
+~
+~
+0 0 1004
+D2
+~
+~
+0 0 1000
+D3
+~
+~
+0 0 1002
+S
+#1002
+#c-#C[#c-#RB#ras#Re #ro#Rf #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1005
+D1
+~
+~
+0 0 1001
+S
+#1003
+#c-#C[#c-#RBo#rtt#Rom #ro#Rf #Rt#rh#Re #RGr#re#Rat #RSt#rai#Rr#rca#Rse#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1007
+D1
+~
+~
+0 0 1006
+D2
+~
+~
+0 0 1001
+D3
+~
+~
+0 0 1005
+D4
+~
+~
+0 0 1010
+S
+#1004
+#c-#C[#c-#RB#ras#Re #ro#Rf #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1006
+D3
+~
+~
+0 0 1001
+S
+#1005
+#c-#C[#c-#RB#ras#Re #ro#Rf #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1003
+D2
+~
+~
+0 0 1002
+D3
+~
+~
+0 0 1009
+S
+#1006
+#c-#C[#c-#RB#ras#Re #ro#Rf #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1008
+D2
+~
+~
+0 0 1004
+D3
+~
+~
+0 0 1003
+S
+#1007
+#c-#C[#c-#RB#ras#Re #ro#Rf #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1003
+S
+#1008
+#c-#C[#c-#RB#ras#Re #ro#Rf #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1006
+S
+#1009
+#c-#C[#c-#RB#ras#Re #ro#Rf #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1005
+S
+#1010
+#c-#C[#c-#RT#rh#Re #RLa#rn#Rd#ri#Rng #ro#Rn t#rh#Re #RSe#rco#Rnd #RS#rt#Ro#rr#Ry#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1013
+D1
+~
+~
+0 0 1012
+D2
+~
+~
+0 0 1014
+D3
+~
+~
+0 0 1011
+D4
+~
+~
+0 0 1023
+D5
+~
+~
+0 0 1003
+S
+#1011
+#c-#C[#c-#RSe#rco#Rnd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1019
+D1
+~
+~
+0 0 1010
+D2
+~
+~
+0 0 1016
+D3
+~
+~
+0 0 1018
+S
+#1012
+#c-#C[#c-#RSe#rco#Rnd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1020
+D1
+~
+~
+0 0 1017
+D2
+~
+~
+0 0 1015
+D3
+~
+~
+0 0 1010
+S
+#1013
+#c-#C[#c-#RSe#rco#Rnd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1021
+D1
+~
+~
+0 0 1020
+D2
+~
+~
+0 0 1010
+D3
+~
+~
+0 0 1019
+S
+#1014
+#c-#C[#c-#RSe#rco#Rnd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1010
+D1
+~
+~
+0 0 1015
+D2
+~
+~
+0 0 1022
+D3
+~
+~
+0 0 1016
+S
+#1015
+#c-#C[#c-#RSe#rco#Rnd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1012
+D3
+~
+~
+0 0 1014
+S
+#1016
+#c-#C[#c-#RSe#rco#Rnd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1011
+D1
+~
+~
+0 0 1014
+S
+#1017
+#c-#C[#c-#RSe#rco#Rnd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1012
+S
+#1018
+#c-#C[#c-#RSe#rco#Rnd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1011
+S
+#1019
+#c-#C[#c-#RSe#rco#Rnd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1013
+D2
+~
+~
+0 0 1011
+S
+#1020
+#c-#C[#c-#RSe#rco#Rnd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1012
+D3
+~
+~
+0 0 1013
+S
+#1021
+#c-#C[#c-#RSe#rco#Rnd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1013
+S
+#1022
+#c-#C[#c-#RSe#rco#Rnd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1014
+S
+#1023
+#c-#C[#c-#RT#rh#Re #RLa#rn#Rd#ri#Rng #ro#Rn #Rt#rh#Re #RT#rh#Ri#rr#Rd #RL#re#Rv#re#Rl#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1030
+D1
+~
+~
+0 0 1027
+D2
+~
+~
+0 0 1024
+D3
+~
+~
+0 0 1033
+D4
+~
+~
+0 0 1036
+D5
+~
+~
+0 0 1010
+S
+#1024
+#c-#C[#c-#RT#rh#Ri#rr#Rd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1023
+D1
+~
+~
+0 0 1026
+D2
+~
+~
+0 0 1025
+D3
+~
+~
+0 0 1035
+S
+#1025
+#c-#C[#c-#RT#rh#Ri#rr#Rd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1024
+S
+#1026
+#c-#C[#c-#RT#rh#Ri#rr#Rd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1027
+D3
+~
+~
+0 0 1024
+S
+#1027
+#c-#C[#c-#RT#rh#Ri#rr#Rd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1029
+D1
+~
+~
+0 0 1028
+D2
+~
+~
+0 0 1026
+D3
+~
+~
+0 0 1023
+S
+#1028
+#c-#C[#c-#RT#rh#Ri#rr#Rd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1027
+S
+#1029
+#c-#C[#c-#RT#rh#Ri#rr#Rd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1027
+D3
+~
+~
+0 0 1030
+S
+#1030
+#c-#C[#c-#RT#rh#Ri#rr#Rd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1031
+D1
+~
+~
+0 0 1029
+D2
+~
+~
+0 0 1023
+D3
+~
+~
+0 0 1032
+S
+#1031
+#c-#C[#c-#RT#rh#Ri#rr#Rd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1030
+S
+#1032
+#c-#C[#c-#RT#rh#Ri#rr#Rd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1030
+D2
+~
+~
+0 0 1033
+S
+#1033
+#c-#C[#c-#RT#rh#Ri#rr#Rd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1032
+D1
+~
+~
+0 0 1023
+D2
+~
+~
+0 0 1035
+D3
+~
+~
+0 0 1034
+S
+#1034
+#c-#C[#c-#RT#rh#Ri#rr#Rd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1033
+S
+#1035
+#c-#C[#c-#RT#rh#Ri#rr#Rd #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1033
+D1
+~
+~
+0 0 1024
+S
+#1036
+#c-#C[#c-#RT#rh#Re #RLa#rn#Rd#ri#Rng #ro#Rn #Rt#rh#Re #RF#ro#Ru#rr#Rt#rh #RL#re#Rv#re#Rl#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1044
+D1
+~
+~
+0 0 1042
+D2
+~
+~
+0 0 1037
+D3
+~
+~
+0 0 1041
+D4
+~
+~
+0 0 1049
+D5
+~
+~
+0 0 1023
+S
+#1037
+#c-#C[#c-#RFo#rur#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1036
+D1
+~
+~
+0 0 1039
+D2
+~
+~
+0 0 1038
+D3
+~
+~
+0 0 1040
+S
+#1038
+#c-#C[#c-#RFo#rur#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1037
+S
+#1039
+#c-#C[#c-#RFo#rur#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1042
+D3
+~
+~
+0 0 1037
+S
+#1040
+#c-#C[#c-#RFo#rur#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1041
+D1
+~
+~
+0 0 1037
+S
+#1041
+#c-#C[#c-#RFo#rur#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1045
+D1
+~
+~
+0 0 1036
+D2
+~
+~
+0 0 1040
+D3
+~
+~
+0 0 1047
+S
+#1042
+#c-#C[#c-#RFo#rur#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1043
+D1
+~
+~
+0 0 1048
+D2
+~
+~
+0 0 1039
+D3
+~
+~
+0 0 1036
+S
+#1043
+#c-#C[#c-#RFo#rur#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1042
+D3
+~
+~
+0 0 1044
+S
+#1044
+#c-#C[#c-#RFo#rur#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1046
+D1
+~
+~
+0 0 1043
+D2
+~
+~
+0 0 1036
+D3
+~
+~
+0 0 1045
+S
+#1045
+#c-#C[#c-#RFo#rur#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1044
+D2
+~
+~
+0 0 1041
+S
+#1046
+#c-#C[#c-#RFo#rur#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1044
+S
+#1047
+#c-#C[#c-#RFo#rur#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1041
+S
+#1048
+#c-#C[#c-#RFo#rur#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1042
+S
+#1049
+#c-#C[#c-#RT#rh#Re #RLa#rn#Rd#ri#Rng #ro#Rn #Rt#rh#Re #RF#ri#Rf#rt#Rh #RL#re#Rv#re#Rl#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1054
+D1
+~
+~
+0 0 1052
+D2
+~
+~
+0 0 1050
+D3
+~
+~
+0 0 1056
+D4
+~
+~
+0 0 1062
+D5
+~
+~
+0 0 1036
+S
+#1050
+#c-#C[#c-#RFi#rf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1049
+D1
+~
+~
+0 0 1051
+D2
+~
+~
+0 0 1058
+D3
+~
+~
+0 0 1057
+S
+#1051
+#c-#C[#c-#RFi#rf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1052
+D3
+~
+~
+0 0 1050
+S
+#1052
+#c-#C[#c-#RFi#rf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1053
+D1
+~
+~
+0 0 1061
+D2
+~
+~
+0 0 1051
+D3
+~
+~
+0 0 1049
+S
+#1053
+#c-#C[#c-#RFi#rf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1052
+D3
+~
+~
+0 0 1054
+S
+#1054
+#c-#C[#c-#RFi#rf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1059
+D1
+~
+~
+0 0 1053
+D2
+~
+~
+0 0 1049
+D3
+~
+~
+0 0 1055
+S
+#1055
+#c-#C[#c-#RFi#rf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1054
+D2
+~
+~
+0 0 1056
+S
+#1056
+#c-#C[#c-#RFi#rf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1055
+D1
+~
+~
+0 0 1049
+D2
+~
+~
+0 0 1057
+D3
+~
+~
+0 0 1060
+S
+#1057
+#c-#C[#c-#RFi#rf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1056
+D1
+~
+~
+0 0 1050
+S
+#1058
+#c-#C[#c-#RFi#rf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1050
+S
+#1059
+#c-#C[#c-#RFi#rf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1054
+S
+#1060
+#c-#C[#c-#RFi#rf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1056
+S
+#1061
+#c-#C[#c-#RFi#rf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1052
+S
+#1062
+#c-#C[#c-#RT#rh#Re #RLa#rn#Rd#ri#Rng #ro#Rn #Rt#rh#Re #RS#ri#Rx#rt#Rh #RL#re#Rv#re#Rl#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1064
+D1
+~
+~
+0 0 1065
+D2
+~
+~
+0 0 1066
+D3
+~
+~
+0 0 1063
+D4
+~
+~
+0 0 1075
+D5
+~
+~
+0 0 1049
+S
+#1063
+#c-#C[#c-#RSi#rx#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1067
+D1
+~
+~
+0 0 1062
+D2
+~
+~
+0 0 1068
+D3
+~
+~
+0 0 1072
+S
+#1064
+#c-#C[#c-#RSi#rx#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1071
+D1
+~
+~
+0 0 1070
+D2
+~
+~
+0 0 1062
+D3
+~
+~
+0 0 1067
+S
+#1065
+#c-#C[#c-#RSi#rx#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1070
+D1
+~
+~
+0 0 1074
+D2
+~
+~
+0 0 1069
+D3
+~
+~
+0 0 1062
+S
+#1066
+#c-#C[#c-#RSi#rx#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1062
+D1
+~
+~
+0 0 1069
+D2
+~
+~
+0 0 1073
+D3
+~
+~
+0 0 1068
+S
+#1067
+#c-#C[#c-#RSi#rx#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1064
+D2
+~
+~
+0 0 1063
+S
+#1068
+#c-#C[#c-#RSi#rx#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1063
+D1
+~
+~
+0 0 1066
+S
+#1069
+#c-#C[#c-#RSi#rx#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1065
+D3
+~
+~
+0 0 1066
+S
+#1070
+#c-#C[#c-#RSi#rx#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1065
+D3
+~
+~
+0 0 1064
+S
+#1071
+#c-#C[#c-#RSi#rx#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1064
+S
+#1072
+#c-#C[#c-#RSi#rx#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1063
+S
+#1073
+#c-#C[#c-#RSi#rx#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1066
+S
+#1074
+#c-#C[#c-#RSi#rx#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1065
+S
+#1075
+#c-#C[#c-#RT#rh#Re #RLa#rn#Rd#ri#Rng #ro#Rn #Rt#rh#Re #RS#re#Rv#re#Rn#rt#Rh #RL#re#Rv#re#Rl#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1079
+D1
+~
+~
+0 0 1078
+D2
+~
+~
+0 0 1077
+D3
+~
+~
+0 0 1076
+D4
+~
+~
+0 0 1088
+D5
+~
+~
+0 0 1062
+S
+#1076
+#c-#C[#c-#RSe#rv#Re#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1083
+D1
+~
+~
+0 0 1075
+D2
+~
+~
+0 0 1081
+D3
+~
+~
+0 0 1084
+S
+#1077
+#c-#C[#c-#RSe#rv#Re#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1075
+D1
+~
+~
+0 0 1080
+D2
+~
+~
+0 0 1082
+D3
+~
+~
+0 0 1081
+S
+#1078
+#c-#C[#c-#RSe#rv#Re#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1086
+D1
+~
+~
+0 0 1087
+D2
+~
+~
+0 0 1080
+D3
+~
+~
+0 0 1075
+S
+#1079
+#c-#C[#c-#RSe#rv#Re#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1085
+D1
+~
+~
+0 0 1086
+D2
+~
+~
+0 0 1075
+D3
+~
+~
+0 0 1083
+S
+#1080
+#c-#C[#c-#RSe#rv#Re#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1078
+D3
+~
+~
+0 0 1077
+S
+#1081
+#c-#C[#c-#RSe#rv#Re#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1076
+D1
+~
+~
+0 0 1077
+S
+#1082
+#c-#C[#c-#RSe#rv#Re#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1077
+S
+#1083
+#c-#C[#c-#RSe#rv#Re#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1079
+D2
+~
+~
+0 0 1076
+S
+#1084
+#c-#C[#c-#RSe#rv#Re#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1076
+S
+#1085
+#c-#C[#c-#RSe#rv#Re#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1079
+S
+#1086
+#c-#C[#c-#RSe#rv#Re#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1078
+D3
+~
+~
+0 0 1079
+S
+#1087
+#c-#C[#c-#RSe#rv#Re#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1078
+S
+#1088
+#c-#C[#c-#RT#rh#Re #RLa#rn#Rd#ri#Rng #ro#Rn #Rt#rh#Re #RE#ri#Rg#rh#Rt#rh #RL#re#Rv#re#Rl#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1090
+D1
+~
+~
+0 0 1091
+D2
+~
+~
+0 0 1092
+D3
+~
+~
+0 0 1089
+D4
+~
+~
+0 0 1101
+D5
+~
+~
+0 0 1075
+S
+#1089
+#c-#C[#c-#REi#rgh#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1096
+D1
+~
+~
+0 0 1088
+D2
+~
+~
+0 0 1093
+D3
+~
+~
+0 0 1100
+S
+#1090
+#c-#C[#c-#REi#rgh#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1097
+D1
+~
+~
+0 0 1095
+D2
+~
+~
+0 0 1088
+D3
+~
+~
+0 0 1096
+S
+#1091
+#c-#C[#c-#REi#rgh#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1095
+D1
+~
+~
+0 0 1098
+D2
+~
+~
+0 0 1094
+D3
+~
+~
+0 0 1088
+S
+#1092
+#c-#C[#c-#REi#rgh#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1088
+D1
+~
+~
+0 0 1094
+D2
+~
+~
+0 0 1099
+D3
+~
+~
+0 0 1093
+S
+#1093
+#c-#C[#c-#REi#rgh#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1089
+D1
+~
+~
+0 0 1092
+S
+#1094
+#c-#C[#c-#REi#rgh#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1091
+D3
+~
+~
+0 0 1092
+S
+#1095
+#c-#C[#c-#REi#rgh#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1091
+D3
+~
+~
+0 0 1090
+S
+#1096
+#c-#C[#c-#REi#rgh#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1090
+D2
+~
+~
+0 0 1089
+S
+#1097
+#c-#C[#c-#REi#rgh#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1090
+S
+#1098
+#c-#C[#c-#REi#rgh#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1091
+S
+#1099
+#c-#C[#c-#REi#rgh#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1092
+S
+#1100
+#c-#C[#c-#REi#rgh#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1089
+S
+#1101
+#c-#C[#c-#RT#rh#Re #RLa#rn#Rd#ri#Rng #ro#Rn #Rt#rh#Re #RN#ri#Rg#rh#Rt #RL#re#Rv#re#Rl#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1105
+D1
+~
+~
+0 0 1104
+D2
+~
+~
+0 0 1103
+D3
+~
+~
+0 0 1102
+D4
+~
+~
+0 0 1114
+D5
+~
+~
+0 0 1088
+S
+#1102
+#c-#C[#c-#RNi#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1109
+D1
+~
+~
+0 0 1101
+D2
+~
+~
+0 0 1106
+D3
+~
+~
+0 0 1111
+S
+#1103
+#c-#C[#c-#RNi#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1101
+D1
+~
+~
+0 0 1107
+D2
+~
+~
+0 0 1112
+D3
+~
+~
+0 0 1106
+S
+#1104
+#c-#C[#c-#RNi#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1108
+D1
+~
+~
+0 0 1113
+D2
+~
+~
+0 0 1107
+D3
+~
+~
+0 0 1101
+S
+#1105
+#c-#C[#c-#RNi#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1110
+D1
+~
+~
+0 0 1108
+D2
+~
+~
+0 0 1101
+D3
+~
+~
+0 0 1109
+S
+#1106
+#c-#C[#c-#RNi#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1102
+D1
+~
+~
+0 0 1103
+S
+#1107
+#c-#C[#c-#RNi#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1104
+D3
+~
+~
+0 0 1103
+S
+#1108
+#c-#C[#c-#RNi#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1104
+D3
+~
+~
+0 0 1105
+S
+#1109
+#c-#C[#c-#RNi#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1105
+D2
+~
+~
+0 0 1102
+S
+#1110
+#c-#C[#c-#RNi#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1105
+S
+#1111
+#c-#C[#c-#RNi#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1102
+S
+#1112
+#c-#C[#c-#RNi#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1103
+S
+#1113
+#c-#C[#c-#RNi#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1104
+S
+#1114
+#c-#C]#c-#RT#rh#Re #RL#ra#Rn#rd#Ri#rn#Rg #ro#Rn #rt#Rh#re #RT#re#Rn#rt#Rh #RL#re#Rv#Re#Rl#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1118
+D1
+~
+~
+0 0 1116
+D2
+~
+~
+0 0 1115
+D3
+~
+~
+0 0 1117
+D4
+~
+~
+0 0 1127
+D5
+~
+~
+0 0 1101
+S
+#1115
+#c-#C[#c-#RTe#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1114
+D1
+~
+~
+0 0 1120
+D2
+~
+~
+0 0 1125
+D3
+~
+~
+0 0 1119
+S
+#1116
+#c-#C[#c-#RTe#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1121
+D1
+~
+~
+0 0 1124
+D2
+~
+~
+0 0 1120
+D3
+~
+~
+0 0 1114
+S
+#1117
+#c-#C[#c-#RTe#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1122
+D1
+~
+~
+0 0 1114
+D2
+~
+~
+0 0 1119
+D3
+~
+~
+0 0 1123
+S
+#1118
+#c-#C[#c-#RTe#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1126
+D1
+~
+~
+0 0 1121
+D2
+~
+~
+0 0 1114
+D3
+~
+~
+0 0 1122
+S
+#1119
+#c-#C[#c-#RTe#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1117
+D1
+~
+~
+0 0 1115
+S
+#1120
+#c-#C[#c-#RTe#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1116
+D3
+~
+~
+0 0 1115
+S
+#1121
+#c-#C[#c-#RTe#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1116
+D3
+~
+~
+0 0 1118
+S
+#1122
+#c-#C[#c-#RTe#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1118
+D2
+~
+~
+0 0 1117
+S
+#1123
+#c-#C[#c-#RTe#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1117
+S
+#1124
+#c-#C[#c-#RTe#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1116
+S
+#1125
+#c-#C[#c-#RTe#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1115
+S
+#1126
+#c-#C[#c-#RTe#rn#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1118
+S
+#1127
+#c-#C[#c-#RT#rh#Re #RLa#rn#Rd#ri#Rng #ro#Rn #Rt#rh#Re #RE#rl#Re#rv#Re#rn#Rt#rh #RL#re#Rv#re#Rl#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1131
+D1
+~
+~
+0 0 1130
+D2
+~
+~
+0 0 1129
+D3
+~
+~
+0 0 1128
+D4
+~
+~
+0 0 1140
+D5
+~
+~
+0 0 1114
+S
+#1128
+#c-#C[#c-#REl#re#Rv#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1133
+D1
+~
+~
+0 0 1127
+D2
+~
+~
+0 0 1134
+D3
+~
+~
+0 0 1139
+S
+#1129
+#c-#C[#c-#REl#re#Rv#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1127
+D1
+~
+~
+0 0 1135
+D2
+~
+~
+0 0 1136
+D3
+~
+~
+0 0 1134
+S
+#1130
+#c-#C[#c-#REl#re#Rv#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1132
+D1
+~
+~
+0 0 1137
+D2
+~
+~
+0 0 1135
+D3
+~
+~
+0 0 1127
+S
+#1131
+#c-#C[#c-#REl#re#Rv#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1138
+D1
+~
+~
+0 0 1132
+D2
+~
+~
+0 0 1127
+D3
+~
+~
+0 0 1133
+S
+#1132
+#c-#C[#c-#REl#re#Rv#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1130
+D3
+~
+~
+0 0 1131
+S
+#1133
+#c-#C[#c-#REl#re#Rv#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1131
+D2
+~
+~
+0 0 1128
+S
+#1134
+#c-#C[#c-#REl#re#Rv#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1128
+D1
+~
+~
+0 0 1129
+S
+#1135
+#c-#C[#c-#REl#re#Rv#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1130
+D3
+~
+~
+0 0 1129
+S
+#1136
+#c-#C[#c-#REl#re#Rv#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1129
+S
+#1137
+#c-#C[#c-#REl#re#Rv#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1130
+S
+#1138
+#c-#C[#c-#REl#re#Rv#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1131
+S
+#1139
+#c-#C[#c-#REl#re#Rv#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1128
+S
+#1140
+#c-#C[#c-#RT#rh#Re #RLa#rn#Rd#ri#Rng #ro#Rn #Rt#rh#Re #RT#rw#Re#rl#Rf#rt#Rh #RL#re#Rv#re#Rl#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1143
+D1
+~
+~
+0 0 1142
+D2
+~
+~
+0 0 1144
+D3
+~
+~
+0 0 1141
+D4
+~
+~
+0 0 1153
+D5
+~
+~
+0 0 1127
+S
+#1141
+#c-#C[#c-#RTw#relf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1147
+D1
+~
+~
+0 0 1140
+D2
+~
+~
+0 0 1146
+D3
+~
+~
+0 0 1151
+S
+#1142
+#c-#C[#c-#RTw#relf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1148
+D1
+~
+~
+0 0 1152
+D2
+~
+~
+0 0 1150
+D3
+~
+~
+0 0 1140
+S
+#1143
+#c-#C[#c-#RTw#relf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1149
+D1
+~
+~
+0 0 1148
+D2
+~
+~
+0 0 1140
+D3
+~
+~
+0 0 1147
+S
+#1144
+#c-#C[#c-#RTw#relf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1140
+D1
+~
+~
+0 0 1150
+D2
+~
+~
+0 0 1145
+D3
+~
+~
+0 0 1146
+S
+#1145
+#c-#C[#c-#RTw#relf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1144
+S
+#1146
+#c-#C[#c-#RTw#relf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1141
+D1
+~
+~
+0 0 1144
+S
+#1147
+#c-#C[#c-#RTw#relf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1143
+D2
+~
+~
+0 0 1141
+S
+#1148
+#c-#C[#c-#RTw#relf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1142
+D3
+~
+~
+0 0 1143
+S
+#1149
+#c-#C[#c-#RTw#relf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1143
+S
+#1150
+#c-#C[#c-#RTw#relf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1142
+D3
+~
+~
+0 0 1144
+S
+#1151
+#c-#C[#c-#RTw#relf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1141
+S
+#1152
+#c-#C[#c-#RTw#relf#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1142
+S
+#1153
+#c-#C[#c-#RT#rh#Re #RLa#rn#Rd#ri#Rng #ro#Rn #Rt#rh#Re #RT#rh#Ri#rr#Rt#re#Re#rn#Rt#rh #RL#re#Rv#re#Rl#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1157
+D1
+~
+~
+0 0 1155
+D2
+~
+~
+0 0 1156
+D3
+~
+~
+0 0 1154
+D4
+~
+~
+0 0 1166
+D5
+~
+~
+0 0 1140
+S
+#1154
+#c-#C[#c-#RTh#rir#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1160
+D1
+~
+~
+0 0 1153
+D2
+~
+~
+0 0 1159
+D3
+~
+~
+0 0 1163
+S
+#1155
+#c-#C[#c-#RTh#rir#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1161
+D1
+~
+~
+0 0 1164
+D2
+~
+~
+0 0 1158
+D3
+~
+~
+0 0 1153
+S
+#1156
+#c-#C[#c-#RTh#rir#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1153
+D1
+~
+~
+0 0 1158
+D2
+~
+~
+0 0 1165
+D3
+~
+~
+0 0 1159
+S
+#1157
+#c-#C[#c-#RTh#rir#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1162
+D1
+~
+~
+0 0 1161
+D2
+~
+~
+0 0 1153
+D3
+~
+~
+0 0 1160
+S
+#1158
+#c-#C[#c-#RTh#rir#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1155
+D3
+~
+~
+0 0 1156
+S
+#1159
+#c-#C[#c-#RTh#rir#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1154
+D1
+~
+~
+0 0 1156
+S
+#1160
+#c-#C[#c-#RTh#rir#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1157
+D2
+~
+~
+0 0 1154
+S
+#1161
+#c-#C[#c-#RTh#rir#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1155
+D3
+~
+~
+0 0 1157
+S
+#1162
+#c-#C[#c-#RTh#rir#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1157
+S
+#1163
+#c-#C[#c-#RTh#rir#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1154
+S
+#1164
+#c-#C[#c-#RTh#rir#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1155
+S
+#1165
+#c-#C[#c-#RTh#rir#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1156
+S
+#1166
+#c-#C[#c-#RT#rh#Re #RLa#rn#Rd#ri#Rng #ro#Rn #Rt#rh#Re #RF#ro#Ru#rr#Rt#re#Re#rn#Rt#rh #RL#re#Rv#re#Rl#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1170
+D1
+~
+~
+0 0 1168
+D2
+~
+~
+0 0 1169
+D3
+~
+~
+0 0 1167
+D4
+~
+~
+0 0 1181
+D5
+~
+~
+0 0 1153
+S
+#1167
+#c-#C[#c-#RFo#rur#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1178
+D1
+~
+~
+0 0 1166
+D2
+~
+~
+0 0 1174
+D3
+~
+~
+0 0 1180
+S
+#1168
+#c-#C[#c-#RFo#rur#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1177
+D1
+~
+~
+0 0 1176
+D2
+~
+~
+0 0 1173
+D3
+~
+~
+0 0 1166
+S
+#1169
+#c-#C[#c-#RFo#rur#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1166
+D1
+~
+~
+0 0 1173
+D2
+~
+~
+0 0 1175
+D3
+~
+~
+0 0 1174
+S
+#1170
+#c-#C[#c-#RFo#rur#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1179
+D1
+~
+~
+0 0 1177
+D2
+~
+~
+0 0 1166
+D3
+~
+~
+0 0 1178
+S
+#1171
+#c-#C[#c-#RFo#rur#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+4 0
+S
+#1173
+#c-#C[#c-#RFo#rur#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1168
+D3
+~
+~
+0 0 1169
+S
+#1174
+#c-#C[#c-#RFo#rur#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1167
+D1
+~
+~
+0 0 1169
+S
+#1175
+#c-#C[#c-#RFo#rur#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1169
+S
+#1176
+#c-#C[#c-#RFo#rur#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1168
+S
+#1177
+#c-#C[#c-#RFo#rur#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1168
+D3
+~
+~
+0 0 1170
+S
+#1178
+#c-#C[#c-#RFo#rur#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1170
+D2
+~
+~
+0 0 1167
+S
+#1179
+#c-#C[#c-#RFo#rur#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1170
+S
+#1180
+#c-#C[#c-#RFo#rur#Rte#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1167
+S
+#1181
+#c-#C[#c-#RFi#rft#Re#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1185
+D1
+~
+~
+0 0 1183
+D2
+~
+~
+0 0 1184
+D3
+~
+~
+0 0 1182
+D4
+~
+~
+0 0 1194
+D5
+~
+~
+0 0 1166
+S
+#1182
+#c-#C[#c-#RFi#rft#Re#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1187
+D1
+~
+~
+0 0 1181
+D2
+~
+~
+0 0 1188
+D3
+~
+~
+0 0 1193
+S
+#1183
+#c-#C[#c-#RFi#rft#Re#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1186
+D1
+~
+~
+0 0 1192
+D2
+~
+~
+0 0 1189
+D3
+~
+~
+0 0 1181
+S
+#1184
+#c-#C[#c-#RFi#rft#Re#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1181
+D1
+~
+~
+0 0 1189
+D2
+~
+~
+0 0 1190
+D3
+~
+~
+0 0 1188
+S
+#1185
+#c-#C[#c-#RFi#rft#Re#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1191
+D1
+~
+~
+0 0 1186
+D2
+~
+~
+0 0 1181
+D3
+~
+~
+0 0 1187
+S
+#1186
+#c-#C[#c-#RFi#rft#Re#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1183
+D3
+~
+~
+0 0 1185
+S
+#1187
+#c-#C[#c-#RFi#rft#Re#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1185
+D2
+~
+~
+0 0 1182
+S
+#1188
+#c-#C[#c-#RFi#rft#Re#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1182
+D1
+~
+~
+0 0 1184
+S
+#1189
+#c-#C[#c-#RFi#rft#Re#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1183
+D3
+~
+~
+0 0 1184
+S
+#1190
+#c-#C[#c-#RFi#rft#Re#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1184
+S
+#1191
+#c-#C[#c-#RFi#rft#Re#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1185
+S
+#1192
+#c-#C[#c-#RFi#rft#Re#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1183
+S
+#1193
+#c-#C[#c-#RFi#rft#Re#ren#Rth #RL#re#Rv#re#Rl #rI#Rn #CDu#cng#7e#9o#0n #9T#7o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1182
+S
+#1194
+#c-#C]#c-#RT#rh#Re #RL#ra#Rn#rd#Ri#rn#Rg #ro#Rn #rt#Rh#re #RS#ri#Rx#rt#Re#re#Rn#rt#Rh #RL#re#Rv#Re#Rl#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1198
+D1
+~
+~
+0 0 1195
+D2
+~
+~
+0 0 1203
+D3
+~
+~
+0 0 1200
+D5
+~
+~
+0 0 1181
+S
+#1195
+#c-#C[#c-#R#rS#Ri#rx#Rt#re#Re#rn#Rt#rh #RL#re#Rv#re#Rl #ri#Rn #CDu#cng#7eo#0n #7T#0o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1197
+D1
+~
+~
+0 0 1196
+D2
+~
+~
+0 0 1205
+D3
+~
+~
+0 0 1194
+S
+#1196
+#c-#C[#c-#R#rS#Ri#rx#Rt#re#Re#rn#Rt#rh #RL#re#Rv#re#Rl #ri#Rn #CDu#cng#7eo#0n #7T#0o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D3
+~
+~
+0 0 1195
+S
+#1197
+#c-#C[#c-#R#rS#Ri#rx#Rt#re#Re#rn#Rt#rh #RL#re#Rv#re#Rl #ri#Rn #CDu#cng#7eo#0n #7T#0o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1195
+D3
+~
+~
+0 0 1198
+S
+#1198
+#c-#C[#c-#R#rS#Ri#rx#Rt#re#Re#rn#Rt#rh #RL#re#Rv#re#Rl #ri#Rn #CDu#cng#7eo#0n #7T#0o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1199
+D1
+~
+~
+0 0 1197
+D2
+~
+~
+0 0 1194
+D3
+~
+~
+0 0 1202
+S
+#1199
+#c-#C[#c-#R#rS#Ri#rx#Rt#re#Re#rn#Rt#rh #RL#re#Rv#re#Rl #ri#Rn #CDu#cng#7eo#0n #7T#0o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D2
+~
+~
+0 0 1198
+S
+#1200
+#c-#C[#c-#R#rS#Ri#rx#Rt#re#Re#rn#Rt#rh #RL#re#Rv#re#Rl #ri#Rn #CDu#cng#7eo#0n #7T#0o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1202
+D1
+~
+~
+0 0 1194
+D2
+~
+~
+0 0 1204
+D3
+~
+~
+0 0 1201
+S
+#1201
+#c-#C[#c-#R#rS#Ri#rx#Rt#re#Re#rn#Rt#rh #RL#re#Rv#re#Rl #ri#Rn #CDu#cng#7eo#0n #7T#0o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1200
+S
+#1202
+#c-#C[#c-#R#rS#Ri#rx#Rt#re#Re#rn#Rt#rh #RL#re#Rv#re#Rl #ri#Rn #CDu#cng#7eo#0n #7T#0o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D1
+~
+~
+0 0 1198
+D2
+~
+~
+0 0 1200
+S
+#1203
+#c-#C[#c-#R#rS#Ri#rx#Rt#re#Re#rn#Rt#rh #RL#re#Rv#re#Rl #ri#Rn #CDu#cng#7eo#0n #7T#0o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1194
+D1
+~
+~
+0 0 1205
+D2
+~
+~
+0 0 1206
+D3
+~
+~
+0 0 1204
+S
+#1204
+#c-#C[#c-#R#rS#Ri#rx#Rt#re#Re#rn#Rt#rh #RL#re#Rv#re#Rl #ri#Rn #CDu#cng#7eo#0n #7T#0o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1200
+D1
+~
+~
+0 0 1203
+S
+#1205
+#c-#C[#c-#R#rS#Ri#rx#Rt#re#Re#rn#Rt#rh #RL#re#Rv#re#Rl #ri#Rn #CDu#cng#7eo#0n #7T#0o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1195
+D3
+~
+~
+0 0 1203
+S
+#1206
+#c-#C[#c=#R#rS#Ri#rx#Rt#re#Re#rn#Rt#rh #RL#re#Rv#re#Rl #ri#Rn #CDu#cng#7eo#0n #7T#0o#cw#Cer#c-#C]#c-#n~
+~
+0 0
+D0
+~
+~
+0 0 1203
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 1002 10 1002
+M 0 1002 10 1002
+M 0 1002 10 1002
+M 0 1002 10 1002
+M 0 1002 10 1002
+M 0 1002 10 1002
+M 0 1002 10 1002
+M 0 1002 10 1002
+M 0 1002 10 1002
+M 0 1002 10 1002
+M 0 1003 10 1003
+M 0 1003 10 1003
+M 0 1003 10 1003
+M 0 1003 10 1003
+M 0 1003 10 1003
+M 0 1003 10 1003
+M 0 1003 10 1003
+M 0 1003 10 1003
+M 0 1003 10 1003
+M 0 1003 10 1003
+M 0 1004 10 1004
+M 0 1004 10 1004
+M 0 1004 10 1004
+M 0 1004 10 1004
+M 0 1004 10 1004
+M 0 1004 10 1004
+M 0 1004 10 1004
+M 0 1004 10 1004
+M 0 1004 10 1004
+M 0 1004 10 1004
+M 0 1005 10 1005
+M 0 1005 10 1005
+M 0 1005 10 1005
+M 0 1005 10 1005
+M 0 1005 10 1005
+M 0 1005 10 1005
+M 0 1005 10 1005
+M 0 1005 10 1005
+M 0 1005 10 1005
+M 0 1005 10 1005
+M 0 1006 10 1006
+M 0 1006 10 1006
+M 0 1006 10 1006
+M 0 1006 10 1006
+M 0 1006 10 1006
+M 0 1006 10 1006
+M 0 1006 10 1006
+M 0 1006 10 1006
+M 0 1006 10 1006
+M 0 1006 10 1006
+M 0 1007 10 1007
+M 0 1007 10 1007
+M 0 1007 10 1007
+M 0 1007 10 1007
+M 0 1007 10 1007
+M 0 1007 10 1007
+M 0 1007 10 1007
+M 0 1007 10 1007
+M 0 1007 10 1007
+M 0 1007 10 1007
+M 0 1008 10 1008
+M 0 1008 10 1008
+M 0 1008 10 1008
+M 0 1008 10 1008
+M 0 1008 10 1008
+M 0 1008 10 1008
+M 0 1008 10 1008
+M 0 1008 10 1008
+M 0 1008 10 1008
+M 0 1008 10 1008
+M 0 1009 10 1009
+M 0 1009 10 1009
+M 0 1009 10 1009
+M 0 1009 10 1009
+M 0 1009 10 1009
+M 0 1009 10 1009
+M 0 1009 10 1009
+M 0 1009 10 1009
+M 0 1009 10 1009
+M 0 1009 10 1009
+M 0 1010 2 1010
+E 0 1010 0 16
+E 0 1011 0 5
+E 0 1012 0 12
+E 0 1013 0 26
+M 0 1010 2 1010
+E 0 1010 0 16
+E 0 1011 0 5
+E 0 1012 0 12
+M 0 1011 10 1011
+M 0 1011 10 1011
+M 0 1011 10 1011
+M 0 1011 10 1011
+M 0 1011 10 1011
+M 0 1011 10 1011
+M 0 1011 10 1011
+M 0 1011 10 1011
+M 0 1011 10 1011
+M 0 1011 10 1011
+M 0 1012 10 1012
+M 0 1012 10 1012
+M 0 1012 10 1012
+M 0 1012 10 1012
+M 0 1012 10 1012
+M 0 1012 10 1012
+M 0 1012 10 1012
+M 0 1012 10 1012
+M 0 1012 10 1012
+M 0 1012 10 1012
+M 0 1013 10 1013
+M 0 1013 10 1013
+M 0 1013 10 1013
+M 0 1013 10 1013
+M 0 1013 10 1013
+M 0 1013 10 1013
+M 0 1013 10 1013
+M 0 1013 10 1013
+M 0 1013 10 1013
+M 0 1013 10 1013
+M 0 1014 10 1014
+M 0 1014 10 1014
+M 0 1014 10 1014
+M 0 1014 10 1014
+M 0 1014 10 1014
+M 0 1014 10 1014
+M 0 1014 10 1014
+M 0 1014 10 1014
+M 0 1014 10 1014
+M 0 1014 10 1014
+M 0 1015 10 1015
+M 0 1015 10 1015
+M 0 1015 10 1015
+M 0 1015 10 1015
+M 0 1015 10 1015
+M 0 1015 10 1015
+M 0 1015 10 1015
+M 0 1015 10 1015
+M 0 1015 10 1015
+M 0 1015 10 1015
+M 0 1016 10 1016
+M 0 1016 10 1016
+M 0 1016 10 1016
+M 0 1016 10 1016
+M 0 1016 10 1016
+M 0 1016 10 1016
+M 0 1016 10 1016
+M 0 1016 10 1016
+M 0 1016 10 1016
+M 0 1016 10 1016
+M 0 1017 10 1017
+M 0 1017 10 1017
+M 0 1017 10 1017
+M 0 1017 10 1017
+M 0 1017 10 1017
+M 0 1017 10 1017
+M 0 1017 10 1017
+M 0 1017 10 1017
+M 0 1017 10 1017
+M 0 1017 10 1017
+M 0 1018 10 1018
+M 0 1018 10 1018
+M 0 1018 10 1018
+M 0 1018 10 1018
+M 0 1018 10 1018
+M 0 1018 10 1018
+M 0 1018 10 1018
+M 0 1018 10 1018
+M 0 1018 10 1018
+M 0 1018 10 1018
+M 0 1019 10 1019
+M 0 1019 10 1019
+M 0 1019 10 1019
+M 0 1019 10 1019
+M 0 1019 10 1019
+M 0 1019 10 1019
+M 0 1019 10 1019
+M 0 1019 10 1019
+M 0 1019 10 1019
+M 0 1019 10 1019
+M 0 1020 10 1020
+M 0 1020 10 1020
+M 0 1020 10 1020
+M 0 1020 10 1020
+M 0 1020 10 1020
+M 0 1020 10 1020
+M 0 1020 10 1020
+M 0 1020 10 1020
+M 0 1020 10 1020
+M 0 1020 10 1020
+M 0 1021 10 1021
+M 0 1021 10 1021
+M 0 1021 10 1021
+M 0 1021 10 1021
+M 0 1021 10 1021
+M 0 1021 10 1021
+M 0 1021 10 1021
+M 0 1021 10 1021
+M 0 1021 10 1021
+M 0 1021 10 1021
+M 0 1022 10 1022
+M 0 1022 10 1022
+M 0 1022 10 1022
+M 0 1022 10 1022
+M 0 1022 10 1022
+M 0 1022 10 1022
+M 0 1022 10 1022
+M 0 1022 10 1022
+M 0 1022 10 1022
+M 0 1022 10 1022
+M 0 1023 2 1023
+E 0 1010 0 16
+E 0 1011 0 5
+E 0 1023 0 2
+M 0 1023 2 1023
+E 0 1011 0 5
+E 0 1010 0 16
+E 0 1023 0 1
+M 0 1024 10 1024
+M 0 1024 10 1024
+M 0 1024 10 1024
+M 0 1024 10 1024
+M 0 1024 10 1024
+M 0 1024 10 1024
+M 0 1024 10 1024
+M 0 1024 10 1024
+M 0 1024 10 1024
+M 0 1024 10 1024
+M 0 1025 10 1025
+M 0 1025 10 1025
+M 0 1025 10 1025
+M 0 1025 10 1025
+M 0 1025 10 1025
+M 0 1025 10 1025
+M 0 1025 10 1025
+M 0 1025 10 1025
+M 0 1025 10 1025
+M 0 1025 10 1025
+M 0 1026 10 1026
+M 0 1026 10 1026
+M 0 1026 10 1026
+M 0 1026 10 1026
+M 0 1026 10 1026
+M 0 1026 10 1026
+M 0 1026 10 1026
+M 0 1026 10 1026
+M 0 1026 10 1026
+M 0 1026 10 1026
+M 0 1027 10 1027
+M 0 1027 10 1027
+M 0 1027 10 1027
+M 0 1027 10 1027
+M 0 1027 10 1027
+M 0 1027 10 1027
+M 0 1027 10 1027
+M 0 1027 10 1027
+M 0 1027 10 1027
+M 0 1027 10 1027
+M 0 1028 10 1028
+M 0 1028 10 1028
+M 0 1028 10 1028
+M 0 1028 10 1028
+M 0 1028 10 1028
+M 0 1028 10 1028
+M 0 1028 10 1028
+M 0 1028 10 1028
+M 0 1028 10 1028
+M 0 1028 10 1028
+M 0 1029 10 1029
+M 0 1029 10 1029
+M 0 1029 10 1029
+M 0 1029 10 1029
+M 0 1029 10 1029
+M 0 1029 10 1029
+M 0 1029 10 1029
+M 0 1029 10 1029
+M 0 1029 10 1029
+M 0 1029 10 1029
+M 0 1030 10 1030
+M 0 1030 10 1030
+M 0 1030 10 1030
+M 0 1030 10 1030
+M 0 1030 10 1030
+M 0 1030 10 1030
+M 0 1030 10 1030
+M 0 1030 10 1030
+M 0 1030 10 1030
+M 0 1030 10 1030
+M 0 1031 10 1031
+M 0 1031 10 1031
+M 0 1031 10 1031
+M 0 1031 10 1031
+M 0 1031 10 1031
+M 0 1031 10 1031
+M 0 1031 10 1031
+M 0 1031 10 1031
+M 0 1031 10 1031
+M 0 1031 10 1031
+M 0 1032 10 1032
+M 0 1032 10 1032
+M 0 1032 10 1032
+M 0 1032 10 1032
+M 0 1032 10 1032
+M 0 1032 10 1032
+M 0 1032 10 1032
+M 0 1032 10 1032
+M 0 1032 10 1032
+M 0 1032 10 1032
+M 0 1033 10 1033
+M 0 1033 10 1033
+M 0 1033 10 1033
+M 0 1033 10 1033
+M 0 1033 10 1033
+M 0 1033 10 1033
+M 0 1033 10 1033
+M 0 1033 10 1033
+M 0 1033 10 1033
+M 0 1033 10 1033
+M 0 1034 10 1034
+M 0 1034 10 1034
+M 0 1034 10 1034
+M 0 1034 10 1034
+M 0 1034 10 1034
+M 0 1034 10 1034
+M 0 1034 10 1034
+M 0 1034 10 1034
+M 0 1034 10 1034
+M 0 1034 10 1034
+M 0 1035 10 1035
+M 0 1035 10 1035
+M 0 1035 10 1035
+M 0 1035 10 1035
+M 0 1035 10 1035
+M 0 1035 10 1035
+M 0 1035 10 1035
+M 0 1035 10 1035
+M 0 1035 10 1035
+M 0 1035 10 1035
+M 0 1036 2 1036
+M 0 1036 2 1036
+M 0 1037 10 1037
+M 0 1037 10 1037
+M 0 1037 10 1037
+M 0 1037 10 1037
+M 0 1037 10 1037
+M 0 1037 10 1037
+M 0 1037 10 1037
+M 0 1037 10 1037
+M 0 1037 10 1037
+M 0 1037 10 1037
+M 0 1038 10 1038
+M 0 1038 10 1038
+M 0 1038 10 1038
+M 0 1038 10 1038
+M 0 1038 10 1038
+M 0 1038 10 1038
+M 0 1038 10 1038
+M 0 1038 10 1038
+M 0 1038 10 1038
+M 0 1038 10 1038
+M 0 1039 10 1039
+M 0 1039 10 1039
+M 0 1039 10 1039
+M 0 1039 10 1039
+M 0 1039 10 1039
+M 0 1039 10 1039
+M 0 1039 10 1039
+M 0 1039 10 1039
+M 0 1039 10 1039
+M 0 1039 10 1039
+M 0 1040 10 1040
+M 0 1040 10 1040
+M 0 1040 10 1040
+M 0 1040 10 1040
+M 0 1040 10 1040
+M 0 1040 10 1040
+M 0 1040 10 1040
+M 0 1040 10 1040
+M 0 1040 10 1040
+M 0 1040 10 1040
+M 0 1041 10 1041
+M 0 1041 10 1041
+M 0 1041 10 1041
+M 0 1041 10 1041
+M 0 1041 10 1041
+M 0 1041 10 1041
+M 0 1041 10 1041
+M 0 1041 10 1041
+M 0 1041 10 1041
+M 0 1041 10 1041
+M 0 1042 10 1042
+M 0 1042 10 1042
+M 0 1042 10 1042
+M 0 1042 10 1042
+M 0 1042 10 1042
+M 0 1042 10 1042
+M 0 1042 10 1042
+M 0 1042 10 1042
+M 0 1042 10 1042
+M 0 1042 10 1042
+M 0 1043 10 1043
+M 0 1043 10 1043
+M 0 1043 10 1043
+M 0 1043 10 1043
+M 0 1043 10 1043
+M 0 1043 10 1043
+M 0 1043 10 1043
+M 0 1043 10 1043
+M 0 1043 10 1043
+M 0 1043 10 1043
+M 0 1044 10 1044
+M 0 1044 10 1044
+M 0 1044 10 1044
+M 0 1044 10 1044
+M 0 1044 10 1044
+M 0 1044 10 1044
+M 0 1044 10 1044
+M 0 1044 10 1044
+M 0 1044 10 1044
+M 0 1044 10 1044
+M 0 1045 10 1045
+M 0 1045 10 1045
+M 0 1045 10 1045
+M 0 1045 10 1045
+M 0 1045 10 1045
+M 0 1045 10 1045
+M 0 1045 10 1045
+M 0 1045 10 1045
+M 0 1045 10 1045
+M 0 1045 10 1045
+M 0 1046 10 1046
+M 0 1046 10 1046
+M 0 1046 10 1046
+M 0 1046 10 1046
+M 0 1046 10 1046
+M 0 1046 10 1046
+M 0 1046 10 1046
+M 0 1046 10 1046
+M 0 1046 10 1046
+M 0 1046 10 1046
+M 0 1047 10 1047
+M 0 1047 10 1047
+M 0 1047 10 1047
+M 0 1047 10 1047
+M 0 1047 10 1047
+M 0 1047 10 1047
+M 0 1047 10 1047
+M 0 1047 10 1047
+M 0 1047 10 1047
+M 0 1047 10 1047
+M 0 1048 10 1048
+M 0 1048 10 1048
+M 0 1048 10 1048
+M 0 1048 10 1048
+M 0 1048 10 1048
+M 0 1048 10 1048
+M 0 1048 10 1048
+M 0 1048 10 1048
+M 0 1048 10 1048
+M 0 1048 10 1048
+M 0 1049 1 1049
+E 0 1049 0 24
+M 0 1050 10 1050
+M 0 1050 10 1050
+M 0 1050 10 1050
+M 0 1050 10 1050
+M 0 1050 10 1050
+M 0 1050 10 1050
+M 0 1050 10 1050
+M 0 1050 10 1050
+M 0 1050 10 1050
+M 0 1050 10 1050
+M 0 1051 10 1051
+M 0 1051 10 1051
+M 0 1051 10 1051
+M 0 1051 10 1051
+M 0 1051 10 1051
+M 0 1051 10 1051
+M 0 1051 10 1051
+M 0 1051 10 1051
+M 0 1051 10 1051
+M 0 1051 10 1051
+M 0 1052 10 1052
+M 0 1052 10 1052
+M 0 1052 10 1052
+M 0 1052 10 1052
+M 0 1052 10 1052
+M 0 1052 10 1052
+M 0 1052 10 1052
+M 0 1052 10 1052
+M 0 1052 10 1052
+M 0 1052 10 1052
+M 0 1053 10 1053
+M 0 1053 10 1053
+M 0 1053 10 1053
+M 0 1053 10 1053
+M 0 1053 10 1053
+M 0 1053 10 1053
+M 0 1053 10 1053
+M 0 1053 10 1053
+M 0 1053 10 1053
+M 0 1053 10 1053
+M 0 1054 10 1054
+M 0 1054 10 1054
+M 0 1054 10 1054
+M 0 1054 10 1054
+M 0 1054 10 1054
+M 0 1054 10 1054
+M 0 1054 10 1054
+M 0 1054 10 1054
+M 0 1054 10 1054
+M 0 1054 10 1054
+M 0 1055 10 1055
+M 0 1055 10 1055
+M 0 1055 10 1055
+M 0 1055 10 1055
+M 0 1055 10 1055
+M 0 1055 10 1055
+M 0 1055 10 1055
+M 0 1055 10 1055
+M 0 1055 10 1055
+M 0 1055 10 1055
+M 0 1056 10 1056
+M 0 1056 10 1056
+M 0 1056 10 1056
+M 0 1056 10 1056
+M 0 1056 10 1056
+M 0 1056 10 1056
+M 0 1056 10 1056
+M 0 1056 10 1056
+M 0 1056 10 1056
+M 0 1056 10 1056
+M 0 1057 10 1057
+M 0 1057 10 1057
+M 0 1057 10 1057
+M 0 1057 10 1057
+M 0 1057 10 1057
+M 0 1057 10 1057
+M 0 1057 10 1057
+M 0 1057 10 1057
+M 0 1057 10 1057
+M 0 1057 10 1057
+M 0 1058 10 1058
+M 0 1058 10 1058
+M 0 1058 10 1058
+M 0 1058 10 1058
+M 0 1058 10 1058
+M 0 1058 10 1058
+M 0 1058 10 1058
+M 0 1058 10 1058
+M 0 1058 10 1058
+M 0 1058 10 1058
+M 0 1059 10 1059
+M 0 1059 10 1059
+M 0 1059 10 1059
+M 0 1059 10 1059
+M 0 1059 10 1059
+M 0 1059 10 1059
+M 0 1059 10 1059
+M 0 1059 10 1059
+M 0 1059 10 1059
+M 0 1059 10 1059
+M 0 1060 10 1060
+M 0 1060 10 1060
+M 0 1060 10 1060
+M 0 1060 10 1060
+M 0 1060 10 1060
+M 0 1060 10 1060
+M 0 1060 10 1060
+M 0 1060 10 1060
+M 0 1060 10 1060
+M 0 1060 10 1060
+M 0 1061 10 1061
+M 0 1061 10 1061
+M 0 1061 10 1061
+M 0 1061 10 1061
+M 0 1061 10 1061
+M 0 1061 10 1061
+M 0 1061 10 1061
+M 0 1061 10 1061
+M 0 1061 10 1061
+M 0 1061 10 1061
+M 0 1062 2 1062
+E 0 1062 0 9
+M 0 1062 2 1062
+E 0 1062 0 9
+M 0 1063 10 1063
+M 0 1063 10 1063
+M 0 1063 10 1063
+M 0 1063 10 1063
+M 0 1063 10 1063
+M 0 1063 10 1063
+M 0 1063 10 1063
+M 0 1063 10 1063
+M 0 1063 10 1063
+M 0 1063 10 1063
+M 0 1064 10 1064
+M 0 1064 10 1064
+M 0 1064 10 1064
+M 0 1064 10 1064
+M 0 1064 10 1064
+M 0 1064 10 1064
+M 0 1064 10 1064
+M 0 1064 10 1064
+M 0 1064 10 1064
+M 0 1064 10 1064
+M 0 1065 10 1065
+M 0 1065 10 1065
+M 0 1065 10 1065
+M 0 1065 10 1065
+M 0 1065 10 1065
+M 0 1065 10 1065
+M 0 1065 10 1065
+M 0 1065 10 1065
+M 0 1065 10 1065
+M 0 1065 10 1065
+M 0 1066 10 1066
+M 0 1066 10 1066
+M 0 1066 10 1066
+M 0 1066 10 1066
+M 0 1066 10 1066
+M 0 1066 10 1066
+M 0 1066 10 1066
+M 0 1066 10 1066
+M 0 1066 10 1066
+M 0 1066 10 1066
+M 0 1067 10 1067
+M 0 1067 10 1067
+M 0 1067 10 1067
+M 0 1067 10 1067
+M 0 1067 10 1067
+M 0 1067 10 1067
+M 0 1067 10 1067
+M 0 1067 10 1067
+M 0 1067 10 1067
+M 0 1067 10 1067
+M 0 1068 10 1068
+M 0 1068 10 1068
+M 0 1068 10 1068
+M 0 1068 10 1068
+M 0 1068 10 1068
+M 0 1068 10 1068
+M 0 1068 10 1068
+M 0 1068 10 1068
+M 0 1068 10 1068
+M 0 1068 10 1068
+M 0 1069 10 1069
+M 0 1069 10 1069
+M 0 1069 10 1069
+M 0 1069 10 1069
+M 0 1069 10 1069
+M 0 1069 10 1069
+M 0 1069 10 1069
+M 0 1069 10 1069
+M 0 1069 10 1069
+M 0 1069 10 1069
+M 0 1070 10 1070
+M 0 1070 10 1070
+M 0 1070 10 1070
+M 0 1070 10 1070
+M 0 1070 10 1070
+M 0 1070 10 1070
+M 0 1070 10 1070
+M 0 1070 10 1070
+M 0 1070 10 1070
+M 0 1070 10 1070
+M 0 1071 10 1071
+M 0 1071 10 1071
+M 0 1071 10 1071
+M 0 1071 10 1071
+M 0 1071 10 1071
+M 0 1071 10 1071
+M 0 1071 10 1071
+M 0 1071 10 1071
+M 0 1071 10 1071
+M 0 1071 10 1071
+M 0 1072 10 1072
+M 0 1072 10 1072
+M 0 1072 10 1072
+M 0 1072 10 1072
+M 0 1072 10 1072
+M 0 1072 10 1072
+M 0 1072 10 1072
+M 0 1072 10 1072
+M 0 1072 10 1072
+M 0 1072 10 1072
+M 0 1073 10 1073
+M 0 1073 10 1073
+M 0 1073 10 1073
+M 0 1073 10 1073
+M 0 1073 10 1073
+M 0 1073 10 1073
+M 0 1073 10 1073
+M 0 1073 10 1073
+M 0 1073 10 1073
+M 0 1073 10 1073
+M 0 1074 10 1074
+M 0 1074 10 1074
+M 0 1074 10 1074
+M 0 1074 10 1074
+M 0 1074 10 1074
+M 0 1074 10 1074
+M 0 1074 10 1074
+M 0 1074 10 1074
+M 0 1074 10 1074
+M 0 1074 10 1074
+M 0 1075 1 1075
+E 0 1075 0 15
+E 0 1076 0 7
+E 0 1075 0 14
+M 0 1076 10 1076
+M 0 1076 10 1076
+M 0 1076 10 1076
+M 0 1076 10 1076
+M 0 1076 10 1076
+M 0 1076 10 1076
+M 0 1076 10 1076
+M 0 1076 10 1076
+M 0 1076 10 1076
+M 0 1076 10 1076
+M 0 1077 10 1077
+M 0 1077 10 1077
+M 0 1077 10 1077
+M 0 1077 10 1077
+M 0 1077 10 1077
+M 0 1077 10 1077
+M 0 1077 10 1077
+M 0 1077 10 1077
+M 0 1077 10 1077
+M 0 1077 10 1077
+M 0 1078 10 1078
+M 0 1078 10 1078
+M 0 1078 10 1078
+M 0 1078 10 1078
+M 0 1078 10 1078
+M 0 1078 10 1078
+M 0 1078 10 1078
+M 0 1078 10 1078
+M 0 1078 10 1078
+M 0 1078 10 1078
+M 0 1079 10 1079
+M 0 1079 10 1079
+M 0 1079 10 1079
+M 0 1079 10 1079
+M 0 1079 10 1079
+M 0 1079 10 1079
+M 0 1079 10 1079
+M 0 1079 10 1079
+M 0 1079 10 1079
+M 0 1079 10 1079
+M 0 1080 10 1080
+M 0 1080 10 1080
+M 0 1080 10 1080
+M 0 1080 10 1080
+M 0 1080 10 1080
+M 0 1080 10 1080
+M 0 1080 10 1080
+M 0 1080 10 1080
+M 0 1080 10 1080
+M 0 1080 10 1080
+M 0 1081 10 1081
+M 0 1081 10 1081
+M 0 1081 10 1081
+M 0 1081 10 1081
+M 0 1081 10 1081
+M 0 1081 10 1081
+M 0 1081 10 1081
+M 0 1081 10 1081
+M 0 1081 10 1081
+M 0 1081 10 1081
+M 0 1082 10 1082
+M 0 1082 10 1082
+M 0 1082 10 1082
+M 0 1082 10 1082
+M 0 1082 10 1082
+M 0 1082 10 1082
+M 0 1082 10 1082
+M 0 1082 10 1082
+M 0 1082 10 1082
+M 0 1082 10 1082
+M 0 1083 10 1083
+M 0 1083 10 1083
+M 0 1083 10 1083
+M 0 1083 10 1083
+M 0 1083 10 1083
+M 0 1083 10 1083
+M 0 1083 10 1083
+M 0 1083 10 1083
+M 0 1083 10 1083
+M 0 1083 10 1083
+M 0 1084 10 1084
+M 0 1084 10 1084
+M 0 1084 10 1084
+M 0 1084 10 1084
+M 0 1084 10 1084
+M 0 1084 10 1084
+M 0 1084 10 1084
+M 0 1084 10 1084
+M 0 1084 10 1084
+M 0 1084 10 1084
+M 0 1085 10 1085
+M 0 1085 10 1085
+M 0 1085 10 1085
+M 0 1085 10 1085
+M 0 1085 10 1085
+M 0 1085 10 1085
+M 0 1085 10 1085
+M 0 1085 10 1085
+M 0 1085 10 1085
+M 0 1085 10 1085
+M 0 1086 10 1086
+M 0 1086 10 1086
+M 0 1086 10 1086
+M 0 1086 10 1086
+M 0 1086 10 1086
+M 0 1086 10 1086
+M 0 1086 10 1086
+M 0 1086 10 1086
+M 0 1086 10 1086
+M 0 1086 10 1086
+M 0 1087 10 1087
+M 0 1087 10 1087
+M 0 1087 10 1087
+M 0 1087 10 1087
+M 0 1087 10 1087
+M 0 1087 10 1087
+M 0 1087 10 1087
+M 0 1087 10 1087
+M 0 1087 10 1087
+M 0 1087 10 1087
+M 0 1088 1 1088
+E 0 1088 0 8
+E 0 1089 0 20
+E 0 1090 0 10
+M 0 1089 10 1089
+M 0 1089 10 1089
+M 0 1089 10 1089
+M 0 1089 10 1089
+M 0 1089 10 1089
+M 0 1089 10 1089
+M 0 1089 10 1089
+M 0 1089 10 1089
+M 0 1089 10 1089
+M 0 1089 10 1089
+M 0 1090 10 1090
+M 0 1090 10 1090
+M 0 1090 10 1090
+M 0 1090 10 1090
+M 0 1090 10 1090
+M 0 1090 10 1090
+M 0 1090 10 1090
+M 0 1090 10 1090
+M 0 1090 10 1090
+M 0 1090 10 1090
+M 0 1091 10 1091
+M 0 1091 10 1091
+M 0 1091 10 1091
+M 0 1091 10 1091
+M 0 1091 10 1091
+M 0 1091 10 1091
+M 0 1091 10 1091
+M 0 1091 10 1091
+M 0 1091 10 1091
+M 0 1091 10 1091
+M 0 1092 10 1092
+M 0 1092 10 1092
+M 0 1092 10 1092
+M 0 1092 10 1092
+M 0 1092 10 1092
+M 0 1092 10 1092
+M 0 1092 10 1092
+M 0 1092 10 1092
+M 0 1092 10 1092
+M 0 1092 10 1092
+M 0 1093 10 1093
+M 0 1093 10 1093
+M 0 1093 10 1093
+M 0 1093 10 1093
+M 0 1093 10 1093
+M 0 1093 10 1093
+M 0 1093 10 1093
+M 0 1093 10 1093
+M 0 1093 10 1093
+M 0 1093 10 1093
+M 0 1094 10 1094
+M 0 1094 10 1094
+M 0 1094 10 1094
+M 0 1094 10 1094
+M 0 1094 10 1094
+M 0 1094 10 1094
+M 0 1094 10 1094
+M 0 1094 10 1094
+M 0 1094 10 1094
+M 0 1094 10 1094
+M 0 1095 10 1095
+M 0 1095 10 1095
+M 0 1095 10 1095
+M 0 1095 10 1095
+M 0 1095 10 1095
+M 0 1095 10 1095
+M 0 1095 10 1095
+M 0 1095 10 1095
+M 0 1095 10 1095
+M 0 1095 10 1095
+M 0 1096 10 1096
+M 0 1096 10 1096
+M 0 1096 10 1096
+M 0 1096 10 1096
+M 0 1096 10 1096
+M 0 1096 10 1096
+M 0 1096 10 1096
+M 0 1096 10 1096
+M 0 1096 10 1096
+M 0 1096 10 1096
+M 0 1097 10 1097
+M 0 1097 10 1097
+M 0 1097 10 1097
+M 0 1097 10 1097
+M 0 1097 10 1097
+M 0 1097 10 1097
+M 0 1097 10 1097
+M 0 1097 10 1097
+M 0 1097 10 1097
+M 0 1097 10 1097
+M 0 1098 10 1098
+M 0 1098 10 1098
+M 0 1098 10 1098
+M 0 1098 10 1098
+M 0 1098 10 1098
+M 0 1098 10 1098
+M 0 1098 10 1098
+M 0 1098 10 1098
+M 0 1098 10 1098
+M 0 1098 10 1098
+M 0 1099 10 1099
+M 0 1099 10 1099
+M 0 1099 10 1099
+M 0 1099 10 1099
+M 0 1099 10 1099
+M 0 1099 10 1099
+M 0 1099 10 1099
+M 0 1099 10 1099
+M 0 1099 10 1099
+M 0 1099 10 1099
+M 0 1100 10 1100
+M 0 1100 10 1100
+M 0 1100 10 1100
+M 0 1100 10 1100
+M 0 1100 10 1100
+M 0 1100 10 1100
+M 0 1100 10 1100
+M 0 1100 10 1100
+M 0 1100 10 1100
+M 0 1100 10 1100
+M 0 1102 10 1102
+M 0 1102 10 1102
+M 0 1102 10 1102
+M 0 1102 10 1102
+M 0 1102 10 1102
+M 0 1102 10 1102
+M 0 1102 10 1102
+M 0 1102 10 1102
+M 0 1102 10 1102
+M 0 1102 10 1102
+M 0 1103 10 1103
+M 0 1103 10 1103
+M 0 1103 10 1103
+M 0 1103 10 1103
+M 0 1103 10 1103
+M 0 1103 10 1103
+M 0 1103 10 1103
+M 0 1103 10 1103
+M 0 1103 10 1103
+M 0 1103 10 1103
+M 0 1104 10 1104
+M 0 1104 10 1104
+M 0 1104 10 1104
+M 0 1104 10 1104
+M 0 1104 10 1104
+M 0 1104 10 1104
+M 0 1104 10 1104
+M 0 1104 10 1104
+M 0 1104 10 1104
+M 0 1104 10 1104
+M 0 1105 10 1105
+M 0 1105 10 1105
+M 0 1105 10 1105
+M 0 1105 10 1105
+M 0 1105 10 1105
+M 0 1105 10 1105
+M 0 1105 10 1105
+M 0 1105 10 1105
+M 0 1105 10 1105
+M 0 1105 10 1105
+M 0 1106 10 1106
+M 0 1106 10 1106
+M 0 1106 10 1106
+M 0 1106 10 1106
+M 0 1106 10 1106
+M 0 1106 10 1106
+M 0 1106 10 1106
+M 0 1106 10 1106
+M 0 1106 10 1106
+M 0 1106 10 1106
+M 0 1107 10 1107
+M 0 1107 10 1107
+M 0 1107 10 1107
+M 0 1107 10 1107
+M 0 1107 10 1107
+M 0 1107 10 1107
+M 0 1107 10 1107
+M 0 1107 10 1107
+M 0 1107 10 1107
+M 0 1107 10 1107
+M 0 1108 10 1108
+M 0 1108 10 1108
+M 0 1108 10 1108
+M 0 1108 10 1108
+M 0 1108 10 1108
+M 0 1108 10 1108
+M 0 1108 10 1108
+M 0 1108 10 1108
+M 0 1108 10 1108
+M 0 1108 10 1108
+M 0 1109 10 1109
+M 0 1109 10 1109
+M 0 1109 10 1109
+M 0 1109 10 1109
+M 0 1109 10 1109
+M 0 1109 10 1109
+M 0 1109 10 1109
+M 0 1109 10 1109
+M 0 1109 10 1109
+M 0 1109 10 1109
+M 0 1110 10 1110
+M 0 1110 10 1110
+M 0 1110 10 1110
+M 0 1110 10 1110
+M 0 1110 10 1110
+M 0 1110 10 1110
+M 0 1110 10 1110
+M 0 1110 10 1110
+M 0 1110 10 1110
+M 0 1110 10 1110
+M 0 1111 10 1111
+M 0 1111 10 1111
+M 0 1111 10 1111
+M 0 1111 10 1111
+M 0 1111 10 1111
+M 0 1111 10 1111
+M 0 1111 10 1111
+M 0 1111 10 1111
+M 0 1111 10 1111
+M 0 1111 10 1111
+M 0 1112 10 1112
+M 0 1112 10 1112
+M 0 1112 10 1112
+M 0 1112 10 1112
+M 0 1112 10 1112
+M 0 1112 10 1112
+M 0 1112 10 1112
+M 0 1112 10 1112
+M 0 1112 10 1112
+M 0 1112 10 1112
+M 0 1113 10 1113
+M 0 1113 10 1113
+M 0 1113 10 1113
+M 0 1113 10 1113
+M 0 1113 10 1113
+M 0 1113 10 1113
+M 0 1113 10 1113
+M 0 1113 10 1113
+M 0 1113 10 1113
+M 0 1113 10 1113
+M 0 1115 10 1115
+M 0 1115 10 1115
+M 0 1115 10 1115
+M 0 1115 10 1115
+M 0 1115 10 1115
+M 0 1115 10 1115
+M 0 1115 10 1115
+M 0 1115 10 1115
+M 0 1115 10 1115
+M 0 1115 10 1115
+M 0 1115 10 1115
+M 0 1115 10 1115
+M 0 1115 10 1115
+M 0 1115 10 1115
+M 0 1116 10 1116
+M 0 1116 10 1116
+M 0 1116 10 1116
+M 0 1116 10 1116
+M 0 1116 10 1116
+M 0 1116 10 1116
+M 0 1116 10 1116
+M 0 1116 10 1116
+M 0 1116 10 1116
+M 0 1116 10 1116
+M 0 1117 10 1117
+M 0 1117 10 1117
+M 0 1117 10 1117
+M 0 1117 10 1117
+M 0 1117 10 1117
+M 0 1117 10 1117
+M 0 1117 10 1117
+M 0 1117 10 1117
+M 0 1117 10 1117
+M 0 1117 10 1117
+M 0 1118 10 1118
+M 0 1118 10 1118
+M 0 1118 10 1118
+M 0 1118 10 1118
+M 0 1118 10 1118
+M 0 1118 10 1118
+M 0 1118 10 1118
+M 0 1118 10 1118
+M 0 1118 10 1118
+M 0 1118 10 1118
+M 0 1119 10 1119
+M 0 1119 10 1119
+M 0 1119 10 1119
+M 0 1119 10 1119
+M 0 1119 10 1119
+M 0 1119 10 1119
+M 0 1119 10 1119
+M 0 1119 10 1119
+M 0 1119 10 1119
+M 0 1119 10 1119
+M 0 1120 10 1120
+M 0 1120 10 1120
+M 0 1120 10 1120
+M 0 1120 10 1120
+M 0 1120 10 1120
+M 0 1120 10 1120
+M 0 1120 10 1120
+M 0 1120 10 1120
+M 0 1120 10 1120
+M 0 1120 10 1120
+M 0 1121 10 1121
+M 0 1121 10 1121
+M 0 1121 10 1121
+M 0 1121 10 1121
+M 0 1121 10 1121
+M 0 1121 10 1121
+M 0 1121 10 1121
+M 0 1121 10 1121
+M 0 1121 10 1121
+M 0 1121 10 1121
+M 0 1122 10 1122
+M 0 1122 10 1122
+M 0 1122 10 1122
+M 0 1122 10 1122
+M 0 1122 10 1122
+M 0 1122 10 1122
+M 0 1122 10 1122
+M 0 1122 10 1122
+M 0 1122 10 1122
+M 0 1122 10 1122
+M 0 1123 10 1123
+M 0 1123 10 1123
+M 0 1123 10 1123
+M 0 1123 10 1123
+M 0 1123 10 1123
+M 0 1123 10 1123
+M 0 1123 10 1123
+M 0 1123 10 1123
+M 0 1123 10 1123
+M 0 1123 10 1123
+M 0 1124 10 1124
+M 0 1124 10 1124
+M 0 1124 10 1124
+M 0 1124 10 1124
+M 0 1124 10 1124
+M 0 1124 10 1124
+M 0 1124 10 1124
+M 0 1124 10 1124
+M 0 1124 10 1124
+M 0 1124 10 1124
+M 0 1125 10 1125
+M 0 1125 10 1125
+M 0 1125 10 1125
+M 0 1125 10 1125
+M 0 1125 10 1125
+M 0 1125 10 1125
+M 0 1125 10 1125
+M 0 1125 10 1125
+M 0 1125 10 1125
+M 0 1125 10 1125
+M 0 1126 10 1126
+M 0 1126 10 1126
+M 0 1126 10 1126
+M 0 1126 10 1126
+M 0 1126 10 1126
+M 0 1126 10 1126
+M 0 1126 10 1126
+M 0 1126 10 1126
+M 0 1126 10 1126
+M 0 1126 10 1126
+M 0 1128 10 1128
+M 0 1128 10 1128
+M 0 1128 10 1128
+M 0 1128 10 1128
+M 0 1128 10 1128
+M 0 1128 10 1128
+M 0 1128 10 1128
+M 0 1128 10 1128
+M 0 1128 10 1128
+M 0 1128 10 1128
+M 0 1129 10 1129
+M 0 1129 10 1129
+M 0 1129 10 1129
+M 0 1129 10 1129
+M 0 1129 10 1129
+M 0 1129 10 1129
+M 0 1129 10 1129
+M 0 1129 10 1129
+M 0 1129 10 1129
+M 0 1129 10 1129
+M 0 1130 10 1130
+M 0 1130 10 1130
+M 0 1130 10 1130
+M 0 1130 10 1130
+M 0 1130 10 1130
+M 0 1130 10 1130
+M 0 1130 10 1130
+M 0 1130 10 1130
+M 0 1130 10 1130
+M 0 1130 10 1130
+M 0 1131 10 1131
+M 0 1131 10 1131
+M 0 1131 10 1131
+M 0 1131 10 1131
+M 0 1131 10 1131
+M 0 1131 10 1131
+M 0 1131 10 1131
+M 0 1131 10 1131
+M 0 1131 10 1131
+M 0 1131 10 1131
+M 0 1132 10 1132
+M 0 1132 10 1132
+M 0 1132 10 1132
+M 0 1132 10 1132
+M 0 1132 10 1132
+M 0 1132 10 1132
+M 0 1132 10 1132
+M 0 1132 10 1132
+M 0 1132 10 1132
+M 0 1132 10 1132
+M 0 1133 10 1133
+M 0 1133 10 1133
+M 0 1133 10 1133
+M 0 1133 10 1133
+M 0 1133 10 1133
+M 0 1133 10 1133
+M 0 1133 10 1133
+M 0 1133 10 1133
+M 0 1133 10 1133
+M 0 1133 10 1133
+M 0 1134 10 1134
+M 0 1134 10 1134
+M 0 1134 10 1134
+M 0 1134 10 1134
+M 0 1134 10 1134
+M 0 1134 10 1134
+M 0 1134 10 1134
+M 0 1134 10 1134
+M 0 1134 10 1134
+M 0 1134 10 1134
+M 0 1135 10 1135
+M 0 1135 10 1135
+M 0 1135 10 1135
+M 0 1135 10 1135
+M 0 1135 10 1135
+M 0 1135 10 1135
+M 0 1135 10 1135
+M 0 1135 10 1135
+M 0 1135 10 1135
+M 0 1135 10 1135
+M 0 1136 10 1136
+M 0 1136 10 1136
+M 0 1136 10 1136
+M 0 1136 10 1136
+M 0 1136 10 1136
+M 0 1136 10 1136
+M 0 1136 10 1136
+M 0 1136 10 1136
+M 0 1136 10 1136
+M 0 1136 10 1136
+M 0 1137 10 1137
+M 0 1137 10 1137
+M 0 1137 10 1137
+M 0 1137 10 1137
+M 0 1137 10 1137
+M 0 1137 10 1137
+M 0 1137 10 1137
+M 0 1137 10 1137
+M 0 1137 10 1137
+M 0 1137 10 1137
+M 0 1138 10 1138
+M 0 1138 10 1138
+M 0 1138 10 1138
+M 0 1138 10 1138
+M 0 1138 10 1138
+M 0 1138 10 1138
+M 0 1138 10 1138
+M 0 1138 10 1138
+M 0 1138 10 1138
+M 0 1138 10 1138
+M 0 1139 10 1139
+M 0 1139 10 1139
+M 0 1139 10 1139
+M 0 1139 10 1139
+M 0 1139 10 1139
+M 0 1139 10 1139
+M 0 1139 10 1139
+M 0 1139 10 1139
+M 0 1139 10 1139
+M 0 1139 10 1139
+M 0 1141 10 1141
+M 0 1141 10 1141
+M 0 1141 10 1141
+M 0 1141 10 1141
+M 0 1141 10 1141
+M 0 1141 10 1141
+M 0 1141 10 1141
+M 0 1141 10 1141
+M 0 1141 10 1141
+M 0 1141 10 1141
+M 0 1142 10 1142
+M 0 1142 10 1142
+M 0 1142 10 1142
+M 0 1142 10 1142
+M 0 1142 10 1142
+M 0 1142 10 1142
+M 0 1142 10 1142
+M 0 1142 10 1142
+M 0 1142 10 1142
+M 0 1142 10 1142
+M 0 1143 10 1143
+M 0 1143 10 1143
+M 0 1143 10 1143
+M 0 1143 10 1143
+M 0 1143 10 1143
+M 0 1143 10 1143
+M 0 1143 10 1143
+M 0 1143 10 1143
+M 0 1143 10 1143
+M 0 1143 10 1143
+M 0 1144 10 1144
+M 0 1144 10 1144
+M 0 1144 10 1144
+M 0 1144 10 1144
+M 0 1144 10 1144
+M 0 1144 10 1144
+M 0 1144 10 1144
+M 0 1144 10 1144
+M 0 1144 10 1144
+M 0 1144 10 1144
+M 0 1145 10 1145
+M 0 1145 10 1145
+M 0 1145 10 1145
+M 0 1145 10 1145
+M 0 1145 10 1145
+M 0 1145 10 1145
+M 0 1145 10 1145
+M 0 1145 10 1145
+M 0 1145 10 1145
+M 0 1145 10 1145
+M 0 1146 10 1146
+M 0 1146 10 1146
+M 0 1146 10 1146
+M 0 1146 10 1146
+M 0 1146 10 1146
+M 0 1146 10 1146
+M 0 1146 10 1146
+M 0 1146 10 1146
+M 0 1146 10 1146
+M 0 1146 10 1146
+M 0 1147 10 1147
+M 0 1147 10 1147
+M 0 1147 10 1147
+M 0 1147 10 1147
+M 0 1147 10 1147
+M 0 1147 10 1147
+M 0 1147 10 1147
+M 0 1147 10 1147
+M 0 1147 10 1147
+M 0 1147 10 1147
+M 0 1148 10 1148
+M 0 1148 10 1148
+M 0 1148 10 1148
+M 0 1148 10 1148
+M 0 1148 10 1148
+M 0 1148 10 1148
+M 0 1148 10 1148
+M 0 1148 10 1148
+M 0 1148 10 1148
+M 0 1148 10 1148
+M 0 1149 10 1149
+M 0 1149 10 1149
+M 0 1149 10 1149
+M 0 1149 10 1149
+M 0 1149 10 1149
+M 0 1149 10 1149
+M 0 1149 10 1149
+M 0 1149 10 1149
+M 0 1149 10 1149
+M 0 1149 10 1149
+M 0 1150 10 1150
+M 0 1150 10 1150
+M 0 1150 10 1150
+M 0 1150 10 1150
+M 0 1150 10 1150
+M 0 1150 10 1150
+M 0 1150 10 1150
+M 0 1150 10 1150
+M 0 1150 10 1150
+M 0 1150 10 1150
+M 0 1151 10 1151
+M 0 1151 10 1151
+M 0 1151 10 1151
+M 0 1151 10 1151
+M 0 1151 10 1151
+M 0 1151 10 1151
+M 0 1151 10 1151
+M 0 1151 10 1151
+M 0 1151 10 1151
+M 0 1151 10 1151
+M 0 1152 10 1152
+M 0 1152 10 1152
+M 0 1152 10 1152
+M 0 1152 10 1152
+M 0 1152 10 1152
+M 0 1152 10 1152
+M 0 1152 10 1152
+M 0 1152 10 1152
+M 0 1152 10 1152
+M 0 1152 10 1152
+M 0 1154 10 1154
+M 0 1154 10 1154
+M 0 1154 10 1154
+M 0 1154 10 1154
+M 0 1154 10 1154
+M 0 1154 10 1154
+M 0 1154 10 1154
+M 0 1154 10 1154
+M 0 1154 10 1154
+M 0 1154 10 1154
+M 0 1155 10 1155
+M 0 1155 10 1155
+M 0 1155 10 1155
+M 0 1155 10 1155
+M 0 1155 10 1155
+M 0 1155 10 1155
+M 0 1155 10 1155
+M 0 1155 10 1155
+M 0 1155 10 1155
+M 0 1155 10 1155
+M 0 1156 10 1156
+M 0 1156 10 1156
+M 0 1156 10 1156
+M 0 1156 10 1156
+M 0 1156 10 1156
+M 0 1156 10 1156
+M 0 1156 10 1156
+M 0 1156 10 1156
+M 0 1156 10 1156
+M 0 1156 10 1156
+M 0 1157 10 1157
+M 0 1157 10 1157
+M 0 1157 10 1157
+M 0 1157 10 1157
+M 0 1157 10 1157
+M 0 1157 10 1157
+M 0 1157 10 1157
+M 0 1157 10 1157
+M 0 1157 10 1157
+M 0 1157 10 1157
+M 0 1158 10 1158
+M 0 1158 10 1158
+M 0 1158 10 1158
+M 0 1158 10 1158
+M 0 1158 10 1158
+M 0 1158 10 1158
+M 0 1158 10 1158
+M 0 1158 10 1158
+M 0 1158 10 1158
+M 0 1158 10 1158
+M 0 1159 10 1159
+M 0 1159 10 1159
+M 0 1159 10 1159
+M 0 1159 10 1159
+M 0 1159 10 1159
+M 0 1159 10 1159
+M 0 1159 10 1159
+M 0 1159 10 1159
+M 0 1159 10 1159
+M 0 1159 10 1159
+M 0 1160 10 1160
+M 0 1160 10 1160
+M 0 1160 10 1160
+M 0 1160 10 1160
+M 0 1160 10 1160
+M 0 1160 10 1160
+M 0 1160 10 1160
+M 0 1160 10 1160
+M 0 1160 10 1160
+M 0 1160 10 1160
+M 0 1161 10 1161
+M 0 1161 10 1161
+M 0 1161 10 1161
+M 0 1161 10 1161
+M 0 1161 10 1161
+M 0 1161 10 1161
+M 0 1161 10 1161
+M 0 1161 10 1161
+M 0 1161 10 1161
+M 0 1161 10 1161
+M 0 1162 10 1162
+M 0 1162 10 1162
+M 0 1162 10 1162
+M 0 1162 10 1162
+M 0 1162 10 1162
+M 0 1162 10 1162
+M 0 1162 10 1162
+M 0 1162 10 1162
+M 0 1162 10 1162
+M 0 1162 10 1162
+M 0 1163 10 1163
+M 0 1163 10 1163
+M 0 1163 10 1163
+M 0 1163 10 1163
+M 0 1163 10 1163
+M 0 1163 10 1163
+M 0 1163 10 1163
+M 0 1163 10 1163
+M 0 1163 10 1163
+M 0 1163 10 1163
+M 0 1164 10 1164
+M 0 1164 10 1164
+M 0 1164 10 1164
+M 0 1164 10 1164
+M 0 1164 10 1164
+M 0 1164 10 1164
+M 0 1164 10 1164
+M 0 1164 10 1164
+M 0 1164 10 1164
+M 0 1164 10 1164
+M 0 1165 10 1165
+M 0 1165 10 1165
+M 0 1165 10 1165
+M 0 1165 10 1165
+M 0 1165 10 1165
+M 0 1165 10 1165
+M 0 1165 10 1165
+M 0 1165 10 1165
+M 0 1165 10 1165
+M 0 1165 10 1165
+M 0 1167 10 1167
+M 0 1167 10 1167
+M 0 1167 10 1167
+M 0 1167 10 1167
+M 0 1167 10 1167
+M 0 1167 10 1167
+M 0 1167 10 1167
+M 0 1167 10 1167
+M 0 1167 10 1167
+M 0 1167 10 1167
+M 0 1168 10 1168
+M 0 1168 10 1168
+M 0 1168 10 1168
+M 0 1168 10 1168
+M 0 1168 10 1168
+M 0 1168 10 1168
+M 0 1168 10 1168
+M 0 1168 10 1168
+M 0 1168 10 1168
+M 0 1168 10 1168
+M 0 1169 10 1169
+M 0 1169 10 1169
+M 0 1169 10 1169
+M 0 1169 10 1169
+M 0 1169 10 1169
+M 0 1169 10 1169
+M 0 1169 10 1169
+M 0 1169 10 1169
+M 0 1169 10 1169
+M 0 1169 10 1169
+M 0 1170 10 1170
+M 0 1170 10 1170
+M 0 1170 10 1170
+M 0 1170 10 1170
+M 0 1170 10 1170
+M 0 1170 10 1170
+M 0 1170 10 1170
+M 0 1170 10 1170
+M 0 1170 10 1170
+M 0 1170 10 1170
+M 0 1173 10 1173
+M 0 1173 10 1173
+M 0 1173 10 1173
+M 0 1173 10 1173
+M 0 1173 10 1173
+M 0 1173 10 1173
+M 0 1173 10 1173
+M 0 1173 10 1173
+M 0 1173 10 1173
+M 0 1173 10 1173
+M 0 1174 10 1174
+M 0 1174 10 1174
+M 0 1174 10 1174
+M 0 1174 10 1174
+M 0 1174 10 1174
+M 0 1174 10 1174
+M 0 1174 10 1174
+M 0 1174 10 1174
+M 0 1174 10 1174
+M 0 1174 10 1174
+M 0 1175 10 1175
+M 0 1175 10 1175
+M 0 1175 10 1175
+M 0 1175 10 1175
+M 0 1175 10 1175
+M 0 1175 10 1175
+M 0 1175 10 1175
+M 0 1175 10 1175
+M 0 1175 10 1175
+M 0 1175 10 1175
+M 0 1176 10 1176
+M 0 1176 10 1176
+M 0 1176 10 1176
+M 0 1176 10 1176
+M 0 1176 10 1176
+M 0 1176 10 1176
+M 0 1176 10 1176
+M 0 1176 10 1176
+M 0 1176 10 1176
+M 0 1176 10 1176
+M 0 1177 10 1177
+M 0 1177 10 1177
+M 0 1177 10 1177
+M 0 1177 10 1177
+M 0 1177 10 1177
+M 0 1177 10 1177
+M 0 1177 10 1177
+M 0 1177 10 1177
+M 0 1177 10 1177
+M 0 1177 10 1177
+M 0 1178 10 1178
+M 0 1178 10 1178
+M 0 1178 10 1178
+M 0 1178 10 1178
+M 0 1178 10 1178
+M 0 1178 10 1178
+M 0 1178 10 1178
+M 0 1178 10 1178
+M 0 1178 10 1178
+M 0 1178 10 1178
+M 0 1179 10 1179
+M 0 1179 10 1179
+M 0 1179 10 1179
+M 0 1179 10 1179
+M 0 1179 10 1179
+M 0 1179 10 1179
+M 0 1179 10 1179
+M 0 1179 10 1179
+M 0 1179 10 1179
+M 0 1179 10 1179
+M 0 1180 10 1180
+M 0 1180 10 1180
+M 0 1180 10 1180
+M 0 1180 10 1180
+M 0 1180 10 1180
+M 0 1180 10 1180
+M 0 1180 10 1180
+M 0 1180 10 1180
+M 0 1180 10 1180
+M 0 1180 10 1180
+M 0 1182 10 1182
+M 0 1182 10 1182
+M 0 1182 10 1182
+M 0 1182 10 1182
+M 0 1182 10 1182
+M 0 1182 10 1182
+M 0 1182 10 1182
+M 0 1182 10 1182
+M 0 1182 10 1182
+M 0 1182 10 1182
+M 0 1183 10 1183
+M 0 1183 10 1183
+M 0 1183 10 1183
+M 0 1183 10 1183
+M 0 1183 10 1183
+M 0 1183 10 1183
+M 0 1183 10 1183
+M 0 1183 10 1183
+M 0 1183 10 1183
+M 0 1183 10 1183
+M 0 1184 10 1184
+M 0 1184 10 1184
+M 0 1184 10 1184
+M 0 1184 10 1184
+M 0 1184 10 1184
+M 0 1184 10 1184
+M 0 1184 10 1184
+M 0 1184 10 1184
+M 0 1184 10 1184
+M 0 1184 10 1184
+M 0 1185 10 1185
+M 0 1185 10 1185
+M 0 1185 10 1185
+M 0 1185 10 1185
+M 0 1185 10 1185
+M 0 1185 10 1185
+M 0 1185 10 1185
+M 0 1185 10 1185
+M 0 1185 10 1185
+M 0 1185 10 1185
+M 0 1186 10 1186
+M 0 1186 10 1186
+M 0 1186 10 1186
+M 0 1186 10 1186
+M 0 1186 10 1186
+M 0 1186 10 1186
+M 0 1186 10 1186
+M 0 1186 10 1186
+M 0 1186 10 1186
+M 0 1186 10 1186
+M 0 1187 10 1187
+M 0 1187 10 1187
+M 0 1187 10 1187
+M 0 1187 10 1187
+M 0 1187 10 1187
+M 0 1187 10 1187
+M 0 1187 10 1187
+M 0 1187 10 1187
+M 0 1187 10 1187
+M 0 1187 10 1187
+M 0 1188 10 1188
+M 0 1188 10 1188
+M 0 1188 10 1188
+M 0 1188 10 1188
+M 0 1188 10 1188
+M 0 1188 10 1188
+M 0 1188 10 1188
+M 0 1188 10 1188
+M 0 1188 10 1188
+M 0 1188 10 1188
+M 0 1189 10 1189
+M 0 1189 10 1189
+M 0 1189 10 1189
+M 0 1189 10 1189
+M 0 1189 10 1189
+M 0 1189 10 1189
+M 0 1189 10 1189
+M 0 1189 10 1189
+M 0 1189 10 1189
+M 0 1189 10 1189
+M 0 1190 10 1190
+M 0 1190 10 1190
+M 0 1190 10 1190
+M 0 1190 10 1190
+M 0 1190 10 1190
+M 0 1190 10 1190
+M 0 1190 10 1190
+M 0 1190 10 1190
+M 0 1190 10 1190
+M 0 1190 10 1190
+M 0 1191 10 1191
+M 0 1191 10 1191
+M 0 1191 10 1191
+M 0 1191 10 1191
+M 0 1191 10 1191
+M 0 1191 10 1191
+M 0 1191 10 1191
+M 0 1191 10 1191
+M 0 1191 10 1191
+M 0 1191 10 1191
+M 0 1192 10 1192
+M 0 1192 10 1192
+M 0 1192 10 1192
+M 0 1192 10 1192
+M 0 1192 10 1192
+M 0 1192 10 1192
+M 0 1192 10 1192
+M 0 1192 10 1192
+M 0 1192 10 1192
+M 0 1192 10 1192
+M 0 1193 10 1193
+M 0 1193 10 1193
+M 0 1193 10 1193
+M 0 1193 10 1193
+M 0 1193 10 1193
+M 0 1193 10 1193
+M 0 1193 10 1193
+M 0 1193 10 1193
+M 0 1193 10 1193
+M 0 1193 10 1193
+M 0 1195 10 1195
+M 0 1195 10 1195
+M 0 1195 10 1195
+M 0 1195 10 1195
+M 0 1195 10 1195
+M 0 1195 10 1195
+M 0 1195 10 1195
+M 0 1195 10 1195
+M 0 1195 10 1195
+M 0 1195 10 1195
+M 0 1196 10 1196
+M 0 1196 10 1196
+M 0 1196 10 1196
+M 0 1196 10 1196
+M 0 1196 10 1196
+M 0 1196 10 1196
+M 0 1196 10 1196
+M 0 1196 10 1196
+M 0 1196 10 1196
+M 0 1196 10 1196
+M 0 1197 10 1197
+M 0 1197 10 1197
+M 0 1197 10 1197
+M 0 1197 10 1197
+M 0 1197 10 1197
+M 0 1197 10 1197
+M 0 1197 10 1197
+M 0 1197 10 1197
+M 0 1197 10 1197
+M 0 1197 10 1197
+M 0 1198 10 1198
+M 0 1198 10 1198
+M 0 1198 10 1198
+M 0 1198 10 1198
+M 0 1198 10 1198
+M 0 1198 10 1198
+M 0 1198 10 1198
+M 0 1198 10 1198
+M 0 1198 10 1198
+M 0 1198 10 1198
+M 0 1199 10 1199
+M 0 1199 10 1199
+M 0 1199 10 1199
+M 0 1199 10 1199
+M 0 1199 10 1199
+M 0 1199 10 1199
+M 0 1199 10 1199
+M 0 1199 10 1199
+M 0 1199 10 1199
+M 0 1199 10 1199
+M 0 1200 10 1200
+M 0 1200 10 1200
+M 0 1200 10 1200
+M 0 1200 10 1200
+M 0 1200 10 1200
+M 0 1200 10 1200
+M 0 1200 10 1200
+M 0 1200 10 1200
+M 0 1200 10 1200
+M 0 1200 10 1200
+M 0 1201 10 1201
+M 0 1201 10 1201
+M 0 1201 10 1201
+M 0 1201 10 1201
+M 0 1201 10 1201
+M 0 1201 10 1201
+M 0 1201 10 1201
+M 0 1201 10 1201
+M 0 1201 10 1201
+M 0 1201 10 1201
+M 0 1202 10 1202
+M 0 1202 10 1202
+M 0 1202 10 1202
+M 0 1202 10 1202
+M 0 1202 10 1202
+M 0 1202 10 1202
+M 0 1202 10 1202
+M 0 1202 10 1202
+M 0 1202 10 1202
+M 0 1202 10 1202
+M 0 1203 10 1203
+M 0 1203 10 1203
+M 0 1203 10 1203
+M 0 1203 10 1203
+M 0 1203 10 1203
+M 0 1203 10 1203
+M 0 1203 10 1203
+M 0 1203 10 1203
+M 0 1203 10 1203
+M 0 1204 10 1204
+M 0 1204 10 1204
+M 0 1204 10 1204
+M 0 1204 10 1204
+M 0 1204 10 1204
+M 0 1204 10 1204
+M 0 1204 10 1204
+M 0 1204 10 1204
+M 0 1204 10 1204
+M 0 1204 10 1204
+M 0 1205 10 1205
+M 0 1205 10 1205
+M 0 1205 10 1205
+M 0 1205 10 1205
+M 0 1205 10 1205
+M 0 1205 10 1205
+M 0 1205 10 1205
+M 0 1205 10 1205
+M 0 1205 10 1205
+M 0 1205 10 1205
+M 0 1206 10 1206
+M 0 1206 10 1206
+M 0 1206 10 1206
+M 0 1206 10 1206
+M 0 1206 10 1206
+M 0 1206 10 1206
+M 0 1206 10 1206
+M 0 1206 10 1206
+M 0 1206 10 1206
+M 0 1206 10 1206
+S
+
+
+
+#$

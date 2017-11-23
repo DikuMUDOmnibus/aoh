@@ -1,0 +1,440 @@
+#AREADATA
+Name        Core Mud System~
+Builders    Jobo Urkon~
+Music       default.mid~
+VNUMs       1 100
+Cvnum       2
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#1
+mount~
+a mount~
+A mount is standing here.
+~
+~
+513 0 0
+6 0 0 0
+0 0
+S
+#10
+Servant~
+#7Hum#9bil #0Ser#9van#7t of Ur#9ko#0n#n~
+#7Hum#9bil #0Ser#9van#7t of Ur#9ko#0n#n, #7stands #9here, wait#0ing for the ret#9urning of he's #7master.#n
+~
+This servant has spend he's entire life just to serve Urkon, just to breath for Urkon, just to protect Urkon. 
+ 
+~
+10247 11281084 -1
+15001 11 11 1
+1 0
+S
+#0
+
+
+
+#OBJECTS
+#1
+dummy object~
+a dummy object~
+Dummy object is used for loading non-existant objects~
+0
+10 0 0
+0 0 0 0
+0 0
+#2
+shimmering portal~
+a shimmering portal~
+A shimmering portal floats in the air.~
+0
+21 0 0
+0 0 0 0
+1000 300
+#3
+protoplasm plasm ball~
+a ball of protoplasm~
+A ball of protoplasm floats in the air.~
+0
+10 0 1
+0 0 0 0
+0 0
+#4
+soulblade~
+a soulblade~
+A blade lies on the floor, pulsing with life.~
+0
+5 2 8193
+0 5 15 1
+1 0
+#10
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+7
+17 0 1
+0 0 0 0
+100 0
+#11
+corpse~
+the corpse of %s~
+The corpse of %s is lying here.~
+7
+18 0 0
+0 0 0 0
+100 0
+#12
+head %s~
+the severed head of %s~
+The severed head of %s is lying here.~
+7
+10 0 16385
+0 0 0 0
+5 0
+#13
+heart %s~
+the torn-out heart of %s~
+The torn-out heart of %s is lying here.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#14
+arm %s~
+the sliced-off arm of %s~
+The sliced-off arm of %s is lying here.~
+7
+14 0 16385
+0 0 0 0
+5 0
+#15
+leg %s~
+the sliced-off leg of %s~
+The sliced-off leg of %s is lying here.~
+7
+14 0 16385
+0 0 0 0
+0 0
+#16
+pool blood %s~
+a pool of blood~
+A pool of spilt blood lies here.~
+7
+19 64 0
+0 0 0 0
+1000 0
+#17
+entrails %s~
+the spilled entrails of %s~
+The spilled entrails of %s lie in a pool here.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#18
+brain %s~
+the quivering brain of %s~
+The quivering brain of %s wobbles of the floor.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#19
+eye eyeball %s~
+the squidgy eyeball of %s~
+The squidgy eyeball of %s rolls around on the floor.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#20
+face %s~
+the ripped off face of %s~
+The ripped off face of %s lies on the floor.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#21
+windpipe %s~
+the torn-out windpipe of %s~
+The torn-out windpipe of %s lies broken on the floor.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#22
+cracked head %s~
+the cracked-open head of %s~
+The cracked-open head of %s lies on the floor.~
+7
+10 0 16385
+0 0 0 0
+2 0
+#23
+ear %s~
+the sliced off ear of %s~
+The sliced off ear of %s lies on the floor.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#24
+nose %s~
+the sliced off nose of %s~
+The sliced off nose of %s lies on the floor.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#25
+tooth %s~
+the knocked-out tooth of %s~
+The knocked-out tooth of %s lies on the floor.~
+7
+10 0 16385
+0 0 0 0
+2 0
+#26
+tongue %s~
+the torn-out tongue of %s~
+The torn-out tongue of %s lies on the floor.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#27
+hand %s~
+the severed hand of %s~
+The severed hand of %s lies on the floor.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#28
+foot %s~
+the severed foot of %s~
+The severed foot of %s lies on the floor.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#29
+thumb %s~
+the severed thumb of %s~
+The severed thumb of %s lies on the floor~
+7
+14 0 16385
+0 0 0 0
+2 0
+#30
+index finger %s~
+the servered index finger of %s~
+The severed index finger of %s lies on the floor.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#31
+middle finger %s~
+the severed middle finger of %s~
+The severed middle finger of %s lies on the floor.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#32
+ring finger %s~
+the severed ring finger of %s~
+The servered ring finger of %s lies on the floor.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#33
+little finger %s~
+the severed little finger of %s~
+The severed little finger of %s lies on the floor.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#34
+toe %s~
+the severed toe of %s~
+The severed toe of %s lies on the floor.~
+7
+14 0 16385
+0 0 0 0
+2 0
+#52
+blank item~
+(no short description)~
+(no description)~
+0
+7 0 1
+0 0 0 0
+10 0
+#53
+blank weapon template~
+~
+(no description)~
+0
+5 0 8193
+0 0 0 0
+1 0
+#0
+
+
+
+#ROOMDATA
+#1
+#p----#P>> #L[#l- #CIm#cm#7o#0r#7t#ca#Cls #RR#roo#Rm #l-#L] #P<<#p----#n~
+#l...................#y_#l....................
+#l.................#0_| |_#l...................
+#l................#0|_ #C+ #o_|#l....................
+#l..................#o| |#l....................
+#l................#c_</^\>_#l.......................
+#l..............#c_</ #P_I_ #c\>_#l.....................
+#l............#c_</ #P__I_I__ #c\>_#l...................
+#l..........#c_</ #P___I_I_I___ #c\>_#l...................
+#l........#c_</ #P____I_I_I_I____ #c\>_#l......................
+#l....................#c_</ #P_____I_I_I_I_I_____ #c\>_#l.............
+#l.._................#c</#L=========================#c\>#l....................
+#l....................#ro#ROOOOO#ro#l......#9<#0|#9>#l..#ro#ROO#ro#l.....
+#l......................#ro#ROO#l..#RoO#ro#l...#9|#0|#9|#l...#ro#ROO#ro#n
+#l......................#ro#ROO#l...#RoO#ro#l.#L_#9/#0\#9\#L_#l..#ro#ROO#ro#n
+#l......................#ro#ROO#l...#RoOO#9/#L{}#0_#L{}#9\#l.#ro#ROO#ro#n
+#l......................#ro#ROO#l...#RoOO#l..#9| |#l...#ro#ROO#ro#l...
+#l......................#ro#ROO#l...#RoO#ro#l..#9|#0:#9|#l...#ro#ROO#ro#n
+#l......................#ro#ROO#l..#RoO#ro#l...#9| |#l..#RoOOO#ro#l...
+#l......................#ro#ROOOOO#ro#l....#9|#0:#9|#l..#RoOOo#l..#RoOoO#ro
+#l.....................#ro#ROOOOO#ro#l.....#9| |#l.#ro#ROOOOOOOOOOOO#ro
+2
+#l...................#C_#c=============================#C_#l..
+#l.................#C_|#c________________________________#C|_
+#l................#C|#c____________________________________#C|
+~
+12 0
+D0
+~
+~
+0 0 8
+D1
+~
+~
+0 0 5
+D2
+~
+~
+0 0 7
+D3
+~
+~
+0 0 6
+S
+#2
+The Void~
+~
+8196 0
+D0
+~
+~
+0 0 2002
+S
+#3
+Disconnection Room~
+~
+8196 0
+D0
+~
+~
+0 0 2002
+S
+#4
+Object Room~
+~
+8324 0
+S
+#5
+#R-#C<#&|#C>#r= #PR#pay#7v#9n R#7o#po#Pm #r=#C<#c|#C>#R-#n~
+~
+0 0
+D1
+~
+~
+0 0 9
+D3
+~
+~
+0 0 1
+S
+#6
+#G*#g*#G*#y<#o[#y-#o-#y-#o- #CXr#cak#7i#0si#7s#C's #GR#go#Go#gm #7o#9f #yL#oi#yg#oh#yt #o-#y-#o-#y-#o]#o>#G*#g*#G*#n~
+~
+32 0
+D1
+~
+~
+0 0 1
+S
+#7
+~
+~
+0 0
+D0
+~
+~
+0 0 1
+S
+#8
+~
+~
+0 0
+D2
+~
+~
+0 0 1
+D4
+~
+~
+0 0 10
+S
+#9
+#R-#C<#&|#C>#r= #PR#pay#7v#9n R#7o#po#Pm #r=#C<#c|#C>#R-#n~
+~
+0 0
+D3
+~
+~
+0 0 5
+S
+#10
+#R:#r:#R:#c-#C-#c-#C-#L> #7Ur#9ko#0n's R#9o#7om #L<#C-#c-#C-#c-#R:#r:#R:#n~
+~
+96 0
+D5
+~
+~
+0 0 8
+S
+#0
+
+
+
+#SPECIALS
+M 10 spec_priest
+Z 10 shopspec_generic
+S
+
+
+
+#RESETS
+S
+
+
+
+#$

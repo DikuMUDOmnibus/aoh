@@ -1,0 +1,1098 @@
+311
+Xrakisis~
+Mar 27~
+gold, silver, copper currency implemented~
+Xrakisis~
+Mar 27~
+Dungeon tower started~
+Xrakisis~
+Mar 27~
+levels 1-8 in tower completed, 13 rooms each~
+Xrakisis~
+Mar 27~
+golblins level lowered~
+Xrakisis~
+Mar 27~
+revised money system.~
+Xrakisis~
+Mar 27~
+Hp, mana, move all gained from gainlevel~
+Xrakisis~
+Mar 27~
+str, con dex auto-advance~
+Xrakisis~
+Mar 27~
+shopkeepers now charge gold~
+Xrakisis~
+Mar 27~
+weapon types converted to weapon proficiencies~
+Xrakisis~
+Mar 27~
+selfrace put in along with a ton of races~
+Xrakisis~
+Mar 27~
+races added to who~
+Xrakisis~
+Mar 27~
+human mercenary mobs added to level 1 of dungeon
+                              tower~
+Xrakisis~
+Mar 27~
+level 9 in tower done~
+Xrakisis~
+Mar 27~
+Races help file put in~
+Xrakisis~
+Mar 27~
+New changes code put in~
+Xrakisis~
+Mar 27~
+Added Dragonlance Pantheon gods to sacrifice~
+Xrakisis~
+Mar 27~
+lag from berserk and kill lowered.~
+Xrakisis~
+Mar 27~
+gainlevel exp cost raised severly~
+Xrakisis~
+Mar 27~
+bug with gainlevel fixed.. wont go neg now~
+Xrakisis~
+Mar 27~
+drasticly increased number and weight of objects
+                              you can carry~
+Xrakisis~
+Mar 27~
+Tenth level in dungeon tower completed.~
+Xrakisis~
+Mar 27~
+the powers of the 4 elemental forms in elemshift
+                              now work.~
+Xrakisis~
+Mar 27~
+Added a shopkeeper to the Marketplace, Forge.~
+Xrakisis~
+Mar 27~
+fixed the bug with creepingdoom~
+Xrakisis~
+Mar 27~
+convert command put in for copper/silver to
+                              gold~
+Xrakisis~
+Mar 27~
+Damcap now goes up with racelevel~
+Xrakisis~
+Mar 27~
+fixed a bug with selfsphere~
+Xrakisis~
+Mar 27~
+fixed the damage messages like slash,smash,
+                              thwack, to fit the new weapon types.~
+Xrakisis~
+Mar 28~
+now players start with 2K hp so u can train
+                              avatar immediatly.~
+Xrakisis~
+Mar 28~
+you can now get almost an unlimited ammount
+                              of exp, aka it wont go negative at 2billion~
+Xrakisis~
+Mar 28~
+Player Kill is disabled/closed for the time
+                              being..~
+Xrakisis~
+Mar 28~
+Powers command put in~
+Xrakisis~
+Mar 28~
+Eleventh level of dungeon tower completed~
+Xrakisis~
+Mar 28~
+fixed an exp variable bug in save.c, exp should
+                              go neg anymore from copyovers~
+Xrakisis~
+Mar 28~
+you can now select a fightstyle and drop into
+                              it.~
+Xrakisis~
+Mar 28~
+regen upped~
+Xrakisis~
+Mar 28~
+some work done on exp to make it go higher
+                              than 2bill~
+Xrakisis~
+Mar 28~
+now fightstyles improve.~
+Xrakisis~
+Mar 29~
+Holyaura, an Abjurer ability now should work
+                              properly~
+Xrakisis~
+Mar 29~
+Now level 200 players can remort to gain a
+                              6th sphere, and get set to 20K hp/mana/move~
+Xrakisis~
+Mar 29~
+added remort variable to save file~
+Xrakisis~
+Mar 29~
+now you can remort up to 6 times, each giving
+                              +10K hp/mana move with the first remort starting
+                              you at 20K hp mana and move~
+Xrakisis~
+Mar 29~
+bug fixed with selfsphere~
+Xrakisis~
+Mar 29~
+You will no longer get deleted when u die
+                              mortal~
+Xrakisis~
+Mar 29~
+Enchantment added to selfsphere at level 50~
+Xrakisis~
+Mar 29~
+racelevel added to score~
+Xrakisis~
+Mar 29~
+FightStyles added to Proficiencies~
+Xrakisis~
+Mar 30~
+now the Ancient Full Body Shield gives Sanctuary~
+Xrakisis~
+Mar 30~
+Vulnerability, Immunity and resistance to
+                              slash, pierce and Fire put in for races..
+                              lot more to go.~
+Xrakisis~
+Mar 30~
+now theres an elven shopkeeper in the marketplace~
+Xrakisis~
+Mar 31~
+worked on race system some more.. now there
+                              are sub-races.. 70 races total. ~
+Xrakisis~
+Mar 31~
+Added Sizes to each race.. tiny, small, medium,
+                              etc~
+Xrakisis~
+Mar 31~
+Now trolls take more damage from fire~
+Xrakisis~
+Mar 31~
+Half elves and all the subracse of elves are
+                              now immune to sleep and magic~
+Xrakisis~
+Mar 31~
+u can now clearstat at altar~
+Xrakisis~
+Mar 31~
+now trolls have auto-super regen~
+Xrakisis~
+Mar 31~
+now almost all dwarves get an ac bonus vs
+                              all types of giant.~
+Xrakisis~
+Mar 31~
+help race updated and many new helpfiles added,
+                              these will show ya the progress of races~
+Xrakisis~
+Mar 31~
+fixed regen~
+Xrakisis~
+Apr  1~
+level twelve added to dungeon tower~
+Xrakisis~
+Apr  1~
+Transmuters now have Bonemod~
+Xrakisis~
+Apr  1~
+Dwarves worked on some, (help dwarf)~
+Xrakisis~
+Apr  1~
+Gnomes worked on some, (help gnome)~
+Xrakisis~
+Apr  2~
+Thirteenth Level added to Dungeon Tower~
+Xrakisis~
+Apr  3~
+Gleam added to divination sphere~
+Xrakisis~
+Apr  3~
+Earthswallow added to Geomancer~
+Xrakisis~
+Apr  3~
+dtrick added to combat3~
+Xrakisis~
+Apr  3~
+reveal added to divination sphere~
+Xrakisis~
+Apr  3~
+moonbeam and moongate added to moon sphere~
+Xrakisis~
+Apr  3~
+Drows now get Darkness and drowfire~
+Xrakisis~
+Apr  3~
+Level fourteen in dungeon tower completed~
+Xrakisis~
+Apr  4~
+changed some internal stuff from dystopia
+                              to aoh~
+Xrakisis~
+Apr  4~
+put remort below remove in interp table so
+                              u can type remo for eq again~
+Xrakisis~
+Apr  6~
+put a cap on remorting~
+Xrakisis~
+Apr  6~
+now the ammount of hp, mana, move from gainlevel
+                              that you gain have the same range, Also i
+                              raised the lower number in the range so you
+                              have a higher chance of having a better gain.~
+Xrakisis~
+Apr  6~
+Added shadowsight, shadowplane and grab to
+                              illusionsphere~
+Xrakisis~
+Apr  6~
+added demonform to archdemon race~
+Xrakisis~
+Apr  6~
+added frosthands to hydromancer sphere~
+Xrakisis~
+Apr  6~
+Fixed the illusionist sphere power formillusion~
+Xrakisis~
+Apr  6~
+Gfavor given to Archangels~
+Xrakisis~
+Apr  6~
+About 20 powers added.. you can no longer
+                              be the opposite of your sphere.~
+Xrakisis~
+Apr  6~
+exp should no longer go negative when over
+                              2 bill~
+Xrakisis~
+Apr  7~
+Fifteenth Level of dungeon Tower Completed~
+Xrakisis~
+Apr  7~
+6 help files added with descriptions of the
+                              sphere powers~
+Xrakisis~
+Apr  7~
+wizlist put in~
+Xrakisis~
+Apr  7~
+descriptions of powers removed from powers
+                              command~
+Xrakisis~
+Apr  7~
+now players start with eq.~
+Xrakisis~
+Apr  7~
+added some color to help sphere1~
+Xrakisis~
+Apr  8~
+added a newbie help bit of info in train~
+Xrakisis~
+Apr  8~
+High_elf in who changed to High Elf~
+Xrakisis~
+Apr  8~
+resetspheres command in.~
+Xrakisis~
+Apr  9~
+50million exp from sac lowered to 50K and
+                              now mobs give a lot more exp.~
+Xrakisis~
+Apr  9~
+Remort Level added to score~
+Xrakisis~
+Apr  9~
+resetspheres conflicted with the imm commmand
+                              reset so i renamed it to spheresreset~
+Xrakisis~
+Apr  9~
+you can now give gold. Syntax:give number
+                              gold name~
+Xrakisis~
+Apr  9~
+now everyone gets truesight~
+Xrakisis~
+Apr  9~
+Fixed quills. Goes off now.~
+Xrakisis~
+Apr  9~
+fixed aikido Atemi, now you get an auto-attack
+                              from the Aikido fightstyle~
+Xrakisis~
+Apr  9~
+Fixed Fangs autoattack.~
+Xrakisis~
+Apr  9~
+special attacks added for Kendo and JiuJitsu~
+Xrakisis~
+Apr  9~
+fixed some stuff with selfsphere :) was harder
+                              than you think.~
+Xrakisis~
+Apr  9~
+now Hill, Forst, and Fire giants get Earthpunch~
+Xrakisis~
+Apr  9~
+exp upped some more~
+Xrakisis~
+Apr 10~
+now brief5 hides fightstyle attacks~
+Xrakisis~
+Apr 10~
+now the attacks for the fightstyles have each
+                              a good chance to fail, so you dont get 6
+                              every round~
+Xrakisis~
+Apr 10~
+now Darktendrils works~
+Xrakisis~
+Apr 10~
+Sac exp bonus raised to 5mill~
+Xrakisis~
+Apr 10~
+my tower made more to my liking.. Bland colors
+                              :)~
+Xrakisis~
+Apr 10~
+added gold/racelevel to the imm command omni~
+Xrakisis~
+Apr 10~
+now it says what kind of weapon it is in identify~
+Xrakisis~
+Apr 11~
+enrage added to combat4~
+Xrakisis~
+May  4~
+Tunnel, travel put in for dwarves.~
+Xrakisis~
+May  4~
+now dwarven thunderhammer is available to
+                              all dwarves.~
+Xrakisis~
+May  4~
+racepower command updated~
+Xrakisis~
+May  4~
+gave Gnoll Jawlock~
+Xrakisis~
+May  4~
+skin added to animal2~
+Xrakisis~
+May  4~
+added the bonemod stuff to when you look at
+                              someone~
+Xrakisis~
+May  4~
+Minotaurs given gore~
+Xrakisis~
+May  6~
+now you can remort up to 5 times~
+Xrakisis~
+May 14~
+healme now costs gold, not QP~
+Xrakisis~
+May 14~
+stoneshape added for giants~
+Xrakisis~
+May 14~
+made the info in train nicer~
+Xrakisis~
+May 16~
+FINALLY!!! Got Shield Block Working!!!!! there
+                              is a new wear location for shields called
+                              buckler, you can wear a shield without losing
+                              a weapons slot. Shieldblock is just like
+                              parry/dodge~
+Xrakisis~
+May 24~
+now fightstyle attacks wont hit dead mobs~
+Xrakisis~
+Aug 12~
+After Three years of downtime AOH is BACK!~
+Xrakisis~
+Aug 12~
+gold added to reimb~
+Xrakisis~
+Aug 12~
+bug with weapon damage, second number and
+                              average in identify fixed~
+Xrakisis~
+Aug 12~
+Sirrion no longer has differant color in appreciates
+                              for sacrificing than the rest of the gods~
+Xrakisis~
+Aug 12~
+problem with talons fixed~
+Xrakisis~
+Aug 12~
+a typo with sacrificing fixed~
+Xrakisis~
+Aug 12~
+train Legacy is now Exp and Gold instead of
+                              Exp and QP~
+Xrakisis~
+Aug 12~
+Moon sphere added~
+Xrakisis~
+Aug 12~
+Mobs can no longer shield block if they dont
+                              have a shield~
+Xrakisis~
+Aug 12~
+The Wokanist skill, gasbreath is no longer
+                              disabled and now it works :)~
+Xrakisis~
+Aug 12~
+damage from gasbreath toned down quite a bit.~
+Xrakisis~
+Aug 12~
+now theres a bonus for being grouped. it doesnt
+                              decrease it.~
+Xrakisis~
+Aug 12~
+gasbreath weakened to the point where, when
+                              traveling from 'prisoner' to 'prisoner' some
+                              are too tough for the skill~
+Xrakisis~
+Aug 12~
+three hobgoblins that were in the kobold level
+                              of the dungeon tower were switched over to
+                              kobolds~
+Xrakisis~
+Aug 14~
+now toughskin gives the affected damage reduction
+                              as well as making it so u dont lose arms
+                              from slashing weapons~
+Xrakisis~
+Aug 14~
+now when you buy an item you autoclaim it,
+                              when you sell it it is no longer claimed~
+Xrakisis~
+Aug 14~
+selfsphere info updated~
+Xrakisis~
+Aug 14~
+now int and wis autoimprove~
+Xrakisis~
+Aug 14~
+greatly raised the stats of the Iron Golems
+                              mace, and added an affect~
+Xrakisis~
+Aug 14~
+superberserk is no longer just an opener,
+                              can use it while fighting, and lag reduced~
+Xrakisis~
+Aug 14~
+who now shows racelevel and remortlevel~
+Xrakisis~
+Aug 15~
+Afk no longer has lag~
+Xrakisis~
+Aug 15~
+color and name fixed for the landing on the
+                              tenth level~
+Xrakisis~
+Aug 15~
+Sixteenth Level of Dungeon Tower built.~
+Xrakisis~
+Aug 16~
+changes 0 no longer crashes the mud, thanks
+                              to a line of code from Tijer~
+Xrakisis~
+Aug 16~
+put in a fail-safe, when you type spheresrese
+                              or a part of that it will give u a message
+                              to type the whole command to reset your spheres~
+Xrakisis~
+Aug 16~
+most skills were available while dead, now
+                              they've either been set to position Fighting
+                              or Standing~
+Xrakisis~
+Aug 16~
+now levels autoadvance~
+Xrakisis~
+Aug 16~
+now middys will work while fighting, was a
+                              problem with position~
+Xrakisis~
+Aug 16~
+put in a check for remort 4 and 5 for selfsphere~
+Xrakisis~
+Aug 16~
+put a check in jutsus for which sphere you
+                              have~
+Xrakisis~
+Aug 16~
+now legacy plays a large part in mightrate~
+Xrakisis~
+Aug 16~
+drasticly increased the hours holy aura affects
+                              you~
+Xrakisis~
+Aug 16~
+put in POWER_TICK for the powerwords in update~
+Xrakisis~
+Aug 16~
+now the mud can be started up with gdb~
+Xrakisis~
+Aug 17~
+recalling should be fixed..~
+Xrakisis~
+Aug 17~
+now condition shows in identify~
+Xrakisis~
+Aug 17~
+resistance spell now puts an items toughness
+                              to 100~
+Xrakisis~
+Aug 17~
+ident now shows toughness~
+Xrakisis~
+Aug 17~
+now items that arnt arti or relic are now
+                              created with 100 toughness~
+Tijer~
+Aug 17~
+Exp to next level now shows on score~
+Tijer~
+Aug 17~
+if yer under level 200!~
+Tijer~
+Aug 17~
+Newbies now start at level 1, and remort set
+                              you to level 1~
+Tijer~
+Aug 17~
+you can now more more socialable!~
+Tijer~
+Aug 17~
+Several things WORK now, group exp bonus works,
+                              extra attacks where they should be given
+                              work, and other such stuff (fixed a load
+                              of warnings in the code which should make
+                              stuff work as it should)~
+Tijer~
+Aug 17~
+cosmetic work done to the mud.... to make
+                              it look cleaner~
+Tijer~
+Aug 17~
+Legacy now plays a part in AC~
+Xrakisis~
+Aug 17~
+put in attacks to body parts code, (written
+                              by Akurei for my Cotn2.5 codebase) modified
+                              to work here.~
+Xrakisis~
+Aug 18~
+lowered exp, people levling too fast and high
+                              level mobs giving neg exp...~
+Xrakisis~
+Aug 18~
+when u look at urself, (Damaged) for eq changed.~
+Tijer~
+Aug 18~
+You now START as avatar!! and ability to train
+                              avatar removed!!~
+Tijer~
+Aug 18~
+Decapitation no longer sets you to level Mortal
+                              (will work on some kinda safe form timer
+                              to stop spam cappings)~
+Xrakisis~
+Aug 18~
+weaponenhance and armorenhance taken out of
+                              "racepowers, for a while now just Enchantment
+                              sphere has gotten them~
+Tijer~
+Aug 18~
+You now start as a mortal again, but get set
+                              to avatar level after 5 mkills. If you dont
+                              have a race mobs can now kill you...~
+Xrakisis~
+Aug 19~
+affects like those in bonemod, fangs, claws
+                              etc.. should now stick~
+Xrakisis~
+Aug 19~
+had to put training avatar back in for after
+                              decaps, since if you go out for a smoke for
+                              5-10 min or if theres a copyover and ur taken
+                              out of afk, and put at recall, you could
+                              get capped 100 times before getting back~
+Xrakisis~
+Aug 19~
+every time a weapon, fightstyle or spell color
+                              improves you'll get a message now~
+Xrakisis~
+Aug 19~
+now when u attack a mob it doesnt give you
+                              the "you assume x fighstyle" twice~
+Xrakisis~
+Aug 19~
+now you dont get an 'assumes fightstyle message'
+                              when your already in it. Also if you try
+                              to change your FS to the one your already
+                              in it will say your already in it.~
+Xrakisis~
+Aug 19~
+npc and pc corpses no longer show the damaged
+                              meter~
+Xrakisis~
+Aug 19~
+Holy Avenger changed from Morningstar to Longword~
+Tijer~
+Aug 22~
+Buffer code re-done, will stop spam outs...
+                              i hope!~
+Tijer~
+Aug 22~
+Fixed wordwrapping on this command so that
+                            there is no longer the 2 extra spaces...~
+Tijer~
+Aug 22~
+the board command now scrolls properly, doesnt
+                            get stuck with "no notes on this board"~
+Tijer~
+Aug 22~
+Healing sphere regenerate command now also
+                            regenerates mana and move~
+Tijer~
+Aug 23~
+fixed little annoyance with fightstyles, now
+                            with no argument no longer does it say you
+                            cant set your fight style to that~
+Tijer~
+Aug 23~
+score tidied up some~
+Tijer~
+Aug 23~
+decaps no longer set you mortal, you stay
+                            avatar but get a safetimer set on you!~
+Xrakisis~
+Aug 23~
+put in toughness~
+Xrakisis~
+Aug 24~
+now you get eye color, hair color, skin tone
+                            and build, if you already have a race just
+                            type selfrace to have it set, otherwise will
+                            automaticly set it when u selfrace~
+Xrakisis~
+Aug 25~
+fightstyles now affect mightrate~
+Xrakisis~
+Aug 25~
+Zarius's Religions put in~
+Xrakisis~
+Aug 22~
+now players choose their profession on char
+                            creation~
+Xrakisis~
+Aug 22~
+who is going to read like a sentence.. The
+                            Minotaur soldier of (guild)~
+Xrakisis~
+Aug 25~
+added Knight and Barbarian professions~
+Xrakisis~
+Aug 25~
+added Guilds to creation~
+Xrakisis~
+Aug 25~
+Guilds:Dark Hand, Guardian, Beast, Damned,
+                            Crusaders, Druid,~
+Xrakisis~
+Aug 25~
+worked on who some~
+Xrakisis~
+Aug 25~
+more who tweaks~
+Xrakisis~
+Aug 25~
+raise dead skill given to Dark Hand guild~
+Xrakisis~
+Aug 25~
+made char creation purdy~
+Xrakisis~
+Aug 25~
+made the banner for who fancy~
+Tijer~
+Aug 25~
+tired of getting disconnected (added anti
+                            disconnection from bad router code:P)~
+Xrakisis~
+Aug 25~
+bash given to knights~
+Xrakisis~
+Aug 26~
+put in help guild and help professions~
+Xrakisis~
+Aug 26~
+Thief prof given dirtkick~
+Xrakisis~
+Aug 26~
+gave darkhand perfect sight~
+Xrakisis~
+Aug 26~
+gave assassin impale~
+Xrakisis~
+Sep  7~
+knightshield given to Crusaders guild~
+Xrakisis~
+Sep  7~
+Barbarians given a special rage skill~
+Xrakisis~
+Sep  7~
+small problem with perfectsight fixed~
+Xrakisis~
+Sep  7~
+tpyo fixed in score lagacy -> legacy~
+Xrakisis~
+Sep  7~
+monks given darkblaze~
+Xrakisis~
+Sep  7~
+put in weapon diversity~
+Xrakisis~
+Sep  7~
+weapon diversity help file put in~
+Korax~
+Sep  7~
+Added nicer looking wizhelp.~
+Tijer~
+Sep  8~
+Fixed fightstyles resetting recall when you
+                            drop out of them~
+Tijer~
+Sep  8~
+Fixed display issue with spikes command~
+Xrakisis~
+Sep  8~
+barbarian rage given a timer~
+Xrakisis~
+Sep  8~
+sandman skill given to assassins~
+Xrakisis~
+Sep  8~
+soldier given a weak blink~
+Xrakisis~
+Sep  8~
+now players can choose race during creation~
+Xrakisis~
+Sep  8~
+level command made purdy~
+Xrakisis~
+Sep  9~
+curse given to the guild of the Damned (chance
+                            for web or curse spell)~
+Xrakisis~
+Sep  9~
+put in guardianbless for guardian guild (casts
+                            10 helpful spells on victim)~
+Xrakisis~
+Sep  9~
+eyegouge given to barbarians. supreme blind!
+                            25 percent remove left eye, 25 percent remove
+                            right eye, 50 percent fail. Half the lag
+                            for success. ~
+Xrakisis~
+Sep  9~
+now if someone is missing a left eye, eyegouge
+                            wont try to remove it anyway~
+Xrakisis~
+Sep  9~
+same for right eye btw :P~
+Xrakisis~
+Sep 10~
+beast guild given beastform~
+Xrakisis~
+Sep 10~
+instead of beastform saying the huge beast
+                            it says the ridgid white wolf~
+Xrakisis~
+Sep 10~
+vineforge given to druid guild. it gives a
+                            weapon the ability to strike out in combat
+                            with vines~
+Xrakisis~
+Sep 10~
+started working on guild halls~
+Xrakisis~
+Sep 10~
+Purification given to Beast Guild~
+Xrakisis~
+Sep 10~
+started putting in guild fortress warfare!~
+Xrakisis~
+Sep 10~
+put in garrison command~
+Xrakisis~
+Sep 10~
+fixed garrison command so it displays right~
+Xrakisis~
+Sep 10~
+put in hire command for guilds to hire guards
+                            and soldiers for their forts~
+Xrakisis~
+Sep 10~
+increased Guild fortress layout to 32 rooms~
+Xrakisis~
+Sep 13~
+now how ever many guards are in the guilds
+                            garrison is the only ammount that will load~
+Xrakisis~
+Sep 13~
+put a line break in the dns lookup message~
+Xrakisis~
+Sep 13~
+Guardian fortress built~
+Xrakisis~
+Sep 13~
+Dark Hand Guild Fortress completed~
+Xrakisis~
+Sep 13~
+now only the amount fo Dark Hand guards in
+                            garrison will load~
+Xrakisis~
+Sep 13~
+backed up the code~
+Xrakisis~
+Sep 13~
+brief3 now hides shield blocks~
+Xrakisis~
+Sep 13~
+gold, silver and copper now show up in pstat~
+Xrakisis~
+Sep 13~
+now creepingdoom can be used while fighting~
+Xrakisis~
+Sep 13~
+now dark hand guards attack non-guild members~
+Xrakisis~
+Sep 13~
+same for guardian guards~
+Xrakisis~
+Sep 13~
+clerics given thorns~
+Xrakisis~
+Sep 13~
+vineforge fixed~
+Xrakisis~
+Sep 13~
+grecall put in~
+Xrakisis~
+Nov 16~
+changed no-command message from huh? to #Rmudstat#n
+                            is not a recognized command please type 'commands'
+                            to list them.~
+Xrakisis~
+Nov 30~
+put the muds web page in who~
+Xrakisis~
+Dec  3~
+changed 'name' message in greet and colored
+                            it purdy~
+Xrakisis~
+Dec  3~
+check out the official site for AOH, www.ianshirm.com~
+Xrakisis~
+Dec  4~
+IS_GUILD and IS_PROF worked on~
+Xrakisis~
+Dec  4~
+now in boards it shows if you can read or
+                            write them~
+Xrakisis~
+Dec 22~
+put in my calculator~
+Xrakisis~
+Dec 22~
+IS_PROF and IS_GUILD should be fixed now.~
+Xrakisis~
+Dec 22~
+changed the level of calc to 0~
+Xrakisis~
+Dec 22~
+help AOH put in and help bosses started~
+Xrakisis~
+Dec 27~
+in-depth obj material system in the works,
+                            24 materials so far and now the objects material
+                            shows before the item name~
+Xrakisis~
+Dec 27~
+began the process of seting every object in
+                            the game with their corresponding material
+                            number~
+Xrakisis~
+Dec 27~
+added wool and cloth materials~
+Xrakisis~
+Dec 27~
+put in help materials, updated help AOH~
+Xrakisis~
+Dec 27~
+fixed the format of all the areas to work
+                            with a new variable~
+Xrakisis~
+12/27/2010~
+changed the date format in changes~
+Xrakisis~
+12/27/2010~
+now it shows the three dragonlance moons rising
+                            and colored the rest of the 'day/night' messages~
+Xrakisis~
+12/29/2010~
+dungeon tower and lacynos should be done as
+                            far as setting materials~
+Xrakisis~
+12/29/2010~
+i wrote a destroy command.. this will let
+                            you harvest the material type of an item,
+                            for a fraction of its weight~
+Xrakisis~
+12/29/2010~
+i wrote a materials command, to list the amounts
+                            of raw materials you have~
+Xrakisis~
+01/02/2011~
+now obj->c_material, the variable for components
+                            saves~
+Xrakisis~
+01/03/2011~
+now when you destroy an object that has more
+                            than one material it reimburses you the weight
+                            of each of the materials~
+Xrakisis~
+01/03/2011~
+now each material type, when forged, has its
+                            own affect~
+Xrakisis~
+01/03/2011~
+now all the newbiepack gear has material types~
+Xrakisis~
+01/03/2011~
+updated Motd~
+Xrakisis~
+01/03/2011~
+updated help aoh and made a shop listing help
+                            file~
+Xrakisis~
+01/03/2011~
+now the strength of the 2 materials being
+                            forged is the objects toughness~
+Xrakisis~
+01/03/2011~
+items are no longer autoset toughness 100.
+                            So now the material toughness is what counts~
+Xrakisis~
+01/03/2011~
+worked on help materials some more~
+Xrakisis~
+01/03/2011~
+now you take less damage if the wear location
+                            has a strong piece of armor on it~
+Xrakisis~
+01/03/2011~
+i lowered legacy substantialy~
+Xrakisis~
+01/04/2011~
+now materials command shows the weight of
+                            the material needed to be able to forge~
+Xrakisis~
+01/04/2011~
+put in cprime~
+Xrakisis~
+01/04/2011~
+aligned materials command~
+Xrakisis~
+01/04/2011~
+shops worked on in the Marketplace~
+Xrakisis~
+01/04/2011~
+put in beast fortress ~
+Xrakisis~
+01/04/2011~
+put in the specials for the guild mobs~
+Xrakisis~
+01/05/2011~
+fixed human race showing up as centaur in
+                            who~
+Xrakisis~
+01/05/2011~
+put in some defines to make modifiying weight
+                            easier, LB_GEM 1, LB_OTHER 2, LB_METAL 5~
+Xrakisis~
+01/05/2011~
+put in the affects of all the forgeable materials
+                            in the materials command~
+Xrakisis~
+01/05/2011~
+now there are three sets of defines for materials.
+                            copper for excample:M_COPPER for 1,2,3,4.
+                            C_COPPER for bits, 2,4,8 and T_COPPER for
+                            the toughness that should be applied to the
+                            forged item~
+Xrakisis~
+01/05/2011~
+added 'the object toughness applied' to the
+                            materials command.. find the 2 materials
+                            your going to forge, then add the toughness
+                            numbers.. its good to get the result as clost
+                            to 100 as possible~
+Xrakisis~
+01/11/2011~
+put in mix command to make alloys~
+Xrakisis~
+01/11/2011~
+put in alloys command to view amounts of alloys~
+Xrakisis~
+01/11/2011~
+updated help material for the new ones~
+Xrakisis~
+01/11/2011~
+created an object for all the new materials
+                            in the shops~
+Xrakisis~
+01/11/2011~
+help bosses fixed~
+Xrakisis~
+01/11/2011~
+help shop updated~
+Xrakisis~
+01/11/2011~
+help materials updated~
+Xrakisis~
+01/11/2011~
+aligned materials~
+Xrakisis~
+01/11/2011~
+cleaned up materials~
+Xrakisis~
+01/11/2011~
+now when u use gasbreath if they live they
+                            attack back~
+Xrakisis~
+01/11/2011~
+gasbreath wont work now if a room is safe~
+Xrakisis~
+01/13/2011~
+finished mix command~
+Xrakisis~
+01/13/2011~
+now steel, brass and bronze are under alloys
+                            command not materials command~

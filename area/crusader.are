@@ -1,0 +1,517 @@
+#AREADATA
+Name        Crusaders Fortress~
+Builders    Xrakisis~
+Music       default.mid~
+VNUMs       202200 202299
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#202201
+Crusaders defender~
+#0A Crusaders Protector#n~
+#0A Crusaders Protector is here.#n
+~
+~
+1 0 0
+22 0 0 0
+2 0
+S
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#202201
+#0Center of Crusaders Fortress#n~
+~
+0 0
+D0
+~
+~
+0 0 202203
+D1
+~
+~
+0 0 202204
+D2
+~
+~
+0 0 202205
+D3
+~
+~
+0 0 202202
+S
+#202202
+#0West path through fortress#n~
+~
+0 0
+D1
+~
+~
+0 0 202201
+D3
+~
+~
+0 0 202207
+S
+#202203
+#0North path through forest#n~
+~
+0 0
+D0
+~
+~
+0 0 202208
+D2
+~
+~
+0 0 202201
+S
+#202204
+#0East path through forest#n~
+~
+0 0
+D1
+~
+~
+0 0 202209
+D3
+~
+~
+0 0 202201
+S
+#202205
+#0South path through forest#n~
+~
+0 0
+D0
+~
+~
+0 0 202201
+D2
+~
+~
+0 0 202206
+S
+#202206
+#0South path through forest#n~
+~
+0 0
+D0
+~
+~
+0 0 202205
+D2
+~
+~
+0 0 202213
+S
+#202207
+#0West path through forest#n~
+~
+0 0
+D1
+~
+~
+0 0 202202
+D3
+~
+~
+0 0 202211
+S
+#202208
+#0North path through forest#n~
+~
+0 0
+D0
+~
+~
+0 0 202212
+D2
+~
+~
+0 0 202203
+S
+#202209
+#0East path through forest#n~
+~
+0 0
+D1
+~
+~
+0 0 202210
+D3
+~
+~
+0 0 202204
+S
+#202210
+#0East Gate#n~
+~
+0 0
+D0
+~
+~
+0 0 202223
+D2
+~
+~
+0 0 202224
+D3
+~
+~
+0 0 202209
+S
+#202211
+#0West Gate#n~
+~
+0 0
+D0
+~
+~
+0 0 202218
+D1
+~
+~
+0 0 202207
+D2
+~
+~
+0 0 202233
+S
+#202212
+#0North Gate#n~
+~
+0 0
+D1
+~
+~
+0 0 202219
+D2
+~
+~
+0 0 202208
+D3
+~
+~
+0 0 202214
+S
+#202213
+#0South Gate#n~
+~
+0 0
+D0
+~
+~
+0 0 202206
+D1
+~
+~
+0 0 202228
+D3
+~
+~
+0 0 202229
+S
+#202214
+#0North Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 202212
+D3
+~
+~
+0 0 202215
+S
+#202215
+#0North Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 202214
+D3
+~
+~
+0 0 202216
+S
+#202216
+#0North-West Corner#n~
+~
+0 0
+D1
+~
+~
+0 0 202215
+D2
+~
+~
+0 0 202217
+S
+#202217
+#0West Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 202216
+D2
+~
+~
+0 0 202218
+S
+#202218
+#0West Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 202217
+D2
+~
+~
+0 0 202211
+S
+#202219
+#0North Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 202220
+D3
+~
+~
+0 0 202212
+S
+#202220
+#0North Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 202221
+D3
+~
+~
+0 0 202219
+S
+#202221
+#0North-East Corner#n~
+~
+0 0
+D2
+~
+~
+0 0 202222
+D3
+~
+~
+0 0 202220
+S
+#202222
+#0East Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 202221
+D2
+~
+~
+0 0 202223
+S
+#202223
+#0East Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 202222
+D2
+~
+~
+0 0 202210
+S
+#202224
+#0East Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 202210
+D2
+~
+~
+0 0 202225
+S
+#202225
+#0East Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 202224
+D2
+~
+~
+0 0 202226
+S
+#202226
+#0South-East Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 202225
+D3
+~
+~
+0 0 202227
+S
+#202227
+#0South Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 202226
+D3
+~
+~
+0 0 202228
+S
+#202228
+#0South Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 202227
+D3
+~
+~
+0 0 202213
+S
+#202229
+#0South Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 202213
+D3
+~
+~
+0 0 202230
+S
+#202230
+#0South Fortress Wall#n~
+~
+0 0
+D1
+~
+~
+0 0 202229
+D3
+~
+~
+0 0 202231
+S
+#202231
+#0South-West Corner#n~
+~
+0 0
+D0
+~
+~
+0 0 202232
+D1
+~
+~
+0 0 202230
+S
+#202232
+#0West Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 202233
+D2
+~
+~
+0 0 202231
+S
+#202233
+#0West Fortress Wall#n~
+~
+0 0
+D0
+~
+~
+0 0 202211
+D2
+~
+~
+0 0 202232
+S
+#0
+
+
+
+#SPECIALS
+M 202201 spec_guard_crusaders
+S
+
+
+
+#RESETS
+M 0 202201 50 202201
+M 0 202201 50 202201
+M 0 202201 50 202201
+M 0 202201 50 202210
+M 0 202201 50 202210
+M 0 202201 50 202210
+M 0 202201 50 202211
+M 0 202201 50 202211
+M 0 202201 50 202211
+M 0 202201 50 202212
+M 0 202201 50 202212
+M 0 202201 50 202212
+M 0 202201 50 202213
+M 0 202201 50 202213
+M 0 202201 50 202213
+S
+
+
+
+#$

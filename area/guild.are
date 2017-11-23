@@ -1,0 +1,124 @@
+#AREADATA
+Name        Guild Halls~
+Builders    Xrakisis~
+Music       default.mid~
+VNUMs       5001 5100
+Cvnum       0
+Security    1
+Areabits    0
+End
+
+
+
+#MOBILES
+#5006
+guardian healer~
+#0Guardian Healer#n~
+#0The Guardian Healer is here.#n
+~
+~
+3 0 1000
+2000 100 10 3
+1 0
+S
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMDATA
+#5001
+#0Entrance to Guardian Guild Hall#n~
+~
+0 0
+D1
+~
+~
+0 0 2008
+D3
+~
+~
+0 0 5002
+S
+#5002
+#0Foyer of Guardian guild hall#n~
+~
+0 0
+D0
+~
+~
+0 0 5003
+D1
+~
+~
+0 0 5001
+D2
+~
+~
+0 0 5005
+D3
+~
+~
+0 0 5004
+S
+#5003
+#0Guardian Protector room#n~
+~
+0 0
+D2
+~
+~
+0 0 5002
+S
+#5004
+#0Hallway in Guardian Guild Hall#n~
+~
+0 0
+D1
+~
+~
+0 0 5002
+D3
+~
+~
+0 0 5006
+S
+#5005
+#0Guardian Protector room#n~
+~
+0 0
+D0
+~
+~
+0 0 5002
+S
+#5006
+#0Guardian Sanctuary#n~
+~
+0 0
+D1
+~
+~
+0 0 5004
+S
+#0
+
+
+
+#SPECIALS
+Z 5006 shopspec_healer
+S
+
+
+
+#RESETS
+M 0 5006 1 5006
+S
+
+
+
+#$

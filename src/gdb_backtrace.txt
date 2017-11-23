@@ -1,0 +1,11 @@
+0x080b0010 in str_cmp (astr=0x20657469 <Address 0x20657469 out of bounds>, bstr=0x8136a84 "pierce") at db.c:2487
+2487      for (; *astr || *bstr; astr++, bstr++)
+(gdb) bt
+#0  0x080b0010 in str_cmp (astr=0x20657469 <Address 0x20657469 out of bounds>, bstr=0x8136a84 "pierce") at db.c:2487
+#1  0x0809ccba in one_hit (ch=0x40631bd0, victim=0x405a9e28, dt=1014, handtype=4) at fight.c:1072
+#2  0x0809afa8 in multi_hit (ch=0x40631bd0, victim=0x405a9e28, dt=-1) at fight.c:339
+#3  0x080a4edc in do_kill (ch=0x40631bd0, argument=0x4062d82a "merc") at fight.c:3480
+#4  0x080b1e63 in interpret (ch=0x40631bd0, argument=0x4062d82a "merc") at interp.c:1103
+#5  0x080e7b2f in game_loop_unix (control=7) at comm.c:853
+#6  0x080e7485 in main (argc=2, argv=0xbffff754) at comm.c:466
+(gdb) q
